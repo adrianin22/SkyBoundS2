@@ -4,8 +4,9 @@ Modpack for Skybound SMP Season 2. NeoForge 1.21.1.
 
 ## Install
 
-1. Download the latest `SkyboundS2.mrpack` from the **Releases** page:
-   https://codeberg.org/SkyBoundSMPS2/SkyboundS2/releases/latest
+1. Download the latest `SkyboundS2.mrpack` from the **Releases** tab:
+   https://codeberg.org/SkyBoundSMPS2/SkyboundS2/releases
+   (direct link to current: `releases/download/v1.1/SkyboundS2.mrpack`)
 2. In Prism Launcher: Add Instance, Import, select the `.mrpack`.
    (Also works in the Modrinth App: Add content from file.)
 3. Prism downloads Minecraft 1.21.1, NeoForge 21.1.235, and the mods automatically.
