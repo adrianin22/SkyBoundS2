@@ -1,0 +1,1 @@
+Season 2 is live. New in game updater menu plus Create Gunsmithing, Unlocked Void Sea, weather and more. Slabbed removed.
