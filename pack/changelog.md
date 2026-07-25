@@ -1,7 +1,8 @@
-# Skybound SMP Season 2, v1.2
-
-## Removed
-- Waterworks. Its per-frame Sable ship compartment scanning (CompartmentDetector / ShipTracker) ran on the render thread and caused heavy FPS drops when near or inside sublevels.
+# Skybound SMP Season 2, v1.3
 
 ## Added
-- Controlling. Adds a search bar and keybind conflict detection to the Controls screen.
+- Sable Photomancy (Sable Schematic Tool). Capture and place schematics of Sable sub-levels and ships.
+
+## Removed
+- BBE (Better Block Entities), a client-side render mod.
+- Observable, a client-side profiler.
