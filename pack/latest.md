@@ -1,1 +1,1 @@
-v1.2: removed Waterworks (fixes the FPS lag near Sable sublevels) and added Controlling (search and conflict detection in the Controls screen).
+v1.3: added Sable Photomancy (schematic tool for Sable ships). Removed BBE and Observable.
