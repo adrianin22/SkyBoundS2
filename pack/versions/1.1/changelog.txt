@@ -1,0 +1,19 @@
+Skybound SMP Season 2, v1.1
+
+Big content update.
+
+Highlights:
+- Biomes O' Plenty, but only the Visceral Heap biome generates, and only in the Nether
+- ChoiceTheorem's Overhauled Villages
+- Enderscape, a reworked End
+- Towers of the Wild and Moog's structures
+- Macaw's suite: doors, windows, roofs, bridges, furniture, lights, fences, paths, stairs, trapdoors
+- Twigs, Handcrafted, Immersive Armors, Trimmed, Diagonal Fences and Windows
+- Wan's Ancient Beasts
+- Create Jetpack and Train Utilities
+- Performance and client visual mods
+
+Removed:
+- Mod Menu
+- MTR
+- Roadweaver, ScalableLux, and Async (incompatible with Sable or the dedicated server)
