@@ -1,1 +1,2 @@
 # archivos a borrar en updates, un path relativo por linea (mods/ kubejs/ resourcepacks/)
+mods/waterworks-1.1.2.jar
