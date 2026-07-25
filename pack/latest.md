@@ -1,1 +1,1 @@
-v1.3: added Sable Photomancy (schematic tool for Sable ships). Removed BBE and Observable.
+v1.3: added Sable Photomancy and Aeronautics Camera Sync. Removed BBE and Observable.
