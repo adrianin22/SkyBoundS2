@@ -1,15 +1,21 @@
-# Skybound SMP Season 2, v1.0
+# Skybound SMP Season 2, v1.1
 
-Season 2 launch. Fresh world, updated pack.
+Big content update. New worldgen, structures, decoration, and quality of life.
 
 ## Highlights
-- In game updater menu (FancyMenu), grab future updates straight from the main menu
-- Create Gunsmithing
-- Unlocked Void Sea
-- Weather2 and Tornado Physics
-- Goonie Sanders Local Expanders
-- Precise Manufacturing datapack
+- Biomes O' Plenty, but only the Visceral Heap biome generates, and only in the Nether
+- ChoiceTheorem's Overhauled Villages
+- Enderscape, a reworked End
+- Towers of the Wild and Moog's structures
+- Macaw's suite: doors, windows, roofs, bridges, furniture, lights, fences, paths, stairs, trapdoors
+- Twigs, Handcrafted, Immersive Armors, Trimmed
+- Diagonal Fences and Diagonal Windows
+- Wan's Ancient Beasts
+- Create Jetpack and Train Utilities
+- Performance: Saturn, Redirected, Lightspeed, FerriteCore, and more
+- Client visuals: AmbientSounds, Better Grass, Sodium Extra, Skin Layers 3D, and more
 
 ## Removed
-- Slabbed, it broke interaction with assembled Sable sublevels
-- Create Clothes
+- Mod Menu
+- MTR
+- Roadweaver, ScalableLux, and Async, all incompatible with the Sable physics engine or the dedicated server
