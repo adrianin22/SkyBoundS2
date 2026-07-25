@@ -1,1 +1,1 @@
-v1.1 is live. Biomes O' Plenty (Visceral Heap only, Nether), overhauled villages, Enderscape, Macaw's suite, Wan's Ancient Beasts, and more. MTR and Mod Menu removed.
+v1.2: removed Waterworks (fixes the FPS lag near Sable sublevels) and added Controlling (search and conflict detection in the Controls screen).
