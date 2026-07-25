@@ -1,19 +1,22 @@
 Skybound SMP Season 2, v1.1
 
-Big content update.
+Big content update, and a fresh world.
+
+World:
+- Fresh world, new worldgen and structures generate from spawn
 
 Highlights:
-- Biomes O' Plenty, but only the Visceral Heap biome generates, and only in the Nether
+- Biomes O' Plenty (Visceral Heap only, in the Nether)
+- Create: Northstar Redux replaces Cosmonautics, plus Aeronautics compatibility bridge and Northstar structures
 - ChoiceTheorem's Overhauled Villages
 - Enderscape, a reworked End
 - Towers of the Wild and Moog's structures
-- Macaw's suite: doors, windows, roofs, bridges, furniture, lights, fences, paths, stairs, trapdoors
+- Macaw's suite (doors, windows, roofs, bridges, furniture, lights, fences, paths, stairs, trapdoors)
 - Twigs, Handcrafted, Immersive Armors, Trimmed, Diagonal Fences and Windows
-- Wan's Ancient Beasts
-- Create Jetpack and Train Utilities
+- Wan's Ancient Beasts, Create Jetpack, Train Utilities
 - Performance and client visual mods
 
 Removed:
+- Cosmonautics (replaced by Northstar Redux)
 - Mod Menu
 - MTR
-- Roadweaver, ScalableLux, and Async (incompatible with Sable or the dedicated server)
