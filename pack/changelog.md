@@ -1,5 +1,4 @@
-# Skybound SMP Season 2, v1.4
+# Skybound SMP Season 2, v1.5
 
 ## Removed
-- Voxy (distant terrain LOD renderer) and Voxy Auto LOD (voxy_server_lod).
-  Removed to cut client RAM usage and server per-tick LOD work.
+- Aeronautics Camera Sync (aero_cam_sync). Removed due to a camera/wind bug.
