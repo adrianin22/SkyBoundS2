@@ -1,1 +1,1 @@
-v1.7: Create-centric progression. Mekanism, Immersive Engineering, Oritech and TACZ are now gated behind Create; TACZ guns rebalanced into 8 Create-powered tiers.
+v1.8: Reworked Create gate crafts (original + Create, unique per machine, no duplicates; removed unobtainable Create items). Added Create: More Girder, Tiny Redstone, TreeChop, Droingo's Harpoons, Rechiseled + Rechiseled: Create.
