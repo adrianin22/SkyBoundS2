@@ -2,3 +2,5 @@
 mods/waterworks-1.1.2.jar
 mods/observable-5.4.4.jar
 mods/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar
+mods/voxy-0.2.15-beta-ff9b80ac.jar
+mods/voxy_server_lod-1.1.4.jar
