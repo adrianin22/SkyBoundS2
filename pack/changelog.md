@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v1.7
+
+## Added
+- Create-centric progression overhaul. Mekanism, Immersive Engineering, Oritech and TACZ are now gated behind Create.
+- New KubeJS gate items (reinforced, industrial and singularity cores) built with large mechanical crafting.
+- Machine recipes for the gated mods now require the matching Create core of their tier.
+- Ore processing rerouted through Create: gated machines consume Create crushed ores instead of raw ore.
+- TACZ guns rebalanced into 8 power tiers, each requiring Create materials scaled by the gun's power.
+- Added mods: KubeJS Mekanism, KubeJS Mekanism Extends, TaCZ JS.
+
 # Skybound SMP Season 2, v1.6
 
 ## Removed
