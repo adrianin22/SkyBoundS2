@@ -1,1 +1,1 @@
-v1.4: removed Voxy and Voxy Auto LOD (lower client RAM, less server load).
+v1.5: removed Aeronautics Camera Sync (buggy camera/wind).
