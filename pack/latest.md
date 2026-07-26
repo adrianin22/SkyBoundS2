@@ -1,1 +1,1 @@
-v1.3: added Sable Photomancy, Aeronautics Camera Sync and Mouse Tweaks. Removed BBE and Observable.
+v1.4: removed Voxy and Voxy Auto LOD (lower client RAM, less server load).
