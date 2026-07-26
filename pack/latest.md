@@ -1,1 +1,1 @@
-v1.5: removed Aeronautics Camera Sync (buggy camera/wind).
+v1.6: removed Enderscape (End content mod).
