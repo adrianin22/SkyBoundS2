@@ -1,1 +1,1 @@
-v1.11: Create progression overhaul. Every gated Mekanism and Immersive Engineering machine now has a unique recipe built through Create, with new tier cores, role modules and signature alloy materials. Top-tier machines demand rare endgame loot, and ore doubling must pass through Create crushing first.
+v1.12: Removed Drippy Loading Screen, HoloMap, Sable Photomancy, Towers of the Wild: Modded, Wan's Ancient Beasts and Concentration. Added Borderless Window (client borderless fullscreen).
