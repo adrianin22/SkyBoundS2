@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.15
+
+## Fixed
+- Fixed the server error when right-clicking a Create: Radar Monitor block (swapped to a build with the dedicated-server and Sable compatibility fixes).
+
 # Skybound SMP Season 2, v1.14
 
 ## Changed
