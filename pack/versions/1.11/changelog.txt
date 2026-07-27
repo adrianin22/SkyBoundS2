@@ -1,0 +1,6 @@
+## Changed, Create progression overhaul
+- Every gated tech machine (Mekanism, Immersive Engineering) now has a UNIQUE recipe. The old shared filler is gone, so no two machines craft the same way anymore.
+- New progression parts: tier cores, role modules and branch signature materials (Infused / Reinforced / Atomic Alloy Matrix, Engineered Circuit Board, Heavy Field Coil), most built through multi-step Create assembly.
+- The Mekanism alloy line now runs through Create: alloys feed the signature matrices, and Infused Alloy now needs a pressed copper sheet to start.
+- Top-tier machines demand rare endgame materials (Nether Stars, Netherite blocks, Echo Shards, Dragon's Breath, End Crystals and more), varied per machine.
+- Ore doubling must go through Create crushing first, and the Mekanism raw-block shortcut was removed, so ore processing is no longer trivial.
