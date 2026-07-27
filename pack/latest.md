@@ -1,1 +1,1 @@
-v1.9: Added Psi (+Patchouli), Tiny Gates, Tiny Create. Swapped Create: Northstar back to Create: Cosmonautics. Weather2 storms rarer and gentler on physics objects. Removed Oritech and Sable Destructive. Fixed a duplicate Forgified Fabric API that blocked joining.
+v1.10: Added MineMenu (client radial menu). Wind pushes physics sub-levels much less at ground level, surface friction now reaches up to Y 120, so builds on terrain and mountains stay put and only vehicles above that height catch real wind.
