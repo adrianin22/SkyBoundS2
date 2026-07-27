@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.10
+
+## Added
+- MineMenu, a client radial menu for keybinds, commands, and quick actions.
+
+## Changed
+- Wind now pushes physics sub-levels much less at ground level. Surface friction reaches up to Y 120 so builds sitting on terrain or on mountains stay put; only vehicles that climb above that height catch real wind. Hull drag and the wind acceleration cap were also lowered.
+
 # Skybound SMP Season 2, v1.9
 
 ## Added
