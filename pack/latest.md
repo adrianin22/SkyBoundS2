@@ -1,1 +1,1 @@
-v1.10: Added MineMenu (client radial menu). Wind pushes physics sub-levels much less at ground level, surface friction now reaches up to Y 120, so builds on terrain and mountains stay put and only vehicles above that height catch real wind.
+v1.11: Create progression overhaul. Every gated Mekanism and Immersive Engineering machine now has a unique recipe built through Create, with new tier cores, role modules and signature alloy materials. Top-tier machines demand rare endgame loot, and ore doubling must pass through Create crushing first.
