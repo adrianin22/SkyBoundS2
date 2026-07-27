@@ -7,9 +7,9 @@ mods/oritech-neoforge-1.21.1-1.2.9.jar
 mods/oritechthings-0.0.44.jar
 mods/sabledestructive-2.1.0.jar
 kubejs/server_scripts/skybound_30_oritech.js
-mods/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar
 mods/holomap-1.1.0.jar
 mods/sable-photomancy-1.0.0.jar
 mods/totw_modded-neoforge-1.21-1.0.9.jar
 mods/wab-1.21.1-1.3.2.jar
 mods/concentration-neoforge-1.21-2.3.0.jar
+mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar
