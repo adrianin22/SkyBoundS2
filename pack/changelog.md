@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.12
+
+## Removed
+- Drippy Loading Screen (client), HoloMap, Sable Photomancy, Towers of the Wild: Modded, Wan's Ancient Beasts and Concentration.
+
+## Added
+- Borderless Window (client), a borderless fullscreen mode with no flicker when alt-tabbing.
+
 # Skybound SMP Season 2, v1.11
 
 ## Changed, Create progression overhaul
