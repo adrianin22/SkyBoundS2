@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v1.9
+
+## Added
+- Psi (magic tech spellcasting), with Patchouli
+- Tiny Gates
+- Tiny Create (bridges Tiny Redstone with Create's analog components)
+
+## Changed
+- Space content now runs on Create: Cosmonautics again (Create: Northstar and its bridge were removed).
+- Weather2 storms are less frequent and their wind pushes physics sub-levels less.
+- Fixed a duplicated Forgified Fabric API that could block joining the server.
+
+## Removed
+- Oritech and its Create gate recipes
+- Sable Destructive
+
 # Skybound SMP Season 2, v1.8
 
 ## Changed
