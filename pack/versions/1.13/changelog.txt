@@ -1,0 +1,8 @@
+## Fixed
+- Fixed the crash on the title screen (removed Borderless Window, it conflicted with the custom menu).
+- Wind no longer lifts loose blocks or shoves builds sitting on the ground during storms. Ground wind was toned down further.
+
+## Changed
+- Re-added the loading screen so the main menu only appears once everything (including the custom menu) is fully loaded.
+- Create progression overhaul v2: gated machine recipes now ADAPT to each machine. Ingredients depend on what the machine does (grinding, fluids, logic, power, transport) and on how powerful it is, using a much wider range of Create parts. Stronger machines demand rarer endgame materials.
+- Signature alloy matrices are now made through different Create processes (mixing, compacting, sequenced assembly) instead of one.
