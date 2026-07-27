@@ -1,1 +1,1 @@
-v1.12: Removed Drippy Loading Screen, HoloMap, Sable Photomancy, Towers of the Wild: Modded, Wan's Ancient Beasts and Concentration. Added Borderless Window (client borderless fullscreen).
+v1.13: Fixed the title-screen crash and restored the loading screen. Wind no longer moves loose blocks or grounded builds. Create progression overhaul: machine recipes now adapt to each machine's function and power, with a wider Create palette and rarer endgame materials.
