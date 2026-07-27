@@ -1,1 +1,1 @@
-v1.8: Reworked Create gate crafts (original + Create, unique per machine, no duplicates; removed unobtainable Create items). Added Create: More Girder, Tiny Redstone, TreeChop, Droingo's Harpoons, Rechiseled + Rechiseled: Create.
+v1.9: Added Psi (+Patchouli), Tiny Gates, Tiny Create. Swapped Create: Northstar back to Create: Cosmonautics. Weather2 storms rarer and gentler on physics objects. Removed Oritech and Sable Destructive. Fixed a duplicate Forgified Fabric API that blocked joining.
