@@ -1,1 +1,1 @@
-v1.13: Fixed the title-screen crash and restored the loading screen. Wind no longer moves loose blocks or grounded builds. Create progression overhaul: machine recipes now adapt to each machine's function and power, with a wider Create palette and rarer endgame materials.
+v1.14: Reworked the crafting recipe scripts and removed the experimental Create-gated machine progression. Machine recipes are back to their standard form.
