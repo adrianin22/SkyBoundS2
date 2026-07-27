@@ -20,3 +20,4 @@ kubejs/server_scripts/skybound_20_ie.js
 kubejs/server_scripts/skybound_40_tacz.js
 kubejs/startup_scripts/skybound_gate_items.js
 kubejs/startup_scripts/skybound_tacz_recipes.js
+mods/create_radar-0.4.9.4-1.21.1.jar
