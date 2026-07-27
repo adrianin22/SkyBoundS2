@@ -1,0 +1,2 @@
+## Fixed
+- Fixed the server error when right-clicking a Create: Radar Monitor block (swapped to a build with the dedicated-server and Sable compatibility fixes).
