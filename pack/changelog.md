@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.14
+
+## Changed
+- Reworked the KubeJS recipe scripts across the pack.
+- Removed the experimental Create-gated machine progression. Machine recipes are back to their standard form.
+
 # Skybound SMP Season 2, v1.13
 
 ## Fixed
