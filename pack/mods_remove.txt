@@ -18,3 +18,4 @@ mods/sable-dynamic-lights-1.21.1-1.0.0.jar
 mods/weather2-neoforge-1.21.0-2.8.7.jar
 mods/tornadophysics-1.0.3.jar
 mods/xercamusic-neoforge-1.21.1-1.2.1.jar
+mods/overatingplus-21.1.2.0.jar
