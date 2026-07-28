@@ -1,6 +1,2 @@
-## Added
-- Puddles & Floods: rain now pools into puddles and can cause light flooding.
-- Immersive Aircraft plus the Better Engines, Civilian Aviation and Man of Many Planes addons, restyled to fit Create via the Create Immersive Aircrafts resource pack and matching recipe overhaul (Create-themed recipes and textures for every aircraft).
-- Immersive Furniture: build custom furniture and decor in-game.
-- Immersive Vehicles plus Create: Automotives (Create-powered cars) and the official traffic Sign Pack.
-- Create: Compact Gearbox Transmission: compact multi-ratio gearboxes with manual and wireless shifting.
+## Fixed
+- Fixed the KubeJS startup crash on dedicated servers and the startup/client error screens: the plutonium/polonium pellet food tweak (item.foodProperties), the JEI item hiding (JEIEvents) and a client lang call all used APIs removed in the current KubeJS. Ported the food tweak to modifyFood, guarded the JEI hooks so they no longer error, and dropped the obsolete lang call.
