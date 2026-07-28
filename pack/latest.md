@@ -1,1 +1,1 @@
-v1.17: Added Puddles & Floods, the Immersive Aircraft/Vehicles families with Create-styled content, Immersive Furniture, and Create: Compact Gearbox Transmission.
+v1.16: Fixed the KubeJS startup errors (custom Mekanism chemicals, Artificial Void fluid and Stellarite blocks).
