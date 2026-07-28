@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v1.18
+
+## Added
+- **Immersive Aircraft** 1.4.6 - flyable planes, biplanes and airships.
+- **Immersive Vehicles** 24.0.0 - drivable vehicles (formerly MTS).
+- **Immersive Furniture** 0.3.0 - craftable decorative furniture.
+- **Create Compact Gearbox** 1.0.2 - compact gearbox for Create builds.
+
+These are required by the server, so this update lets everyone connect again.
+
 # Skybound SMP Season 2, v1.17
 
 ## Fixed
