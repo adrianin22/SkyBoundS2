@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.16
+
+## Fixed
+- Fixed the KubeJS startup errors on the main menu. The custom Mekanism chemicals (Helium-3, Refined/Unrefined Stellarite, the silica and rare-metal slurries), the Artificial Void fluid and the Stellarite blocks were using an old KubeJS/Mekanism API that no longer exists on the current versions, so they failed to register and their recipes were broken. Rewritten against the current Chemical registry.
+
 # Skybound SMP Season 2, v1.17
 
 ## Added
