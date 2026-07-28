@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.17
+
+## Fixed
+- Fixed the KubeJS startup crash on dedicated servers and the startup/client error screens: the plutonium/polonium pellet food tweak (item.foodProperties), the JEI item hiding (JEIEvents) and a client lang call all used APIs removed in the current KubeJS. Ported the food tweak to modifyFood, guarded the JEI hooks so they no longer error, and dropped the obsolete lang call.
+
 # Skybound SMP Season 2, v1.16
 
 ## Fixed
