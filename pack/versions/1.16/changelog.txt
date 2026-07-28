@@ -1,3 +1,2 @@
-## Added
-- Respawning Structures: dungeons and structures regenerate automatically after a set time, so groups can farm the same dungeon again instead of it staying looted forever.
-- Terrain Slabs: smoother terrain generation using slabs (new chunks only, does not affect already-generated terrain). Includes an optional bundled resource pack for alternative grass-slab textures, enable it yourself in Options > Resource Packs if you want it.
+## Fixed
+- Fixed the KubeJS startup errors on the main menu. The custom Mekanism chemicals (Helium-3, Refined/Unrefined Stellarite, the silica and rare-metal slurries), the Artificial Void fluid and the Stellarite blocks were using an old KubeJS/Mekanism API that no longer exists on the current versions, so they failed to register and their recipes were broken. Rewritten against the current Chemical registry.
