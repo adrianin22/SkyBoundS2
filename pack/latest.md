@@ -1,1 +1,1 @@
-v1.15: Fixed the server error when interacting with Create: Radar Monitor blocks.
+v1.16: Added Respawning Structures (dungeons regenerate over time) and Terrain Slabs (smoother terrain gen).
