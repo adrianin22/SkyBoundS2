@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.22
+
+## Removed
+- **Overeating** - not compatible with dedicated servers (crashed on load).
+
 # Skybound SMP Season 2, v1.21
 
 ## Removed
