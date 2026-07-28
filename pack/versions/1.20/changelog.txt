@@ -1,0 +1,18 @@
+## Added
+- **Overeating** - oversaturation system with fat armor and perks.
+- **Music Maker** - craftable instruments, sheets and multiplayer bands.
+- **Create: Immersive TaCZ Integration** - craft TaCZ guns and ammo through Create.
+- **MoreTraffic** + **TrafficCraft** - programmable traffic infrastructure and decorations.
+- **Contraption Lights** - dynamic lighting on Create contraptions and Sable sub-levels.
+- **CustomNPCs** - in-game NPC creator with dialogue, quests and trading.
+- **ProtoManly's Weather** + Aeronautics compat + **PMShaders** - realistic weather and tornadoes.
+- **Aeronautics Camera Sync** - camera tilts with Aeronautics contraptions.
+- **Storage Drawers** + Create compat - drawers that mount on contraptions.
+- **Emotecraft** - player emotes.
+
+## Removed
+- **Sable Dynamic Lights** - replaced by Contraption Lights.
+- **Weather2** and **Tornado Physics** - replaced by ProtoManly's Weather.
+
+## Changed
+- Restored the Create-progression crafting: Mekanism, Immersive Engineering and TaCZ are gated behind Create cores again.
