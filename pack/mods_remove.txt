@@ -13,11 +13,7 @@ mods/totw_modded-neoforge-1.21-1.0.9.jar
 mods/wab-1.21.1-1.3.2.jar
 mods/concentration-neoforge-1.21-2.3.0.jar
 mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar
-kubejs/server_scripts/skybound_00_cores.js
-kubejs/server_scripts/skybound_10_mekanism.js
-kubejs/server_scripts/skybound_11_mekanism_ore.js
-kubejs/server_scripts/skybound_20_ie.js
-kubejs/server_scripts/skybound_40_tacz.js
-kubejs/startup_scripts/skybound_gate_items.js
-kubejs/startup_scripts/skybound_tacz_recipes.js
 mods/create_radar-0.4.9.4-1.21.1.jar
+mods/sable-dynamic-lights-1.21.1-1.0.0.jar
+mods/weather2-neoforge-1.21.0-2.8.7.jar
+mods/tornadophysics-1.0.3.jar
