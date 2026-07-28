@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.21
+
+## Removed
+- **Music Maker** - removed by request.
+
 # Skybound SMP Season 2, v1.20
 
 ## Added
