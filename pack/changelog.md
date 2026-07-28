@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v1.17
+
+## Added
+- Puddles & Floods: rain now pools into puddles and can cause light flooding.
+- Immersive Aircraft plus the Better Engines, Civilian Aviation and Man of Many Planes addons, restyled to fit Create via the Create Immersive Aircrafts resource pack and matching recipe overhaul (Create-themed recipes and textures for every aircraft).
+- Immersive Furniture: build custom furniture and decor in-game.
+- Immersive Vehicles plus Create: Automotives (Create-powered cars) and the official traffic Sign Pack.
+- Create: Compact Gearbox Transmission: compact multi-ratio gearboxes with manual and wireless shifting.
+
 # Skybound SMP Season 2, v1.16
 
 ## Added
