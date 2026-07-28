@@ -1,1 +1,1 @@
-v1.16: Fixed the KubeJS startup errors (custom Mekanism chemicals, Artificial Void fluid and Stellarite blocks).
+v1.17: Fixed the remaining KubeJS startup and client script errors (food tweak, JEI hiding, lang).
