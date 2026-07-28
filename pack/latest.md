@@ -1,1 +1,1 @@
-v1.16: Added Respawning Structures (dungeons regenerate over time) and Terrain Slabs (smoother terrain gen).
+v1.17: Added Puddles & Floods, the Immersive Aircraft/Vehicles families with Create-styled content, Immersive Furniture, and Create: Compact Gearbox Transmission.
