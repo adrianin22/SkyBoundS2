@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.19
+
+## Added
+- **Civilian Aviation** 1.0.2 - civilian aircraft and airliners.
+- **Create: Automotives** V2 - Create-powered cars and ground vehicles.
+- **Man of Many Planes** 0.2.1 - a wider fleet of flyable planes.
+- **More Engines** 3.0.2 - extra engines for vehicles and aircraft.
+- **Dense Fuel** 1.0.0 - dense fuel for the vehicle mods.
+- **Puddleflood** 1.1.5 - dynamic puddles and rain flooding.
+- **Respawning Structures** 4.2 - structures regenerate over time.
+- **Terrain Slabs** 3.1.2 - vertical slabs for natural terrain blocks.
+
+These are required by the server, so this update lets everyone connect again.
+
 # Skybound SMP Season 2, v1.18
 
 ## Added
