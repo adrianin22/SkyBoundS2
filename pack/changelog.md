@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.25
+
+- **MineMenu preset is now optional.** Click **Install MineMenu** on the main menu to get the preset radial menu (keybinds and entries). It no longer installs with the update, so your own MineMenu setup is left alone unless you click it.
+
+
 # Skybound SMP Season 2, v1.24
 
 - Reverted NeoForge back to 21.1.235.
