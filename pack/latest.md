@@ -1,1 +1,1 @@
-v1.26: fixed the Install MineMenu button.
+v1.27: removed Create Grappling Hooks (fixed the Plunger render crash).
