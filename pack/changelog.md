@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v1.24
+
+- Reverted NeoForge back to 21.1.235.
+- Removed **Coasters Simulated: Track Styles** (it required a newer NeoForge that broke other mods).
+- Coasters: Magnetized and More Wheels stay.
+
+
 # Skybound SMP Season 2, v1.23
 
 ## Engine
