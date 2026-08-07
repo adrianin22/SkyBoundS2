@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.26
+
+- Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
+
+
 # Skybound SMP Season 2, v1.25
 
 - **MineMenu preset is now optional.** Click **Install MineMenu** on the main menu to get the preset radial menu (keybinds and entries). It no longer installs with the update, so your own MineMenu setup is left alone unless you click it.
