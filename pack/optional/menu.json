@@ -1,0 +1,25 @@
+{
+  "main": {
+    "1": {
+      "title": "Menu Item #1",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:goat_horn\"}"
+      },
+      "action": {
+        "category": "Voice Chat"
+      }
+    },
+    "4": {
+      "title": "Menu Item #4",
+      "icon": {
+        "stack": "{components:{\"sophisticatedcore:number_of_inventory_slots\":27,\"sophisticatedcore:number_of_upgrade_slots\":1},count:1,id:\"sophisticatedbackpacks:backpack\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.sophisticatedbackpacks.open_backpack",
+          "toggle": false
+        }
+      }
+    }
+  }
+}
