@@ -1,0 +1,4 @@
+- Added **AppleSkin**: shows food saturation and hunger restored in the HUD and tooltips.
+- Added **BandwidthOptimizer** and **Apex Network**: network optimizations to cut lag spikes and connection timeouts.
+- Removed **NBT Compat**: it was retexturing Create casings (and could break them). Casings return to their normal look.
+- Fixed: your **Xaero minimap / world map** settings and waypoints are no longer reset when you update.
