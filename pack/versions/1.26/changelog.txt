@@ -1,0 +1,1 @@
+- Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
