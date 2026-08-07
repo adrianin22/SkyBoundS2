@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.27
+
+- Removed **Create Grappling Hooks**: it crashed clients when a Plunger was rendered on the server. The Plunger Launcher from Create Aeronautics is unaffected.
+
+
 # Skybound SMP Season 2, v1.26
 
 - Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
