@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.28
+
+- Added **AppleSkin**: shows food saturation and hunger restored in the HUD and tooltips.
+- Added **BandwidthOptimizer** and **Apex Network**: network optimizations to cut lag spikes and connection timeouts.
+- Removed **NBT Compat**: it was retexturing Create casings (and could break them). Casings return to their normal look.
+- Fixed: your **Xaero minimap / world map** settings and waypoints are no longer reset when you update.
+
+
 # Skybound SMP Season 2, v1.27
 
 - Removed **Create Grappling Hooks**: it crashed clients when a Plunger was rendered on the server. The Plunger Launcher from Create Aeronautics is unaffected.
