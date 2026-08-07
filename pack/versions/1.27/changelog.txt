@@ -1,0 +1,1 @@
+- Removed **Create Grappling Hooks**: it crashed clients when a Plunger was rendered on the server. The Plunger Launcher from Create Aeronautics is unaffected.
