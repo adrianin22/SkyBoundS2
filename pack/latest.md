@@ -1,1 +1,1 @@
-v1.27: removed Create Grappling Hooks (fixed the Plunger render crash).
+v1.28: added AppleSkin + network optimizations, removed NBT Compat, and fixed Xaero settings resetting on update.
