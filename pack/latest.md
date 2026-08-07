@@ -1,1 +1,1 @@
-v1.25: MineMenu is now an optional 'Install MineMenu' button on the main menu.
+v1.26: fixed the Install MineMenu button.
