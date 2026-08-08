@@ -1,1 +1,1 @@
-v1.28: added AppleSkin + network optimizations, removed NBT Compat, and fixed Xaero settings resetting on update.
+v1.29: updater reliability fix, the modpack download is now verified and retries automatically so it no longer fails to install for some players.
