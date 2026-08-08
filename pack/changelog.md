@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.29
+
+- Fixed the pack updater: the download is now checked for completeness and retried automatically, so the modpack no longer fails to download or installs only some of the mods for certain players.
+- If an update cannot finish (for example a dropped connection), it now retries on the next launch instead of starting the game with a half-updated mods folder.
+
+
 # Skybound SMP Season 2, v1.28
 
 - Added **AppleSkin**: shows food saturation and hunger restored in the HUD and tooltips.
