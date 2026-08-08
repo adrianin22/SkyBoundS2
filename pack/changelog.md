@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.30
+
+- Added Showcase Item: press Shift + X to show the item you are holding in chat, so others can hover it to see its full tooltip. Great for trading and showing off builds.
+
+
 # Skybound SMP Season 2, v1.29
 
 - Fixed the pack updater: the download is now checked for completeness and retried automatically, so the modpack no longer fails to download or installs only some of the mods for certain players.
