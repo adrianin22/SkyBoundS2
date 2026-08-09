@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.32
+
+- Added **Create: Copycats+ Additions**: extra copycat variants (corner slopes, layered corner slopes, and wall-mounted slope layers).
+- **Dimensional Drive** now has a proper recipe: Precision Mechanisms, a Gyroscope, Ender Pearls and Electron Tubes (replaces the old Northstar titanium and computer-chip recipe).
+
+
 # Skybound SMP Season 2, v1.31
 
 - Removed **Pehkui** (unused entity-scaling library) to cut server-side entity tick overhead.
