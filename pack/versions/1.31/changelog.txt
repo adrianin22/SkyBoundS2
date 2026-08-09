@@ -1,0 +1,4 @@
+- Removed **Pehkui** (unused entity-scaling library) to cut server-side entity tick overhead.
+- Removed **The Roads More Travelled**.
+- Fixed **Basic Mechanism** crafting: its sequenced assembly no longer clashes with the Gyroscopic Mechanism. The first deploy step is now Andesite Alloy instead of a Cogwheel, so both are craftable.
+- Fixed **Rose Quartz**: restored its crafting recipe (1 Quartz + 8 Redstone). It had no recipe before.
