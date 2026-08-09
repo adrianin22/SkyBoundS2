@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.31
+
+- Removed **Pehkui** (unused entity-scaling library) to cut server-side entity tick overhead.
+- Removed **The Roads More Travelled**.
+- Fixed **Basic Mechanism** crafting: its sequenced assembly no longer clashes with the Gyroscopic Mechanism. The first deploy step is now Andesite Alloy instead of a Cogwheel, so both are craftable.
+- Fixed **Rose Quartz**: restored its crafting recipe (1 Quartz + 8 Redstone). It had no recipe before.
+
+
 # Skybound SMP Season 2, v1.30
 
 - Added Showcase Item: press Shift + X to show the item you are holding in chat, so others can hover it to see its full tooltip. Great for trading and showing off builds.
