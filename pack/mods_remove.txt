@@ -102,3 +102,5 @@ kubejs/startup_scripts/skybound_tacz_recipes.js
 mods/coasterssimulatedextratypes-1.0.0.jar
 mods/create_grappling_hooks-1.2.0.jar
 mods/nbtcompat-1.0.7.jar
+mods/Pehkui-3.8.3+1.21-neoforge.jar
+mods/trmt-0.5.1-1.21.1-neoforge.jar
