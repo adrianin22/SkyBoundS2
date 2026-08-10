@@ -1,1 +1,1 @@
-v1.34: big FPS fix, high volume no longer tanks framerate (Sound Physics raytracing tuned down). Reverb/occlusion still on.
+v1.35: Create Sand Paper now needs 2 paper + sand instead of 1 paper.
