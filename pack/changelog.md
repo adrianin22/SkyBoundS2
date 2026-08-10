@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.35
+
+- Create Sand Paper now costs a second paper: 2 paper + sand (was 1 paper + sand).
+
+
 # Skybound SMP Season 2, v1.34
 
 - Big FPS fix for sound: high in-game volume no longer tanks framerate. The audio physics (Sound Physics) was doing very expensive per-sound raytracing; ray counts are lowered and the heaviest experimental effects (multipath, propeller diffraction, per-tick doppler) are disabled. Reverb and occlusion still work.
