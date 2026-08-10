@@ -1,0 +1,1 @@
+- Create Sand Paper now costs a second paper: 2 paper + sand (was 1 paper + sand).
