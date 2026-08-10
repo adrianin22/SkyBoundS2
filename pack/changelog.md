@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.36
+
+- Removed mod: Psi.
+- Create Sand Paper is back to its normal recipe (1 paper + sand).
+- Sand + an item no longer crafts into suspicious sand.
+- Updates no longer overwrite your video (Sodium) and shader (Iris) settings.
+
+
 # Skybound SMP Season 2, v1.35
 
 - Create Sand Paper now costs a second paper: 2 paper + sand (was 1 paper + sand).
