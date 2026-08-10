@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.33
+
+- Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
+- Mechanical Saw is craftable again (its recipe had been removed by mistake).
+
+
 # Skybound SMP Season 2, v1.32
 
 - Added **Create: Copycats+ Additions**: extra copycat variants (corner slopes, layered corner slopes, and wall-mounted slope layers).
