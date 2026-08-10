@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.34
+
+- Big FPS fix for sound: high in-game volume no longer tanks framerate. The audio physics (Sound Physics) was doing very expensive per-sound raytracing; ray counts are lowered and the heaviest experimental effects (multipath, propeller diffraction, per-tick doppler) are disabled. Reverb and occlusion still work.
+
+
 # Skybound SMP Season 2, v1.33
 
 - Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
