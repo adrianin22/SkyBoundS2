@@ -1,1 +1,1 @@
-v1.35: Create Sand Paper now needs 2 paper + sand instead of 1 paper.
+v1.36: Removed Psi. Sand Paper back to 1 paper + sand. Suspicious sand crafting disabled. Your video/shader settings are no longer overwritten on update.
