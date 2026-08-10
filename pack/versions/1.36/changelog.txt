@@ -1,0 +1,4 @@
+- Removed mod: Psi.
+- Create Sand Paper is back to its normal recipe (1 paper + sand).
+- Sand + an item no longer crafts into suspicious sand.
+- Updates no longer overwrite your video (Sodium) and shader (Iris) settings.
