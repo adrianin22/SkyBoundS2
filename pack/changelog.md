@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.39
+
+- Removed the gnetum mod.
+
+
 # Skybound SMP Season 2, v1.38
 
 - Hotfix for v1.37: fixed startup crashes and the server connection error.
