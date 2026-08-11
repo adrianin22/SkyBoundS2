@@ -105,3 +105,4 @@ mods/nbtcompat-1.0.7.jar
 mods/Pehkui-3.8.3+1.21-neoforge.jar
 mods/trmt-0.5.1-1.21.1-neoforge.jar
 mods/Psi-1.21.1-108.jar
+mods/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar
