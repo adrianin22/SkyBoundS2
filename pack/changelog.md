@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.37
+
+- New creatures: Creatures and Beasts, Mowzie's Mobs, Myths and Legends, Luminous Beasts, Undead Unleashed.
+- New content: Vista (cameras and monitors that can play video via WaterMedia), plus decoration mods (Display Delight, Placeable Items, Portalium, Gradium).
+- Added mob spawning control mods and Really Fast Load for faster world loading.
+- Removed Chloride (it caused a startup crash together with the new video mod).
+
+
 # Skybound SMP Season 2, v1.36
 
 - Removed mod: Psi.
