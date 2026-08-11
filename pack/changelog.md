@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v1.40
+
+- Added Connectivity (fixes join/disconnect issues on large modpacks).
+- Added Chunk Sending, Fast Async World Save and Structure Essentials (server performance, smoother chunk loading).
+- Added Better FPS - Render Distance and Fix GPU Memory Leak (client FPS).
+- Removed SpiffyHUD (it caused heavy per-frame HUD overhead and FPS loss).
+- Fixed around 1450 broken Create add-on recipes.
+
+
 # Skybound SMP Season 2, v1.39
 
 - Removed the gnetum mod.
