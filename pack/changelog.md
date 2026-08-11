@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.38
+
+- Hotfix for v1.37: fixed startup crashes and the server connection error.
+- Added WaterMedia binaries so Vista video screens work.
+- Removed Really Fast Load (was crashing the game on startup).
+- Removed Born in Chaos and Create Nuclear (they were blocking you from joining the server).
+
+
 # Skybound SMP Season 2, v1.37
 
 - New creatures: Creatures and Beasts, Mowzie's Mobs, Myths and Legends, Luminous Beasts, Undead Unleashed.
