@@ -1,1 +1,1 @@
-v1.39: Removed the gnetum mod.
+v1.40: performance mods (Connectivity, Chunk Sending, Fast Async World Save, Structure Essentials, Better FPS Render Distance, Fix GPU Memory Leak), removed SpiffyHUD, fixed ~1450 Create add-on recipes.
