@@ -1,0 +1,2 @@
+- Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
+- Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
