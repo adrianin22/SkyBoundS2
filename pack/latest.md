@@ -1,1 +1,1 @@
-v1.41: added FramedBlocks and Fix Framed Blocks; removed Apex Network, AmbientSounds, Vivecraft, KubeJS Visual Recipe Maker, Mekanism Nuclear Weapons and Explosives, Puddles and Vintage Animations.
+v1.42: removed Cosmetica (fixes the major FPS drops and stutter it caused) and replaced Sound Physics Aeronautics with Sound Physics Remastered.
