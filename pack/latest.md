@@ -1,1 +1,1 @@
-v1.40: performance mods (Connectivity, Chunk Sending, Fast Async World Save, Structure Essentials, Better FPS Render Distance, Fix GPU Memory Leak), removed SpiffyHUD, fixed ~1450 Create add-on recipes.
+v1.41: added FramedBlocks and Fix Framed Blocks; removed Apex Network, AmbientSounds, Vivecraft, KubeJS Visual Recipe Maker, Mekanism Nuclear Weapons and Explosives, Puddles and Vintage Animations.
