@@ -1,3 +1,15 @@
+# Skybound SMP Season 2, v1.41
+
+- Added FramedBlocks and Fix Framed Blocks.
+- Removed Apex Network (it caused repeated disconnects for clients that had not updated).
+- Removed AmbientSounds.
+- Removed Vivecraft (VR support).
+- Removed KubeJS Visual Recipe Maker.
+- Removed Mekanism Nuclear Weapons and Explosives.
+- Removed Puddles.
+- Removed Vintage Animations.
+
+
 # Skybound SMP Season 2, v1.40
 
 - Added Connectivity (fixes join/disconnect issues on large modpacks).
