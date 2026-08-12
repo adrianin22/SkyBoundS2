@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.42
+
+- Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
+- Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
+
+
 # Skybound SMP Season 2, v1.41
 
 - Added FramedBlocks and Fix Framed Blocks.
