@@ -1,1 +1,1 @@
-v1.43: new performance/rendering mods (Vira, GPU Tape, MoreCulling, Colorwheel and more), FastWorkbench/Furnace/Suite, FTB Quests Optimizer, some new content mods, and several removals. Precision Mechanism and Blaze Burner are back to vanilla recipes, plus a Mechanical Extruder FPS fix.
+v1.44: hotfix, removed Create Backpack Pixel because it was crashing the server.
