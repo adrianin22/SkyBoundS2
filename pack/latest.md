@@ -1,1 +1,1 @@
-v1.42: removed Cosmetica (fixes the major FPS drops and stutter it caused) and replaced Sound Physics Aeronautics with Sound Physics Remastered.
+v1.43: new performance/rendering mods (Vira, GPU Tape, MoreCulling, Colorwheel and more), FastWorkbench/Furnace/Suite, FTB Quests Optimizer, some new content mods, and several removals. Precision Mechanism and Blaze Burner are back to vanilla recipes, plus a Mechanical Extruder FPS fix.
