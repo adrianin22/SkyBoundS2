@@ -128,3 +128,4 @@ mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar
 mods/oilcanister-2.0.0.jar
 mods/Lift-n-Load-1.21.1-1.0c.jar
 mods/iris-flywheel-compat-NeoForge-2.4.0.jar
+mods/backpack_pixel-1.2.0-neoforge-1.21.1.jar
