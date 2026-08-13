@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v1.43
+
+- Added rendering/perf mods: Vira, GPU Tape, MoreCulling, Better Biome Blend, gnetum, Sodium Options Compat, Flywheel OIT Fix, Iris Scale Fix.
+- Replaced the old Iris/Flywheel compat with Colorwheel (+ Colorwheel Patcher) for better shader performance with Create.
+- Added FTB Quests Optimizer and FastWorkbench/FastFurnace/FastSuite (smoother crafting and quests).
+- Added content: Create: Clothes, Protection Pixel, and Create Backpack Pixel.
+- Removed PneumaticCraft, More Propulsion, Biome Replacer, Create Aeronautics Automated Logistics, Ambient Environment, Better Grass-ify, Oil Canister, Lift n Load.
+- Precision Mechanism and Blaze Burner now use their vanilla Create recipes again.
+- Fixed the Mechanical Extruder pole rendering error that caused heavy FPS drops nearby (auto-applied resource pack).
+
+
 # Skybound SMP Season 2, v1.42
 
 - Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
