@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.44
+
+- Removed Create Backpack Pixel. It was crashing the server on every tick.
+
+
 # Skybound SMP Season 2, v1.43
 
 - Added rendering/perf mods: Vira, GPU Tape, MoreCulling, Better Biome Blend, gnetum, Sodium Options Compat, Flywheel OIT Fix, Iris Scale Fix.
