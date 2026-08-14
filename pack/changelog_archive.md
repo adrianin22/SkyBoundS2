@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.47
+
+- Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
+- Added Remorphed (with Woodwalkers and CraftedCore): transform into mobs you defeat.
+- Added Create: Addictives.
+- Fix: the Linked Controller Hub (Drive-by-wire) now drops when broken.
+
+
 # Skybound SMP Season 2, v1.46
 
 - Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
@@ -269,12 +277,6 @@ These are required by the server, so this update lets everyone connect again.
 - Immersive Furniture: build custom furniture and decor in-game.
 - Immersive Vehicles plus Create: Automotives (Create-powered cars) and the official traffic Sign Pack.
 - Create: Compact Gearbox Transmission: compact multi-ratio gearboxes with manual and wireless shifting.
-
-# Skybound SMP Season 2, v1.16
-
-## Added
-- Respawning Structures: dungeons and structures regenerate automatically after a set time, so groups can farm the same dungeon again instead of it staying looted forever.
-- Terrain Slabs: smoother terrain generation using slabs (new chunks only, does not affect already-generated terrain). Includes an optional bundled resource pack for alternative grass-slab textures, enable it yourself in Options > Resource Packs if you want it.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
