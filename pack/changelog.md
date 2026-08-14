@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.48
+
+- Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
+
+
 # Skybound SMP Season 2, v1.47
 
 - Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
