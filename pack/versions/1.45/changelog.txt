@@ -1,0 +1,4 @@
+- Added Qlobal Translator: real-time voice and text chat translation (offline Vosk speech recognition, speech bubbles, Dababel-style side panel with flags).
+- Added LinguaChat: automatic chat message translation.
+- Fixed the Mechanical Extruder pole models that caused an FPS drop near extruders. The fix is now built into the mod, so the ExtruderPoleFix resource pack has been removed.
+- Restored the Create Haunting recipe for Infested Stone.
