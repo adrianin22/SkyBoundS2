@@ -1,1 +1,1 @@
-v1.47: Qlobal Translator menu is in English, the translation sound is gone, and you can toggle chat translation per player. Added Remorphed (morph into mobs you defeat) and Create: Addictives.
+v1.48: Removed Qlobal Translator (voice and chat translation) from the client and the server.
