@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.49
+
+- The updater now shows a progress window when you launch: you can see it downloading and installing, with a percentage, instead of the launcher looking frozen.
+- Reminder: the pack only updates when you press "Update" in the menu. If an update is interrupted, it finishes on the next launch on its own.
+
+
 # Skybound SMP Season 2, v1.48
 
 - Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
