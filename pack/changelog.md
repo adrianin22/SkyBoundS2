@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.47
+
+- Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
+- Added Remorphed (with Woodwalkers and CraftedCore): transform into mobs you defeat.
+- Added Create: Addictives.
+- Fix: the Linked Controller Hub (Drive-by-wire) now drops when broken.
+
+
 # Skybound SMP Season 2, v1.46
 
 - Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
@@ -260,15 +268,6 @@ These are required by the server, so this update lets everyone connect again.
 
 ## Fixed
 - Fixed the KubeJS startup errors on the main menu. The custom Mekanism chemicals (Helium-3, Refined/Unrefined Stellarite, the silica and rare-metal slurries), the Artificial Void fluid and the Stellarite blocks were using an old KubeJS/Mekanism API that no longer exists on the current versions, so they failed to register and their recipes were broken. Rewritten against the current Chemical registry.
-
-# Skybound SMP Season 2, v1.17
-
-## Added
-- Puddles & Floods: rain now pools into puddles and can cause light flooding.
-- Immersive Aircraft plus the Better Engines, Civilian Aviation and Man of Many Planes addons, restyled to fit Create via the Create Immersive Aircrafts resource pack and matching recipe overhaul (Create-themed recipes and textures for every aircraft).
-- Immersive Furniture: build custom furniture and decor in-game.
-- Immersive Vehicles plus Create: Automotives (Create-powered cars) and the official traffic Sign Pack.
-- Create: Compact Gearbox Transmission: compact multi-ratio gearboxes with manual and wireless shifting.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
