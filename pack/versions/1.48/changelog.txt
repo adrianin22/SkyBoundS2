@@ -1,0 +1,1 @@
+- Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
