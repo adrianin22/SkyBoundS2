@@ -1,1 +1,1 @@
-v1.45: added Qlobal Translator (voice+chat translation) and LinguaChat, baked the Mechanical Extruder pole fix into the mod (removed the resource pack), and restored the Infested Stone recipe.
+v1.46: removed LinguaChat (it caused lag and doubled chat translation). Qlobal Translator still handles voice and chat.
