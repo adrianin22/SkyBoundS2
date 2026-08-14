@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.46
+
+- Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
+
+
 # Skybound SMP Season 2, v1.45
 
 - Added Qlobal Translator: real-time voice and text chat translation (offline Vosk speech recognition, speech bubbles, Dababel-style side panel with flags).
@@ -270,17 +275,6 @@ These are required by the server, so this update lets everyone connect again.
 ## Added
 - Respawning Structures: dungeons and structures regenerate automatically after a set time, so groups can farm the same dungeon again instead of it staying looted forever.
 - Terrain Slabs: smoother terrain generation using slabs (new chunks only, does not affect already-generated terrain). Includes an optional bundled resource pack for alternative grass-slab textures, enable it yourself in Options > Resource Packs if you want it.
-
-# Skybound SMP Season 2, v1.15
-
-## Fixed
-- Fixed the server error when right-clicking a Create: Radar Monitor block (swapped to a build with the dedicated-server and Sable compatibility fixes).
-
-# Skybound SMP Season 2, v1.14
-
-## Changed
-- Reworked the KubeJS recipe scripts across the pack.
-- Removed the experimental Create-gated machine progression. Machine recipes are back to their standard form.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
