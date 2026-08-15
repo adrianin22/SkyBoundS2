@@ -60,7 +60,6 @@ mods/createredstonelinkgui-1.21.1-1.9.1.jar
 mods/densefuel-1.0.0.jar
 mods/droingos_harpoons-1.0.1.jar
 mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar
-mods/fluidlogistics-1.2.0.jar
 mods/immersive_aircraft-1.4.6+1.21.1-neoforge.jar
 mods/immersive_furniture-neoforge-0.3.0+1.21.1.jar
 mods/ldlib2-neoforge-1.21.1-2.2.28-all.jar
@@ -132,3 +131,4 @@ mods/backpack_pixel-1.2.0-neoforge-1.21.1.jar
 resourcepacks/ExtruderPoleFix.zip
 mods/linguachat-1.21.1-2.0.0.jar
 mods/qlobaltranslator-1.0.2.jar
+mods/fluidlogistics-1.2.5.jar
