@@ -1,1 +1,1 @@
-v1.49: The updater now shows a progress window with a percentage while it downloads and installs the pack.
+v1.50: Fixed the crash when ordering or receiving packages (Create: Mobile Packages / Fluid Logistics version fix).
