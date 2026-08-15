@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v1.50
+
+- Fixed a crash that closed the game whenever you ordered or received a package (Create: Mobile Packages). It was caused by a Create Fluid Logistics version mismatch; the pack now ships the matching version.
+
+
+# Skybound SMP Season 2, v1.49
+
+- The updater now shows a progress window when you launch: you can see it downloading and installing, with a percentage, instead of the launcher looking frozen.
+- Reminder: the pack only updates when you press "Update" in the menu. If an update is interrupted, it finishes on the next launch on its own.
+
+
+# Skybound SMP Season 2, v1.48
+
+- Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
+
+
 # Skybound SMP Season 2, v1.47
 
 - Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
@@ -268,15 +284,6 @@ These are required by the server, so this update lets everyone connect again.
 
 ## Fixed
 - Fixed the KubeJS startup errors on the main menu. The custom Mekanism chemicals (Helium-3, Refined/Unrefined Stellarite, the silica and rare-metal slurries), the Artificial Void fluid and the Stellarite blocks were using an old KubeJS/Mekanism API that no longer exists on the current versions, so they failed to register and their recipes were broken. Rewritten against the current Chemical registry.
-
-# Skybound SMP Season 2, v1.17
-
-## Added
-- Puddles & Floods: rain now pools into puddles and can cause light flooding.
-- Immersive Aircraft plus the Better Engines, Civilian Aviation and Man of Many Planes addons, restyled to fit Create via the Create Immersive Aircrafts resource pack and matching recipe overhaul (Create-themed recipes and textures for every aircraft).
-- Immersive Furniture: build custom furniture and decor in-game.
-- Immersive Vehicles plus Create: Automotives (Create-powered cars) and the official traffic Sign Pack.
-- Create: Compact Gearbox Transmission: compact multi-ratio gearboxes with manual and wireless shifting.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
