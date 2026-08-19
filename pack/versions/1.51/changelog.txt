@@ -1,0 +1,5 @@
+- Updated ~70 mods to their latest compatible versions (Create add-ons, content, performance and libraries).
+- Added Sable: Water Pressure and Create: Ironworks.
+- Updated Sable (airship physics) to 2.0.5.
+- Fixed a client crash caused by a bad Create Gunsmithing build (replaced with the normal build).
+- Removed Bandwidth Optimizer (it was causing block and entity desync).
