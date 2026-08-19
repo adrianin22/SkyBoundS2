@@ -1,1 +1,1 @@
-v1.52: Hotfix - reverted Sable to 2.0.3 to fix a crash on load (Sable Scale compatibility).
+v1.53: Hotfix - updated NukaTeam's Gun Lib to 3.1.8 to fix a crash on load caused by Create: Gunsmithing.
