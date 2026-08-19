@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v1.51
+
+- Updated ~70 mods to their latest compatible versions (Create add-ons, content, performance and libraries).
+- Added Sable: Water Pressure and Create: Ironworks.
+- Updated Sable (airship physics) to 2.0.5.
+- Fixed a client crash caused by a bad Create Gunsmithing build (replaced with the normal build).
+- Removed Bandwidth Optimizer (it was causing block and entity desync).
+
+
 # Skybound SMP Season 2, v1.50
 
 - Fixed a crash that closed the game whenever you ordered or received a package (Create: Mobile Packages). It was caused by a Create Fluid Logistics version mismatch; the pack now ships the matching version.
@@ -279,11 +288,6 @@ These are required by the server, so this update lets everyone connect again.
 
 ## Fixed
 - Fixed the KubeJS startup crash on dedicated servers and the startup/client error screens: the plutonium/polonium pellet food tweak (item.foodProperties), the JEI item hiding (JEIEvents) and a client lang call all used APIs removed in the current KubeJS. Ported the food tweak to modifyFood, guarded the JEI hooks so they no longer error, and dropped the obsolete lang call.
-
-# Skybound SMP Season 2, v1.16
-
-## Fixed
-- Fixed the KubeJS startup errors on the main menu. The custom Mekanism chemicals (Helium-3, Refined/Unrefined Stellarite, the silica and rare-metal slurries), the Artificial Void fluid and the Stellarite blocks were using an old KubeJS/Mekanism API that no longer exists on the current versions, so they failed to register and their recipes were broken. Rewritten against the current Chemical registry.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
