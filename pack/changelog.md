@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.52
+
+- Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
+
+
 # Skybound SMP Season 2, v1.51
 
 - Updated ~70 mods to their latest compatible versions (Create add-ons, content, performance and libraries).
