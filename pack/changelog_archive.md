@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v1.53
+
+- Fixed a crash on load for everyone: Create: Gunsmithing 1.4.9 required a newer gun library. Updated NukaTeam's Gun Lib to 3.1.8.
+
+
+# Skybound SMP Season 2, v1.52
+
+- Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
+
+
 # Skybound SMP Season 2, v1.51
 
 - Updated ~70 mods to their latest compatible versions (Create add-ons, content, performance and libraries).
@@ -283,11 +293,6 @@ These are required by the server, so this update lets everyone connect again.
 - **Create Compact Gearbox** 1.0.2 - compact gearbox for Create builds.
 
 These are required by the server, so this update lets everyone connect again.
-
-# Skybound SMP Season 2, v1.17
-
-## Fixed
-- Fixed the KubeJS startup crash on dedicated servers and the startup/client error screens: the plutonium/polonium pellet food tweak (item.foodProperties), the JEI item hiding (JEIEvents) and a client lang call all used APIs removed in the current KubeJS. Ported the food tweak to modifyFood, guarded the JEI hooks so they no longer error, and dropped the obsolete lang call.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
