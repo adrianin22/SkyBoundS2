@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.53
+
+- Fixed a crash on load for everyone: Create: Gunsmithing 1.4.9 required a newer gun library. Updated NukaTeam's Gun Lib to 3.1.8.
+
+
 # Skybound SMP Season 2, v1.52
 
 - Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
@@ -276,16 +281,6 @@
 - **Puddleflood** 1.1.5 - dynamic puddles and rain flooding.
 - **Respawning Structures** 4.2 - structures regenerate over time.
 - **Terrain Slabs** 3.1.2 - vertical slabs for natural terrain blocks.
-
-These are required by the server, so this update lets everyone connect again.
-
-# Skybound SMP Season 2, v1.18
-
-## Added
-- **Immersive Aircraft** 1.4.6 - flyable planes, biplanes and airships.
-- **Immersive Vehicles** 24.0.0 - drivable vehicles (formerly MTS).
-- **Immersive Furniture** 0.3.0 - craftable decorative furniture.
-- **Create Compact Gearbox** 1.0.2 - compact gearbox for Create builds.
 
 These are required by the server, so this update lets everyone connect again.
 
