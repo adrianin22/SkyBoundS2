@@ -1,0 +1,1 @@
+- Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
