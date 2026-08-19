@@ -192,7 +192,6 @@ mods/mru-1.0.31+1.21.1-neoforge.jar
 mods/powerchip-2.0.1.jar
 mods/powergrid-mc1.21.1-0.5.5.1.jar
 mods/ropefix-1.4.0.jar
-mods/sable-neoforge-1.21.1-2.0.3.jar
 mods/saros_road_signs_mod-4.14.3.jar
 mods/simulatedcoasters-0.1.2.jar
 mods/sliceanddice-neoforge-4.3.2.jar
@@ -208,3 +207,4 @@ mods/vestalihy-2.5.0.jar
 mods/vista-1.21.1-5.3.4-neoforge.jar
 mods/voicechat-neoforge-1.21.1-2.6.21.jar
 mods/zps-1.21.1-2.5.0.jar
+mods/sable-neoforge-1.21.1-2.0.5.jar
