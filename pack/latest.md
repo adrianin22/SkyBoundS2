@@ -1,1 +1,1 @@
-v1.51: Big mod update (~70 mods), added Sable: Water Pressure and Create: Ironworks, Sable 2.0.5, fixed a Gunsmithing crash, removed Bandwidth Optimizer.
+v1.52: Hotfix - reverted Sable to 2.0.3 to fix a crash on load (Sable Scale compatibility).
