@@ -210,3 +210,6 @@ mods/zps-1.21.1-2.5.0.jar
 mods/sable-neoforge-1.21.1-2.0.5.jar
 mods/ntgl-1.21.1-3.1.7.jar
 mods/continuity-3.0.0+1.21.neoforge.jar
+mods/createbionics-2.1.1.jar
+mods/alltuttasneeds-3.2.0.jar
+mods/highseas-0.1.4.jar
