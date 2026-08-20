@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.56
+
+- Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
+
+
 # Skybound SMP Season 2, v1.55
 
 - Removed Create: Bionics. Its Anole item had a broken renderer that crashed the game whenever the item was shown in a GUI (for example the portable stock ticker search).
