@@ -1,1 +1,1 @@
-v1.54: Removed the Continuity connected-textures mod.
+v1.55: Removed Create: Bionics (crash fix), All Tutta's Needs and High Seas, added Connected Textures Mod, plus recipe tweaks.
