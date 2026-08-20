@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.54
+
+- Removed the Continuity connected-textures mod.
+
+
 # Skybound SMP Season 2, v1.53
 
 - Fixed a crash on load for everyone: Create: Gunsmithing 1.4.9 required a newer gun library. Updated NukaTeam's Gun Lib to 3.1.8.
