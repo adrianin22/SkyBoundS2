@@ -1,1 +1,1 @@
-v1.55: Removed Create: Bionics (crash fix), All Tutta's Needs and High Seas, added Connected Textures Mod, plus recipe tweaks.
+v1.56: Hotfix for a crash on load introduced in v1.55. All v1.55 content is kept.
