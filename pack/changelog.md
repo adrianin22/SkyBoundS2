@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v1.55
+
+- Removed Create: Bionics. Its Anole item had a broken renderer that crashed the game whenever the item was shown in a GUI (for example the portable stock ticker search).
+- Removed All Tutta's Needs.
+- Removed High Seas.
+- Added Connected Textures Mod (CTM).
+- Recipe changes: the obsidian plate is now sawed first in its assembly, and the brass fluid pipe costs one extra brass ingot.
+
+
 # Skybound SMP Season 2, v1.54
 
 - Removed the Continuity connected-textures mod.
@@ -274,20 +283,6 @@
 
 ## Changed
 - Restored the Create-progression crafting: Mekanism, Immersive Engineering and TaCZ are gated behind Create cores again.
-
-# Skybound SMP Season 2, v1.19
-
-## Added
-- **Civilian Aviation** 1.0.2 - civilian aircraft and airliners.
-- **Create: Automotives** V2 - Create-powered cars and ground vehicles.
-- **Man of Many Planes** 0.2.1 - a wider fleet of flyable planes.
-- **More Engines** 3.0.2 - extra engines for vehicles and aircraft.
-- **Dense Fuel** 1.0.0 - dense fuel for the vehicle mods.
-- **Puddleflood** 1.1.5 - dynamic puddles and rain flooding.
-- **Respawning Structures** 4.2 - structures regenerate over time.
-- **Terrain Slabs** 3.1.2 - vertical slabs for natural terrain blocks.
-
-These are required by the server, so this update lets everyone connect again.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
