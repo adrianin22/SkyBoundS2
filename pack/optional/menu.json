@@ -1,7 +1,7 @@
 {
   "main": {
     "1": {
-      "title": "Menu Item #1",
+      "title": "Voice Chat Options",
       "icon": {
         "stack": "{count:1,id:\"minecraft:goat_horn\"}"
       },
@@ -10,13 +10,39 @@
       }
     },
     "4": {
-      "title": "Menu Item #4",
+      "title": "Open backpack",
       "icon": {
         "stack": "{components:{\"sophisticatedcore:number_of_inventory_slots\":27,\"sophisticatedcore:number_of_upgrade_slots\":1},count:1,id:\"sophisticatedbackpacks:backpack\"}"
       },
       "action": {
         "key": {
           "key": "key.sophisticatedbackpacks.open_backpack",
+          "toggle": false
+        }
+      }
+    }
+  },
+  "Voice Chat": {
+    "4": {
+      "title": "Voice mic Toggle",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:barrier\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.mute_microphone",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Voice Chat Menu",
+      "icon": {
+        "stack": "{count:1,id:\"minecraft:ender_pearl\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.voice_chat",
           "toggle": false
         }
       }
