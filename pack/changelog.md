@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.58
+
+- Added Opal Light (colored dynamic lighting).
+- Disabled all Create: Hypertube crafting recipes.
+
+
 # Skybound SMP Season 2, v1.57
 
 - Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
