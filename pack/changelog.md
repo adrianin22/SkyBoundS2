@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.57
+
+- Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
+- Removed Portalium.
+
+
 # Skybound SMP Season 2, v1.56
 
 - Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
@@ -267,27 +273,6 @@
 
 ## Removed
 - **Music Maker** - removed by request.
-
-# Skybound SMP Season 2, v1.20
-
-## Added
-- **Overeating** - oversaturation system with fat armor and perks.
-- **Music Maker** - craftable instruments, sheets and multiplayer bands.
-- **Create: Immersive TaCZ Integration** - craft TaCZ guns and ammo through Create.
-- **MoreTraffic** + **TrafficCraft** - programmable traffic infrastructure and decorations.
-- **Contraption Lights** - dynamic lighting on Create contraptions and Sable sub-levels.
-- **CustomNPCs** - in-game NPC creator with dialogue, quests and trading.
-- **ProtoManly's Weather** + Aeronautics compat + **PMShaders** - realistic weather and tornadoes.
-- **Aeronautics Camera Sync** - camera tilts with Aeronautics contraptions.
-- **Storage Drawers** + Create compat - drawers that mount on contraptions.
-- **Emotecraft** - player emotes.
-
-## Removed
-- **Sable Dynamic Lights** - replaced by Contraption Lights.
-- **Weather2** and **Tornado Physics** - replaced by ProtoManly's Weather.
-
-## Changed
-- Restored the Create-progression crafting: Mekanism, Immersive Engineering and TaCZ are gated behind Create cores again.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
