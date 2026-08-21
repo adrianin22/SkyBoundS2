@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v1.57
+
+- Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
+- Removed Portalium.
+
+
+# Skybound SMP Season 2, v1.56
+
+- Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
+
+
 # Skybound SMP Season 2, v1.55
 
 - Removed Create: Bionics. Its Anole item had a broken renderer that crashed the game whenever the item was shown in a GUI (for example the portable stock ticker search).
@@ -283,20 +294,6 @@
 
 ## Changed
 - Restored the Create-progression crafting: Mekanism, Immersive Engineering and TaCZ are gated behind Create cores again.
-
-# Skybound SMP Season 2, v1.19
-
-## Added
-- **Civilian Aviation** 1.0.2 - civilian aircraft and airliners.
-- **Create: Automotives** V2 - Create-powered cars and ground vehicles.
-- **Man of Many Planes** 0.2.1 - a wider fleet of flyable planes.
-- **More Engines** 3.0.2 - extra engines for vehicles and aircraft.
-- **Dense Fuel** 1.0.0 - dense fuel for the vehicle mods.
-- **Puddleflood** 1.1.5 - dynamic puddles and rain flooding.
-- **Respawning Structures** 4.2 - structures regenerate over time.
-- **Terrain Slabs** 3.1.2 - vertical slabs for natural terrain blocks.
-
-These are required by the server, so this update lets everyone connect again.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
