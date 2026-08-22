@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.63
+
+- Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
+- The updater now also sets your instance NeoForge to 21.1.238 automatically (only bumps up). If the game crashes once right after this update, just launch again.
+
+
 # Skybound SMP Season 2, v1.62
 
 - Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
@@ -297,11 +303,6 @@
 
 ## Removed
 - **Overeating** - not compatible with dedicated servers (crashed on load).
-
-# Skybound SMP Season 2, v1.21
-
-## Removed
-- **Music Maker** - removed by request.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
