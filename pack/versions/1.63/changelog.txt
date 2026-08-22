@@ -1,0 +1,2 @@
+- Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
+- The updater now also sets your instance NeoForge to 21.1.238 automatically (only bumps up). If the game crashes once right after this update, just launch again.
