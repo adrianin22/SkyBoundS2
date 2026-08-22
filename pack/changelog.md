@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.62
+
+- Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
+
+
 # Skybound SMP Season 2, v1.61
 
 - NeoForge updated to 21.1.238. IMPORTANT: set your instance NeoForge to 21.1.238 (Edit Instance > Version > NeoForge) or the game will not launch.
