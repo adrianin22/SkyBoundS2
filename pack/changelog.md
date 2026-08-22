@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.59
+
+- Removed Opal Light (colored dynamic lighting).
+
+
 # Skybound SMP Season 2, v1.58
 
 - Added Opal Light (colored dynamic lighting).
