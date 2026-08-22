@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.60
+
+- Removed Water Pressure (underwater pressure damage).
+
+
 # Skybound SMP Season 2, v1.59
 
 - Removed Opal Light (colored dynamic lighting).
