@@ -1,0 +1,1 @@
+- Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
