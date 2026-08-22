@@ -1,3 +1,38 @@
+# Skybound SMP Season 2, v1.63
+
+- Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
+- The updater now also sets your instance NeoForge to 21.1.238 automatically (only bumps up). If the game crashes once right after this update, just launch again.
+
+
+# Skybound SMP Season 2, v1.62
+
+- Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
+
+
+# Skybound SMP Season 2, v1.61
+
+- NeoForge updated to 21.1.238. IMPORTANT: set your instance NeoForge to 21.1.238 (Edit Instance > Version > NeoForge) or the game will not launch.
+- Added Create: Hammer (BID) auction house, Create: Sulfuric Resonance, and player ragdolls.
+- Removed Copper Age Backport (copper armor material is now native at 21.1.238).
+- Fixed TrafficCraft recipe type registration so it loads on 21.1.238.
+
+
+# Skybound SMP Season 2, v1.60
+
+- Removed Water Pressure (underwater pressure damage).
+
+
+# Skybound SMP Season 2, v1.59
+
+- Removed Opal Light (colored dynamic lighting).
+
+
+# Skybound SMP Season 2, v1.58
+
+- Added Opal Light (colored dynamic lighting).
+- Disabled all Create: Hypertube crafting recipes.
+
+
 # Skybound SMP Season 2, v1.57
 
 - Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
@@ -273,27 +308,6 @@
 
 ## Removed
 - **Music Maker** - removed by request.
-
-# Skybound SMP Season 2, v1.20
-
-## Added
-- **Overeating** - oversaturation system with fat armor and perks.
-- **Music Maker** - craftable instruments, sheets and multiplayer bands.
-- **Create: Immersive TaCZ Integration** - craft TaCZ guns and ammo through Create.
-- **MoreTraffic** + **TrafficCraft** - programmable traffic infrastructure and decorations.
-- **Contraption Lights** - dynamic lighting on Create contraptions and Sable sub-levels.
-- **CustomNPCs** - in-game NPC creator with dialogue, quests and trading.
-- **ProtoManly's Weather** + Aeronautics compat + **PMShaders** - realistic weather and tornadoes.
-- **Aeronautics Camera Sync** - camera tilts with Aeronautics contraptions.
-- **Storage Drawers** + Create compat - drawers that mount on contraptions.
-- **Emotecraft** - player emotes.
-
-## Removed
-- **Sable Dynamic Lights** - replaced by Contraption Lights.
-- **Weather2** and **Tornado Physics** - replaced by ProtoManly's Weather.
-
-## Changed
-- Restored the Create-progression crafting: Mekanism, Immersive Engineering and TaCZ are gated behind Create cores again.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
