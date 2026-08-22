@@ -1,1 +1,1 @@
-v1.58: Added Opal Light (colored dynamic lighting). Disabled Create: Hypertube crafting recipes.
+v1.59: Removed Opal Light (colored dynamic lighting).
