@@ -1,1 +1,1 @@
-v1.62: Updated JEI to 19.44.0.403.
+v1.63: Faster updates (only changed files download now) + auto NeoForge 21.1.238.
