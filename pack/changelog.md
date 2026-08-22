@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.61
+
+- NeoForge updated to 21.1.238. IMPORTANT: set your instance NeoForge to 21.1.238 (Edit Instance > Version > NeoForge) or the game will not launch.
+- Added Create: Hammer (BID) auction house, Create: Sulfuric Resonance, and player ragdolls.
+- Removed Copper Age Backport (copper armor material is now native at 21.1.238).
+- Fixed TrafficCraft recipe type registration so it loads on 21.1.238.
+
+
 # Skybound SMP Season 2, v1.60
 
 - Removed Water Pressure (underwater pressure damage).
