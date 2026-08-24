@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v1.64
+
+- Removed Undead Unleashed. Wraiths and dreadknights were flooding the world and crowding out other mobs; the mod is now gone so you should see much more mob variety.
+- Fixed Tiny Create so it can run again (patched a crash when saving a Redstone Link frequency that had an enchanted item).
+- Added Starcatcher's Delight (a Farmer's Delight add-on).
+
+
 # Skybound SMP Season 2, v1.63
 
 - Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
@@ -303,11 +310,6 @@
 
 ## Removed
 - **Overeating** - not compatible with dedicated servers (crashed on load).
-
-# Skybound SMP Season 2, v1.21
-
-## Removed
-- **Music Maker** - removed by request.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
