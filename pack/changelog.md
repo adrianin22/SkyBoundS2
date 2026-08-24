@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v1.64
+
+- Removed Undead Unleashed. Wraiths and dreadknights were flooding the world and crowding out other mobs; the mod is now gone so you should see much more mob variety.
+- Fixed Tiny Create so it can run again (patched a crash when saving a Redstone Link frequency that had an enchanted item).
+- Added Starcatcher's Delight (a Farmer's Delight add-on).
+
+
 # Skybound SMP Season 2, v1.63
 
 - Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
@@ -255,54 +262,6 @@
 - Reverted NeoForge back to 21.1.235.
 - Removed **Coasters Simulated: Track Styles** (it required a newer NeoForge that broke other mods).
 - Coasters: Magnetized and More Wheels stay.
-
-
-# Skybound SMP Season 2, v1.23
-
-## Engine
-- **NeoForge updated 21.1.235 -> 21.1.248.** The launcher will download it automatically on next start.
-
-## New roller coasters and wheels
-- **Coasters: Magnetized**, **Coasters Simulated: Track Styles** and **More Wheels** (with the StickyWheels offroad addon).
-
-## Create and Aeronautics additions
-- Create Aeronautics: Covers, Radionautics, Sonar, Weight, Aeroclaims, Lift-n-Load, Analog Audio (radios and speakers), and more addons.
-- **SSRD**: airships now render far beyond your view distance.
-- **Distant Horizons**: you now see far terrain streamed from the server (no local generation needed).
-- New airships and aircraft frameworks (Northstar, createaviation, avionics), plus Radar/Sonar and train parts.
-- Create Mekanism Compatibility rework, Fluid Logistics, Parallel Pipes, Grappling Hooks.
-
-## Content, decoration and mobs
-- Alex's Mobs, Born in Chaos, Mobs of Mythology, Critters and Companions, Starcatcher, Jaden's Nether Expansion, Simply Swords.
-- Lots of decoration: Saros road blocks and signs, Ornamentum, Mo-Glass, industrial and immersive furniture, and more.
-- Sophisticated Backpacks, PneumaticCraft Repressurized, Storage Drawers.
-
-## Quality of life and clients
-- Xaero's minimap and world map, Legendary Tooltips, Chat Heads, Inventory Management, Zoom, Cosmetica, ModernFix, Smooth Boot, world backups.
-- **Vivecraft** (VR support) and **Simple Voice Chat**.
-- Euro currency for Numismatics coins.
-
-## Gameplay changes
-- **Mekanism** is now gated: craft the Mekanism Key by hand to unlock it (per player).
-- **Distant Horizons** set to stream from the server; **HighSeas** ocean waves enabled.
-- ION thruster thrust reduced to match the standard fuel thruster.
-- Alex's Mobs Fly no longer spawns naturally.
-- Create Flight Control recipes disabled except the Attitude Display.
-- Aeronautics: Interstellar Expansion recipes disabled for now.
-- Plunger and Grapple launchers only work in the Overworld.
-- Teleporter items removed to keep the Create/Aeronautics logistics focus.
-- Main menu locked down (modpack mode).
-
-## Removed
-- All guns (TACZ, Elite Guns), keeping Create Gunsmithing.
-- Immersive Engineering and the old aircraft/vehicle pack (Immersive Aircraft, Man of Many Planes, Immersive Vehicles, Civilian Aviation, Create Automotives, More Engines, Cosmonautics).
-- PMWeather (and its shaders/aeronautics addons), Emotecraft, Vista, SableBeyond, Pondus, Sablewaves, and several tools replaced by newer versions.
-
-
-# Skybound SMP Season 2, v1.22
-
-## Removed
-- **Overeating** - not compatible with dedicated servers (crashed on load).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
