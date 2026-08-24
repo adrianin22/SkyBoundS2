@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.65
+
+- Fixed the in-game updater so it only updates when you press Update in the main menu. Before, an interrupted or failed update could leave it re-running on every launch; now each Update press is a single attempt.
+
+
 # Skybound SMP Season 2, v1.64
 
 - Removed Undead Unleashed. Wraiths and dreadknights were flooding the world and crowding out other mobs; the mod is now gone so you should see much more mob variety.
