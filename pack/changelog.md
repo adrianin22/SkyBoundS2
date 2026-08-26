@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.67
+
+- Fixed the charcoal dust split from v1.66: Create Ironworks charcoal dust no longer shows up on the Crushing Wheel. The Crushing Wheel now gives only Create Gunsmithing charcoal dust, and Create Ironworks charcoal dust comes from the Millstone.
+
+
 # Skybound SMP Season 2, v1.66
 
 - Charcoal dust processing is now split across machines so each mod's dust has its own path. The Crushing Wheel and the Millstone each produce their own charcoal dust. Mekanism charcoal dust now needs an extra step: press Charcoal into Pressed Charcoal first, then crush the Pressed Charcoal. New item added: Pressed Charcoal.
