@@ -1,1 +1,1 @@
-v1.66: Charcoal dust split. Crushing Wheel and Millstone each give their own charcoal dust; Mekanism charcoal dust now needs Pressed Charcoal (press charcoal, then crush) first.
+v1.67: Charcoal dust fix. Create Ironworks charcoal dust is off the Crushing Wheel now, it comes from the Millstone; the Crushing Wheel gives Create Gunsmithing charcoal dust.
