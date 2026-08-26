@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.66
+
+- Charcoal dust processing is now split across machines so each mod's dust has its own path. The Crushing Wheel and the Millstone each produce their own charcoal dust. Mekanism charcoal dust now needs an extra step: press Charcoal into Pressed Charcoal first, then crush the Pressed Charcoal. New item added: Pressed Charcoal.
+
+
 # Skybound SMP Season 2, v1.65
 
 - Fixed the in-game updater so it only updates when you press Update in the main menu. Before, an interrupted or failed update could leave it re-running on every launch; now each Update press is a single attempt.
