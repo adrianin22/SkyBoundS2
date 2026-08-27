@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.72
+
+- Removed Mobs of Mythology. If you had any of its mobs or blocks placed, they will disappear.
+
+
 # Skybound SMP Season 2, v1.71
 
 - Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
