@@ -1,1 +1,1 @@
-v1.67: Charcoal dust fix. Create Ironworks charcoal dust is off the Crushing Wheel now, it comes from the Millstone; the Crushing Wheel gives Create Gunsmithing charcoal dust.
+v1.68: TFMG is now the Community Edition (1.2.4b), a bug-fix fork with the same content. Fewer crashes, same factories and recipes.
