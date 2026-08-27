@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.68
+
+- Switched Create: The Factory Must Grow to the Community Edition (1.2.4b). It is a bug-fix fork with the same content, so your factories and recipes are unchanged. Expect fewer TFMG crashes and bugs.
+
+
 # Skybound SMP Season 2, v1.67
 
 - Fixed the charcoal dust split from v1.66: Create Ironworks charcoal dust no longer shows up on the Crushing Wheel. The Crushing Wheel now gives only Create Gunsmithing charcoal dust, and Create Ironworks charcoal dust comes from the Millstone.
