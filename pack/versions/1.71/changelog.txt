@@ -1,0 +1,1 @@
+- Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
