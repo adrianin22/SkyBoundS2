@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.69
+
+- Swapped the Create Northstar bridge (cnbridge) for AeroStar, patched to work with Create Northstar Redux. This enables the Dimensional Drive to travel to the planets. If you hit a one-time crash right after updating, relaunch.
+
+
 # Skybound SMP Season 2, v1.68
 
 - Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
