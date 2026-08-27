@@ -1,1 +1,1 @@
-v1.70: Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
+v1.71: Removed the default recipes from Create: Many More Mechanisms; the pack will use its own recipes for those items.
