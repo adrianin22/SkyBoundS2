@@ -1,1 +1,1 @@
-v1.71: Removed the default recipes from Create: Many More Mechanisms; the pack will use its own recipes for those items.
+v1.72: Removed Mobs of Mythology. Any of its mobs or blocks you had placed will disappear.
