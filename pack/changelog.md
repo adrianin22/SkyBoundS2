@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.71
+
+- Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
+
+
 # Skybound SMP Season 2, v1.70
 
 - Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
