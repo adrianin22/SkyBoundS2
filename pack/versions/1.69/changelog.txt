@@ -1,0 +1,1 @@
+- Swapped the Create Northstar bridge (cnbridge) for AeroStar, patched to work with Create Northstar Redux. This enables the Dimensional Drive to travel to the planets. If you hit a one-time crash right after updating, relaunch.
