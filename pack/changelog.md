@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.73
+
+- Reworked how you unlock Mekanism. The Mekanism Research Catalyst now has a full custom crafting tree built from Create: Many More Mechanisms cores: five top-tier mechanisms (Industrial, Factory, Arcane, Primal and Pioneer) each assembled from parts across the pack's Create add-ons.
+- The Research Catalyst finally has its own item icon.
+
+
 # Skybound SMP Season 2, v1.72
 
 - Removed Mobs of Mythology. If you had any of its mobs or blocks placed, they will disappear.
@@ -296,13 +302,6 @@
 # Skybound SMP Season 2, v1.25
 
 - **MineMenu preset is now optional.** Click **Install MineMenu** on the main menu to get the preset radial menu (keybinds and entries). It no longer installs with the update, so your own MineMenu setup is left alone unless you click it.
-
-
-# Skybound SMP Season 2, v1.24
-
-- Reverted NeoForge back to 21.1.235.
-- Removed **Coasters Simulated: Track Styles** (it required a newer NeoForge that broke other mods).
-- Coasters: Magnetized and More Wheels stay.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
