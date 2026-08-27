@@ -1,1 +1,2 @@
-- Switched Create: The Factory Must Grow to the Community Edition (1.2.4b). It is a bug-fix fork with the same content, so your factories and recipes are unchanged. Expect fewer TFMG crashes and bugs.
+- Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
+- Removed the Fix TFMG Controller add-on: it is incompatible with the Community Edition (which reworked the engine controller) and would crash the game. The engine controller now behaves as it does in stock TFMG CE.
