@@ -1,3 +1,50 @@
+# Skybound SMP Season 2, v1.73
+
+- Reworked how you unlock Mekanism. The Mekanism Research Catalyst now has a full custom crafting tree built from Create: Many More Mechanisms cores: five top-tier mechanisms (Industrial, Factory, Arcane, Primal and Pioneer) each assembled from parts across the pack's Create add-ons.
+- The Research Catalyst finally has its own item icon.
+
+
+# Skybound SMP Season 2, v1.72
+
+- Removed Mobs of Mythology. If you had any of its mobs or blocks placed, they will disappear.
+
+
+# Skybound SMP Season 2, v1.71
+
+- Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
+
+
+# Skybound SMP Season 2, v1.70
+
+- Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
+
+
+# Skybound SMP Season 2, v1.69
+
+- Swapped the Create Northstar bridge (cnbridge) for AeroStar, patched to work with Create Northstar Redux. This enables the Dimensional Drive to travel to the planets. If you hit a one-time crash right after updating, relaunch.
+
+
+# Skybound SMP Season 2, v1.68
+
+- Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
+- Removed the Fix TFMG Controller add-on: it is incompatible with the Community Edition (which reworked the engine controller) and would crash the game. The engine controller now behaves as it does in stock TFMG CE.
+
+
+# Skybound SMP Season 2, v1.67
+
+- Fixed the charcoal dust split from v1.66: Create Ironworks charcoal dust no longer shows up on the Crushing Wheel. The Crushing Wheel now gives only Create Gunsmithing charcoal dust, and Create Ironworks charcoal dust comes from the Millstone.
+
+
+# Skybound SMP Season 2, v1.66
+
+- Charcoal dust processing is now split across machines so each mod's dust has its own path. The Crushing Wheel and the Millstone each produce their own charcoal dust. Mekanism charcoal dust now needs an extra step: press Charcoal into Pressed Charcoal first, then crush the Pressed Charcoal. New item added: Pressed Charcoal.
+
+
+# Skybound SMP Season 2, v1.65
+
+- Fixed the in-game updater so it only updates when you press Update in the main menu. Before, an interrupted or failed update could leave it re-running on every launch; now each Update press is a single attempt.
+
+
 # Skybound SMP Season 2, v1.64
 
 - Removed Undead Unleashed. Wraiths and dreadknights were flooding the world and crowding out other mobs; the mod is now gone so you should see much more mob variety.
@@ -262,54 +309,6 @@
 - Reverted NeoForge back to 21.1.235.
 - Removed **Coasters Simulated: Track Styles** (it required a newer NeoForge that broke other mods).
 - Coasters: Magnetized and More Wheels stay.
-
-
-# Skybound SMP Season 2, v1.23
-
-## Engine
-- **NeoForge updated 21.1.235 -> 21.1.248.** The launcher will download it automatically on next start.
-
-## New roller coasters and wheels
-- **Coasters: Magnetized**, **Coasters Simulated: Track Styles** and **More Wheels** (with the StickyWheels offroad addon).
-
-## Create and Aeronautics additions
-- Create Aeronautics: Covers, Radionautics, Sonar, Weight, Aeroclaims, Lift-n-Load, Analog Audio (radios and speakers), and more addons.
-- **SSRD**: airships now render far beyond your view distance.
-- **Distant Horizons**: you now see far terrain streamed from the server (no local generation needed).
-- New airships and aircraft frameworks (Northstar, createaviation, avionics), plus Radar/Sonar and train parts.
-- Create Mekanism Compatibility rework, Fluid Logistics, Parallel Pipes, Grappling Hooks.
-
-## Content, decoration and mobs
-- Alex's Mobs, Born in Chaos, Mobs of Mythology, Critters and Companions, Starcatcher, Jaden's Nether Expansion, Simply Swords.
-- Lots of decoration: Saros road blocks and signs, Ornamentum, Mo-Glass, industrial and immersive furniture, and more.
-- Sophisticated Backpacks, PneumaticCraft Repressurized, Storage Drawers.
-
-## Quality of life and clients
-- Xaero's minimap and world map, Legendary Tooltips, Chat Heads, Inventory Management, Zoom, Cosmetica, ModernFix, Smooth Boot, world backups.
-- **Vivecraft** (VR support) and **Simple Voice Chat**.
-- Euro currency for Numismatics coins.
-
-## Gameplay changes
-- **Mekanism** is now gated: craft the Mekanism Key by hand to unlock it (per player).
-- **Distant Horizons** set to stream from the server; **HighSeas** ocean waves enabled.
-- ION thruster thrust reduced to match the standard fuel thruster.
-- Alex's Mobs Fly no longer spawns naturally.
-- Create Flight Control recipes disabled except the Attitude Display.
-- Aeronautics: Interstellar Expansion recipes disabled for now.
-- Plunger and Grapple launchers only work in the Overworld.
-- Teleporter items removed to keep the Create/Aeronautics logistics focus.
-- Main menu locked down (modpack mode).
-
-## Removed
-- All guns (TACZ, Elite Guns), keeping Create Gunsmithing.
-- Immersive Engineering and the old aircraft/vehicle pack (Immersive Aircraft, Man of Many Planes, Immersive Vehicles, Civilian Aviation, Create Automotives, More Engines, Cosmonautics).
-- PMWeather (and its shaders/aeronautics addons), Emotecraft, Vista, SableBeyond, Pondus, Sablewaves, and several tools replaced by newer versions.
-
-
-# Skybound SMP Season 2, v1.22
-
-## Removed
-- **Overeating** - not compatible with dedicated servers (crashed on load).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
