@@ -1,0 +1,1 @@
+- Fixed the lodestone compass on Sable sub levels. While standing on a sub level the needle was stuck pointing a fixed direction instead of tracking the lodestone; it now points to the correct block. Overworld and normal use are unchanged.
