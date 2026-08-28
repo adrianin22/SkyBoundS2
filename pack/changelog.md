@@ -1,3 +1,8 @@
+# Skybound SMP Season 2, v1.74
+
+- Fixed the lodestone compass on Sable sub levels. While standing on a sub level the needle was stuck pointing a fixed direction instead of tracking the lodestone; it now points to the correct block. Overworld and normal use are unchanged.
+
+
 # Skybound SMP Season 2, v1.73
 
 - Reworked how you unlock Mekanism. The Mekanism Research Catalyst now has a full custom crafting tree built from Create: Many More Mechanisms cores: five top-tier mechanisms (Industrial, Factory, Arcane, Primal and Pioneer) each assembled from parts across the pack's Create add-ons.
@@ -297,11 +302,6 @@
 # Skybound SMP Season 2, v1.26
 
 - Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
-
-
-# Skybound SMP Season 2, v1.25
-
-- **MineMenu preset is now optional.** Click **Install MineMenu** on the main menu to get the preset radial menu (keybinds and entries). It no longer installs with the update, so your own MineMenu setup is left alone unless you click it.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
