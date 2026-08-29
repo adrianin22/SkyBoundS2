@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v1.75
+
+New content, four additions:
+- Create: Blocks & Bogies. New train blocks and bogies for Create and Steam'n'Rails builds.
+- Coasters: Engineered. Buildable roller coasters that tie into Create.
+- Create: Schematic Checker. Shows the exact materials a schematic still needs before it can print.
+- Dashpanels: Expanded. More dash panels and movement options on top of the base Dashpanels mod.
+
+
 # Skybound SMP Season 2, v1.74
 
 - Fixed the lodestone compass on Sable sub levels. While standing on a sub level the needle was stuck pointing a fixed direction instead of tracking the lodestone; it now points to the correct block. Overworld and normal use are unchanged.
@@ -302,11 +311,6 @@
 # Skybound SMP Season 2, v1.26
 
 - Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
-
-
-# Skybound SMP Season 2, v1.25
-
-- **MineMenu preset is now optional.** Click **Install MineMenu** on the main menu to get the preset radial menu (keybinds and entries). It no longer installs with the update, so your own MineMenu setup is left alone unless you click it.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
