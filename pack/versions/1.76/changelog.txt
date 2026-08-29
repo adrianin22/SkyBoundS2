@@ -1,0 +1,4 @@
+Lodestone compass fix:
+- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
+- This also keeps the earlier fix for using the compass while standing on a ship.
+Client only, no server restart needed.
