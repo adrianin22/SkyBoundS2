@@ -1,1 +1,1 @@
-v1.75: Added Create: Blocks & Bogies, Coasters: Engineered, Create: Schematic Checker, and Dashpanels: Expanded.
+v1.76: Fixed the lodestone compass needle when the lodestone is on a Sable ship or sublevel. Client only.
