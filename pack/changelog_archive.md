@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.77
+
+Dimensional Drive fix + shaders:
+- Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
+- Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
+Server restart may be needed for the drive fix to take effect.
+
+
 # Skybound SMP Season 2, v1.76
 
 Lodestone compass fix:
@@ -303,12 +311,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.30
 
 - Added Showcase Item: press Shift + X to show the item you are holding in chat, so others can hover it to see its full tooltip. Great for trading and showing off builds.
-
-
-# Skybound SMP Season 2, v1.29
-
-- Fixed the pack updater: the download is now checked for completeness and retried automatically, so the modpack no longer fails to download or installs only some of the mods for certain players.
-- If an update cannot finish (for example a dropped connection), it now retries on the next launch instead of starting the game with a half-updated mods folder.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
