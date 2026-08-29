@@ -1,1 +1,1 @@
-v1.76: Fixed the lodestone compass needle when the lodestone is on a Sable ship or sublevel. Client only.
+v1.77: Fixed the AeroStar Dimensional Drive so ships actually travel to space, and added optional shaderpacks (off by default). Server restart may be needed.
