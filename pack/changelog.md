@@ -6,6 +6,14 @@ Lodestone compass fix:
 Client only, no server restart needed.
 
 
+# Skybound SMP Season 2, v1.76
+
+Lodestone compass fix:
+- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
+- This also keeps the earlier fix for using the compass while standing on a ship.
+Client only, no server restart needed.
+
+
 # Skybound SMP Season 2, v1.75
 
 New content, four additions:
@@ -295,12 +303,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.30
 
 - Added Showcase Item: press Shift + X to show the item you are holding in chat, so others can hover it to see its full tooltip. Great for trading and showing off builds.
-
-
-# Skybound SMP Season 2, v1.29
-
-- Fixed the pack updater: the download is now checked for completeness and retried automatically, so the modpack no longer fails to download or installs only some of the mods for certain players.
-- If an update cannot finish (for example a dropped connection), it now retries on the next launch instead of starting the game with a half-updated mods folder.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
