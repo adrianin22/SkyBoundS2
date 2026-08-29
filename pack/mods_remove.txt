@@ -224,3 +224,4 @@ mods/tfmg-1.2.2.jar
 mods/fix_tfmgcontroller-1.0.3.jar
 mods/cnbridge-1.0.0.jar
 mods/mobs_of_mythology-neoforge-1.21.1-3.0.0.jar
+mods/AeroStar-1.0.1-skybound1.jar
