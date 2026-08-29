@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.77
+
+Dimensional Drive fix + shaders:
+- Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
+- Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
+Server restart may be needed for the drive fix to take effect.
+
+
 # Skybound SMP Season 2, v1.76
 
 Lodestone compass fix:
@@ -290,19 +298,6 @@ New content, four additions:
 
 - Added **Create: Copycats+ Additions**: extra copycat variants (corner slopes, layered corner slopes, and wall-mounted slope layers).
 - **Dimensional Drive** now has a proper recipe: Precision Mechanisms, a Gyroscope, Ender Pearls and Electron Tubes (replaces the old Northstar titanium and computer-chip recipe).
-
-
-# Skybound SMP Season 2, v1.31
-
-- Removed **Pehkui** (unused entity-scaling library) to cut server-side entity tick overhead.
-- Removed **The Roads More Travelled**.
-- Fixed **Basic Mechanism** crafting: its sequenced assembly no longer clashes with the Gyroscopic Mechanism. The first deploy step is now Andesite Alloy instead of a Cogwheel, so both are craftable.
-- Fixed **Rose Quartz**: restored its crafting recipe (1 Quartz + 8 Redstone). It had no recipe before.
-
-
-# Skybound SMP Season 2, v1.30
-
-- Added Showcase Item: press Shift + X to show the item you are holding in chat, so others can hover it to see its full tooltip. Great for trading and showing off builds.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
