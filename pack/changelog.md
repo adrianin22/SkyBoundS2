@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.76
+
+Lodestone compass fix:
+- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
+- This also keeps the earlier fix for using the compass while standing on a ship.
+Client only, no server restart needed.
+
+
 # Skybound SMP Season 2, v1.75
 
 New content, four additions:
@@ -293,14 +301,6 @@ New content, four additions:
 
 - Fixed the pack updater: the download is now checked for completeness and retried automatically, so the modpack no longer fails to download or installs only some of the mods for certain players.
 - If an update cannot finish (for example a dropped connection), it now retries on the next launch instead of starting the game with a half-updated mods folder.
-
-
-# Skybound SMP Season 2, v1.28
-
-- Added **AppleSkin**: shows food saturation and hunger restored in the HUD and tooltips.
-- Added **BandwidthOptimizer** and **Apex Network**: network optimizations to cut lag spikes and connection timeouts.
-- Removed **NBT Compat**: it was retexturing Create casings (and could break them). Casings return to their normal look.
-- Fixed: your **Xaero minimap / world map** settings and waypoints are no longer reset when you update.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
