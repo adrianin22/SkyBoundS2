@@ -1,0 +1,4 @@
+Dimensional Drive fix + shaders:
+- Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
+- Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
+Server restart may be needed for the drive fix to take effect.
