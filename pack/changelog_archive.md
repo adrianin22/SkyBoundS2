@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.76
+
+Lodestone compass fix:
+- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
+- This also keeps the earlier fix for using the compass while standing on a ship.
+Client only, no server restart needed.
+
+
 # Skybound SMP Season 2, v1.75
 
 New content, four additions:
@@ -301,16 +309,6 @@ New content, four additions:
 - Added **BandwidthOptimizer** and **Apex Network**: network optimizations to cut lag spikes and connection timeouts.
 - Removed **NBT Compat**: it was retexturing Create casings (and could break them). Casings return to their normal look.
 - Fixed: your **Xaero minimap / world map** settings and waypoints are no longer reset when you update.
-
-
-# Skybound SMP Season 2, v1.27
-
-- Removed **Create Grappling Hooks**: it crashed clients when a Plunger was rendered on the server. The Plunger Launcher from Create Aeronautics is unaffected.
-
-
-# Skybound SMP Season 2, v1.26
-
-- Fixed the **Install MineMenu** button: it now just applies the preset instead of opening the update screen. Restart once after clicking to see the radial menu.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
