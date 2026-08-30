@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.78
+
+Compass fix:
+- Fixed lodestone compasses pointing the wrong way when the lodestone is placed on a ship (sublevel). Attune a compass to a lodestone on your ship and the needle now tracks it correctly as the ship moves, whether you are standing on the ship or watching from the ground.
+- Note: attune the compass AFTER the lodestone is part of the ship. A compass locked to a lodestone before it was assembled still points at the old spot.
+Server restart may be needed for this to take effect.
+
+
 # Skybound SMP Season 2, v1.77
 
 Dimensional Drive fix + shaders:
@@ -292,12 +300,6 @@ New content, four additions:
 
 - Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
 - Mechanical Saw is craftable again (its recipe had been removed by mistake).
-
-
-# Skybound SMP Season 2, v1.32
-
-- Added **Create: Copycats+ Additions**: extra copycat variants (corner slopes, layered corner slopes, and wall-mounted slope layers).
-- **Dimensional Drive** now has a proper recipe: Precision Mechanisms, a Gyroscope, Ender Pearls and Electron Tubes (replaces the old Northstar titanium and computer-chip recipe).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
