@@ -1,1 +1,1 @@
-v1.80: Removed Alex's Mobs (it was crashing the server via froststalker). Existing Alex's Mobs creatures/blocks will disappear. Server restart needed.
+v1.81: Removed Northstar Redux + AeroStar + Northstar Curios compat + Create Aeronautics FTB Chunks. Anything inside Northstar dimensions becomes unreachable. Server restart needed.
