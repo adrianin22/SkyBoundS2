@@ -1,1 +1,1 @@
-v1.78: Fixed lodestone compasses pointing the wrong way when the lodestone sits on a ship. Server restart may be needed.
+v1.79: The in-game update screen with a progress bar is back. Client-side only, no server restart needed.
