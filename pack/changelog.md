@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.79
+
+Updater:
+- The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
+- It shows real progress for both the small incremental updates and the full first-time download.
+No gameplay changes, and no server restart needed.
+
+
 # Skybound SMP Season 2, v1.78
 
 Compass fix:
@@ -294,12 +302,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.34
 
 - Big FPS fix for sound: high in-game volume no longer tanks framerate. The audio physics (Sound Physics) was doing very expensive per-sound raytracing; ray counts are lowered and the heaviest experimental effects (multipath, propeller diffraction, per-tick doppler) are disabled. Reverb and occlusion still work.
-
-
-# Skybound SMP Season 2, v1.33
-
-- Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
-- Mechanical Saw is craftable again (its recipe had been removed by mistake).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
