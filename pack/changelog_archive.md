@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v1.81
+
+Mod removals:
+- Removed Northstar Redux (the space dimensions mod) and its Aeronautics add-on (AeroStar), plus the Northstar Curios compat.
+- Removed Create Aeronautics FTB Chunks compat.
+- Anything built inside the Northstar dimensions will no longer be reachable.
+- The Eclipse Alloy Mechanism no longer has a recipe (it used Northstar parts); the Mekanism-key tree is unaffected in progression outside that branch.
+Server restart needed for this to fully take effect.
+
+
 # Skybound SMP Season 2, v1.80
 
 Mob change:
@@ -305,11 +315,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.35
 
 - Create Sand Paper now costs a second paper: 2 paper + sand (was 1 paper + sand).
-
-
-# Skybound SMP Season 2, v1.34
-
-- Big FPS fix for sound: high in-game volume no longer tanks framerate. The audio physics (Sound Physics) was doing very expensive per-sound raytracing; ray counts are lowered and the heaviest experimental effects (multipath, propeller diffraction, per-tick doppler) are disabled. Reverb and occlusion still work.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
