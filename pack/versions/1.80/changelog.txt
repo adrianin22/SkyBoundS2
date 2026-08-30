@@ -1,0 +1,4 @@
+Mob change:
+- Removed Alex's Mobs. It was causing repeated server ticking crashes (froststalker), so it has been taken out for everyone.
+- Any Alex's Mobs creatures or blocks already in the world will disappear. Citadel stays (other mods use it).
+Server restart needed for this to fully take effect.
