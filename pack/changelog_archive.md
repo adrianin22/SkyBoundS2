@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.79
+
+Updater:
+- The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
+- It shows real progress for both the small incremental updates and the full first-time download.
+No gameplay changes, and no server restart needed.
+
+
 # Skybound SMP Season 2, v1.78
 
 Compass fix:
@@ -300,12 +308,6 @@ New content, four additions:
 
 - Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
 - Mechanical Saw is craftable again (its recipe had been removed by mistake).
-
-
-# Skybound SMP Season 2, v1.32
-
-- Added **Create: Copycats+ Additions**: extra copycat variants (corner slopes, layered corner slopes, and wall-mounted slope layers).
-- **Dimensional Drive** now has a proper recipe: Precision Mechanisms, a Gyroscope, Ender Pearls and Electron Tubes (replaces the old Northstar titanium and computer-chip recipe).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
