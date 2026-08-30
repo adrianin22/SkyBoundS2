@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.80
+
+Mob change:
+- Removed Alex's Mobs. It was causing repeated server ticking crashes (froststalker), so it has been taken out for everyone.
+- Any Alex's Mobs creatures or blocks already in the world will disappear. Citadel stays (other mods use it).
+Server restart needed for this to fully take effect.
+
+
 # Skybound SMP Season 2, v1.79
 
 Updater:
@@ -302,12 +310,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.34
 
 - Big FPS fix for sound: high in-game volume no longer tanks framerate. The audio physics (Sound Physics) was doing very expensive per-sound raytracing; ray counts are lowered and the heaviest experimental effects (multipath, propeller diffraction, per-tick doppler) are disabled. Reverb and occlusion still work.
-
-
-# Skybound SMP Season 2, v1.33
-
-- Distant Horizons and the FTB minimap no longer get reset every update. Your render distance, LOD quality, minimap layout and related client settings now stay exactly as you set them.
-- Mechanical Saw is craftable again (its recipe had been removed by mistake).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
