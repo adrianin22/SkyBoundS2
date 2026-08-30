@@ -1,0 +1,4 @@
+Updater:
+- The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
+- It shows real progress for both the small incremental updates and the full first-time download.
+No gameplay changes, and no server restart needed.
