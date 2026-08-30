@@ -1,1 +1,1 @@
-v1.79: The in-game update screen with a progress bar is back. Client-side only, no server restart needed.
+v1.80: Removed Alex's Mobs (it was crashing the server via froststalker). Existing Alex's Mobs creatures/blocks will disappear. Server restart needed.
