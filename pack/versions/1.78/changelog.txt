@@ -1,0 +1,4 @@
+Compass fix:
+- Fixed lodestone compasses pointing the wrong way when the lodestone is placed on a ship (sublevel). Attune a compass to a lodestone on your ship and the needle now tracks it correctly as the ship moves, whether you are standing on the ship or watching from the ground.
+- Note: attune the compass AFTER the lodestone is part of the ship. A compass locked to a lodestone before it was assembled still points at the old spot.
+Server restart may be needed for this to take effect.
