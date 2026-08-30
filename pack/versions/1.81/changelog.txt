@@ -1,0 +1,6 @@
+Mod removals:
+- Removed Northstar Redux (the space dimensions mod) and its Aeronautics add-on (AeroStar), plus the Northstar Curios compat.
+- Removed Create Aeronautics FTB Chunks compat.
+- Anything built inside the Northstar dimensions will no longer be reachable.
+- The Eclipse Alloy Mechanism no longer has a recipe (it used Northstar parts); the Mekanism-key tree is unaffected in progression outside that branch.
+Server restart needed for this to fully take effect.
