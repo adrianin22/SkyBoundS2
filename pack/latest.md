@@ -1,1 +1,1 @@
-v1.81: Removed Northstar Redux + AeroStar + Northstar Curios compat + Create Aeronautics FTB Chunks. Anything inside Northstar dimensions becomes unreachable. Server restart needed.
+v1.82: New Create add-ons (Computationally Expensive, Mechanical Chicken, Mechanical Cow, Backtank Trims & Dyes), Create FPS Optimizer, and Creative Mode Tweaks. Simulated Coasters and its add-ons removed for now; coaster blocks in-world will show as missing.
