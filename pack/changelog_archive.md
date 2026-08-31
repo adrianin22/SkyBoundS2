@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v1.82
+
+New mods:
+- Create: Computationally Expensive, adds compute power into Create: Power Grid.
+- Create: Mechanical Chicken and Create: Mechanical Cow, kinetic egg and milk generators.
+- Create: Backtank Trims & Dyes, cosmetic trims and dyes for backtanks.
+- Create: FPS Optimizer, a client-side render optimizer for Create contraptions.
+- Creative Mode Tweaks, quality-of-life tweaks for creative mode.
+Removed:
+- Simulated Coasters and its add-ons (Coasters Engineered, Coasters Magnetized) are removed for now.
+- Coaster blocks already placed in the world will show as missing until coasters return.
+
+
 # Skybound SMP Season 2, v1.81
 
 Mod removals:
@@ -294,27 +307,6 @@ New content, four additions:
 - Added WaterMedia binaries so Vista video screens work.
 - Removed Really Fast Load (was crashing the game on startup).
 - Removed Born in Chaos and Create Nuclear (they were blocking you from joining the server).
-
-
-# Skybound SMP Season 2, v1.37
-
-- New creatures: Creatures and Beasts, Mowzie's Mobs, Myths and Legends, Luminous Beasts, Undead Unleashed.
-- New content: Vista (cameras and monitors that can play video via WaterMedia), plus decoration mods (Display Delight, Placeable Items, Portalium, Gradium).
-- Added mob spawning control mods and Really Fast Load for faster world loading.
-- Removed Chloride (it caused a startup crash together with the new video mod).
-
-
-# Skybound SMP Season 2, v1.36
-
-- Removed mod: Psi.
-- Create Sand Paper is back to its normal recipe (1 paper + sand).
-- Sand + an item no longer crafts into suspicious sand.
-- Updates no longer overwrite your video (Sodium) and shader (Iris) settings.
-
-
-# Skybound SMP Season 2, v1.35
-
-- Create Sand Paper now costs a second paper: 2 paper + sand (was 1 paper + sand).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
