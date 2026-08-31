@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v1.82
+
+New mods:
+- Create: Computationally Expensive, adds compute power into Create: Power Grid.
+- Create: Mechanical Chicken and Create: Mechanical Cow, kinetic egg and milk generators.
+- Create: Backtank Trims & Dyes, cosmetic trims and dyes for backtanks.
+- Create: FPS Optimizer, a client-side render optimizer for Create contraptions.
+- Creative Mode Tweaks, quality-of-life tweaks for creative mode.
+Removed:
+- Simulated Coasters and its add-ons (Coasters Engineered, Coasters Magnetized) are removed for now.
+- Coaster blocks already placed in the world will show as missing until coasters return.
+
+
 # Skybound SMP Season 2, v1.81
 
 Mod removals:
@@ -286,14 +299,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.39
 
 - Removed the gnetum mod.
-
-
-# Skybound SMP Season 2, v1.38
-
-- Hotfix for v1.37: fixed startup crashes and the server connection error.
-- Added WaterMedia binaries so Vista video screens work.
-- Removed Really Fast Load (was crashing the game on startup).
-- Removed Born in Chaos and Create Nuclear (they were blocking you from joining the server).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
