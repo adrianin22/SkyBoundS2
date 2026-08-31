@@ -1,0 +1,9 @@
+New mods:
+- Create: Computationally Expensive, adds compute power into Create: Power Grid.
+- Create: Mechanical Chicken and Create: Mechanical Cow, kinetic egg and milk generators.
+- Create: Backtank Trims & Dyes, cosmetic trims and dyes for backtanks.
+- Create: FPS Optimizer, a client-side render optimizer for Create contraptions.
+- Creative Mode Tweaks, quality-of-life tweaks for creative mode.
+Removed:
+- Simulated Coasters and its add-ons (Coasters Engineered, Coasters Magnetized) are removed for now.
+- Coaster blocks already placed in the world will show as missing until coasters return.
