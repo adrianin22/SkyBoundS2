@@ -1,0 +1,2 @@
+Removed:
+- Click Signs is removed (it was crashing the dedicated server).
