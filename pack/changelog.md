@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.83
+
+New mod:
+- Click Signs, create custom highway and street signs for city building with customizable text and colors.
+Removed:
+- Creative Mode Tweaks is removed.
+
+
 # Skybound SMP Season 2, v1.82
 
 New mods:
@@ -285,20 +293,6 @@ New content, four additions:
 - Removed Mekanism Nuclear Weapons and Explosives.
 - Removed Puddles.
 - Removed Vintage Animations.
-
-
-# Skybound SMP Season 2, v1.40
-
-- Added Connectivity (fixes join/disconnect issues on large modpacks).
-- Added Chunk Sending, Fast Async World Save and Structure Essentials (server performance, smoother chunk loading).
-- Added Better FPS - Render Distance and Fix GPU Memory Leak (client FPS).
-- Removed SpiffyHUD (it caused heavy per-frame HUD overhead and FPS loss).
-- Fixed around 1450 broken Create add-on recipes.
-
-
-# Skybound SMP Season 2, v1.39
-
-- Removed the gnetum mod.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
