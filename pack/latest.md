@@ -1,1 +1,1 @@
-v1.83: Added Click Signs (custom highway and street signs for city building). Removed Creative Mode Tweaks.
+v1.84: Removed Click Signs (it was crashing the dedicated server).
