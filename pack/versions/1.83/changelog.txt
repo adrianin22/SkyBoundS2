@@ -1,0 +1,4 @@
+New mod:
+- Click Signs, create custom highway and street signs for city building with customizable text and colors.
+Removed:
+- Creative Mode Tweaks is removed.
