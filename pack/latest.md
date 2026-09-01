@@ -1,1 +1,1 @@
-v1.82: New Create add-ons (Computationally Expensive, Mechanical Chicken, Mechanical Cow, Backtank Trims & Dyes), Create FPS Optimizer, and Creative Mode Tweaks. Simulated Coasters and its add-ons removed for now; coaster blocks in-world will show as missing.
+v1.83: Added Click Signs (custom highway and street signs for city building). Removed Creative Mode Tweaks.
