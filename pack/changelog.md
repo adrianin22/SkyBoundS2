@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v1.84
+
+Removed:
+- Click Signs is removed (it was crashing the dedicated server).
+
+
 # Skybound SMP Season 2, v1.83
 
 New mod:
