@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v1.83
+
+New mod:
+- Click Signs, create custom highway and street signs for city building with customizable text and colors.
+Removed:
+- Creative Mode Tweaks is removed.
+
+
 # Skybound SMP Season 2, v1.82
 
 New mods:
@@ -299,14 +307,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.39
 
 - Removed the gnetum mod.
-
-
-# Skybound SMP Season 2, v1.38
-
-- Hotfix for v1.37: fixed startup crashes and the server connection error.
-- Added WaterMedia binaries so Vista video screens work.
-- Removed Really Fast Load (was crashing the game on startup).
-- Removed Born in Chaos and Create Nuclear (they were blocking you from joining the server).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
