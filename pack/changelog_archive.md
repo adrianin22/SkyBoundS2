@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.86
+
+Added:
+- Kosmo: a new custom addon with moon ores, titanium, and more (custom mod, work in progress).
+- Abyssal Decor.
+
+Updated:
+- Industrial Hellscape 1.1.1 -> 1.1.94.
+- Mass mod update: 97 other mods bumped to their latest compatible version.
+
+Removed:
+- StasisMod.
+
+
 # Skybound SMP Season 2, v1.85
 
 Added:
@@ -294,18 +308,6 @@ New content, four additions:
 
 - Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
 - Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
-
-
-# Skybound SMP Season 2, v1.41
-
-- Added FramedBlocks and Fix Framed Blocks.
-- Removed Apex Network (it caused repeated disconnects for clients that had not updated).
-- Removed AmbientSounds.
-- Removed Vivecraft (VR support).
-- Removed KubeJS Visual Recipe Maker.
-- Removed Mekanism Nuclear Weapons and Explosives.
-- Removed Puddles.
-- Removed Vintage Animations.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
