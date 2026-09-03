@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.86
+
+Added:
+- Kosmo: a new custom addon with moon ores, titanium, and more (custom mod, work in progress).
+- Abyssal Decor.
+
+Updated:
+- Industrial Hellscape 1.1.1 -> 1.1.94.
+- Mass mod update: 97 other mods bumped to their latest compatible version.
+
+Removed:
+- StasisMod.
+
+
 # Skybound SMP Season 2, v1.85
 
 Added:
@@ -288,12 +302,6 @@ New content, four additions:
 - Removed PneumaticCraft, More Propulsion, Biome Replacer, Create Aeronautics Automated Logistics, Ambient Environment, Better Grass-ify, Oil Canister, Lift n Load.
 - Precision Mechanism and Blaze Burner now use their vanilla Create recipes again.
 - Fixed the Mechanical Extruder pole rendering error that caused heavy FPS drops nearby (auto-applied resource pack).
-
-
-# Skybound SMP Season 2, v1.42
-
-- Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
-- Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
