@@ -1,1 +1,1 @@
-v1.84: Removed Click Signs (it was crashing the dedicated server).
+v1.85: The Mechanical Chicken now also drops feathers and leather. Added crafting recipes for the spike traps.
