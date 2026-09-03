@@ -1,0 +1,10 @@
+Added:
+- Kosmo: a new custom addon with moon ores, titanium, and more (custom mod, work in progress).
+- Abyssal Decor.
+
+Updated:
+- Industrial Hellscape 1.1.1 -> 1.1.94.
+- Mass mod update: 97 other mods bumped to their latest compatible version.
+
+Removed:
+- StasisMod.
