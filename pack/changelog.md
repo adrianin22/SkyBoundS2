@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v1.85
+
+Added:
+- The Mechanical Chicken now also produces feathers (about 50% chance) and leather (about 10% chance) alongside its eggs each cycle.
+- Crafting recipes for the Legendary Monsters spike traps (small and big), which previously had none.
+
+
 # Skybound SMP Season 2, v1.84
 
 Removed:
@@ -287,18 +294,6 @@ New content, four additions:
 
 - Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
 - Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
-
-
-# Skybound SMP Season 2, v1.41
-
-- Added FramedBlocks and Fix Framed Blocks.
-- Removed Apex Network (it caused repeated disconnects for clients that had not updated).
-- Removed AmbientSounds.
-- Removed Vivecraft (VR support).
-- Removed KubeJS Visual Recipe Maker.
-- Removed Mekanism Nuclear Weapons and Explosives.
-- Removed Puddles.
-- Removed Vintage Animations.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
