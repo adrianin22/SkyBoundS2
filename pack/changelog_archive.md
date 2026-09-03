@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v1.87
+
+Hotfix for v1.86, which could not start.
+
+NeoForge is now 21.1.248 (it was 21.1.238). The launcher updater bumps your instance for you.
+
+Six mods from the v1.86 mass update were rolled back, the ones the NeoForge bump does not fix:
+- Bits and Bobs 2.2.9 -> 0.0.44, Create More Girder 2.3.0 -> 2.2.0 and Jaden's Nether
+  Expansion 2.4.1 -> 2.4.0-RC.2 (their newest versions need library mods this pack does not ship).
+- Photon 2.2.5 -> 2.1.5 and AeroIE 1.0.1 -> 1.0.0-hotfix2 (version mismatch between the two).
+- GPUBooster 1.3.2 -> GPUTape 1.0.3 (the newer one crashed on startup, missing library).
+
+Create Crafts & Additions, Supplementaries and Forgified Fabric API keep their v1.86 versions,
+they work now that NeoForge is 21.1.248. Everything else from v1.86 is unchanged.
+
+
 # Skybound SMP Season 2, v1.86
 
 Added:
@@ -302,12 +318,6 @@ New content, four additions:
 - Removed PneumaticCraft, More Propulsion, Biome Replacer, Create Aeronautics Automated Logistics, Ambient Environment, Better Grass-ify, Oil Canister, Lift n Load.
 - Precision Mechanism and Blaze Burner now use their vanilla Create recipes again.
 - Fixed the Mechanical Extruder pole rendering error that caused heavy FPS drops nearby (auto-applied resource pack).
-
-
-# Skybound SMP Season 2, v1.42
-
-- Removed Cosmetica. It was spawning many background threads and caused severe FPS drops and stutter.
-- Replaced Sound Physics Aeronautics with Sound Physics Remastered for stability.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
