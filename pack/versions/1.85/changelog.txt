@@ -1,0 +1,3 @@
+Added:
+- The Mechanical Chicken now also produces feathers (about 50% chance) and leather (about 10% chance) alongside its eggs each cycle.
+- Crafting recipes for the Legendary Monsters spike traps (small and big), which previously had none.
