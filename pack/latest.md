@@ -1,1 +1,1 @@
-v1.85: The Mechanical Chicken now also drops feathers and leather. Added crafting recipes for the spike traps.
+v1.86: Added Kosmo (custom) and Abyssal Decor, updated Industrial Hellscape and 97 other mods, removed StasisMod.
