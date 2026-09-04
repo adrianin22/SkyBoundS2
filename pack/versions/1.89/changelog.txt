@@ -1,0 +1,15 @@
+Fixed the update that never finished, the one that left the launcher sitting on
+"downloading the modpack" instead of starting the game.
+
+What was happening: the update package carried the updater's own program file. Windows keeps
+that file locked while the updater is running, so it could never be written, and the updater
+kept seeing it as a file that was still out of date. That single file made it give up on the
+quick update and re-download the entire 1.2 GB pack instead, every version, forever. Updates
+again download only the files that actually changed, which is a few MB on a normal release.
+
+New installs get a rebuilt updater as well: it never tries to overwrite itself, one file it
+cannot write no longer cancels the whole quick update, and it prints download progress in the
+console so a long download no longer looks frozen.
+
+You do not need to reinstall. The fix above works with the updater you already have. If you
+want a completely clean instance, or the rebuilt updater, use the installer again.
