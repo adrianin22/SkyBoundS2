@@ -1,1 +1,1 @@
-v1.87: hotfix for v1.86. NeoForge moves to 21.1.248 and six mods are rolled back, so the game starts again.
+v1.88: Kosmo no longer paints the space sky over the Overworld, and Venus is a world you can land on.
