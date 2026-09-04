@@ -1,0 +1,11 @@
+Kosmo, the custom space add-on, gets a big fix and a new world.
+
+Fixed: Kosmo was painting its space star field over the sky of the Overworld and of every
+other mod's dimension. Nights looked like deep space, planets hung over them, and the
+vanilla sun was replaced everywhere. Kosmo now only draws the skies it owns, so the
+Overworld and every other dimension are back to their own sky, sun, moon and stars included.
+
+Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the longest
+channel in the system, and its own blocks and ores.
+
+Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
