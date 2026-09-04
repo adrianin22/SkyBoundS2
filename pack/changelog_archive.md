@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v1.90
+
+Two follow-ups to the update fix in v1.89.
+
+The shaderpacks that come with the pack now actually arrive. The pack has carried eight
+shaderpacks since v1.77, but the updater was not looking at that folder, so only people who
+installed from the mrpack ever got them. They are part of what an update installs now.
+
+An update that cannot finish no longer claims it did. If a file cannot be written, for example
+because antivirus is holding it, the pack keeps showing as outdated and asks you to press
+Update again, instead of marking itself up to date with an old file inside.
+
+Both of these live in the rebuilt updater, so they apply to new installs. Nothing to do on an
+existing install.
+
+
 # Skybound SMP Season 2, v1.89
 
 Fixed the update that never finished, the one that left the launcher sitting on
@@ -304,30 +320,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.50
 
 - Fixed a crash that closed the game whenever you ordered or received a package (Create: Mobile Packages). It was caused by a Create Fluid Logistics version mismatch; the pack now ships the matching version.
-
-
-# Skybound SMP Season 2, v1.49
-
-- The updater now shows a progress window when you launch: you can see it downloading and installing, with a percentage, instead of the launcher looking frozen.
-- Reminder: the pack only updates when you press "Update" in the menu. If an update is interrupted, it finishes on the next launch on its own.
-
-
-# Skybound SMP Season 2, v1.48
-
-- Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
-
-
-# Skybound SMP Season 2, v1.47
-
-- Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
-- Added Remorphed (with Woodwalkers and CraftedCore): transform into mobs you defeat.
-- Added Create: Addictives.
-- Fix: the Linked Controller Hub (Drive-by-wire) now drops when broken.
-
-
-# Skybound SMP Season 2, v1.46
-
-- Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
