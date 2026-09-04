@@ -1,3 +1,18 @@
+# Skybound SMP Season 2, v1.88
+
+Kosmo, the custom space add-on, gets a big fix and a new world.
+
+Fixed: Kosmo was painting its space star field over the sky of the Overworld and of every
+other mod's dimension. Nights looked like deep space, planets hung over them, and the
+vanilla sun was replaced everywhere. Kosmo now only draws the skies it owns, so the
+Overworld and every other dimension are back to their own sky, sun, moon and stars included.
+
+Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the longest
+channel in the system, and its own blocks and ores.
+
+Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
+
+
 # Skybound SMP Season 2, v1.87
 
 Hotfix for v1.86, which could not start.
@@ -307,17 +322,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.44
 
 - Removed Create Backpack Pixel. It was crashing the server on every tick.
-
-
-# Skybound SMP Season 2, v1.43
-
-- Added rendering/perf mods: Vira, GPU Tape, MoreCulling, Better Biome Blend, gnetum, Sodium Options Compat, Flywheel OIT Fix, Iris Scale Fix.
-- Replaced the old Iris/Flywheel compat with Colorwheel (+ Colorwheel Patcher) for better shader performance with Create.
-- Added FTB Quests Optimizer and FastWorkbench/FastFurnace/FastSuite (smoother crafting and quests).
-- Added content: Create: Clothes, Protection Pixel, and Create Backpack Pixel.
-- Removed PneumaticCraft, More Propulsion, Biome Replacer, Create Aeronautics Automated Logistics, Ambient Environment, Better Grass-ify, Oil Canister, Lift n Load.
-- Precision Mechanism and Blaze Burner now use their vanilla Create recipes again.
-- Fixed the Mechanical Extruder pole rendering error that caused heavy FPS drops nearby (auto-applied resource pack).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
