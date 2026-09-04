@@ -1,3 +1,18 @@
+# Skybound SMP Season 2, v1.88
+
+Kosmo, the custom space add-on, gets a big fix and a new world.
+
+Fixed: Kosmo was painting its space star field over the sky of the Overworld and of every
+other mod's dimension. Nights looked like deep space, planets hung over them, and the
+vanilla sun was replaced everywhere. Kosmo now only draws the skies it owns, so the
+Overworld and every other dimension are back to their own sky, sun, moon and stars included.
+
+Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the longest
+channel in the system, and its own blocks and ores.
+
+Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
+
+
 # Skybound SMP Season 2, v1.87
 
 Hotfix for v1.86, which could not start.
@@ -294,19 +309,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.46
 
 - Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
-
-
-# Skybound SMP Season 2, v1.45
-
-- Added Qlobal Translator: real-time voice and text chat translation (offline Vosk speech recognition, speech bubbles, Dababel-style side panel with flags).
-- Added LinguaChat: automatic chat message translation.
-- Fixed the Mechanical Extruder pole models that caused an FPS drop near extruders. The fix is now built into the mod, so the ExtruderPoleFix resource pack has been removed.
-- Restored the Create Haunting recipe for Infested Stone.
-
-
-# Skybound SMP Season 2, v1.44
-
-- Removed Create Backpack Pixel. It was crashing the server on every tick.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
