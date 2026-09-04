@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v1.89
+
+Fixed the update that never finished, the one that left the launcher sitting on
+"downloading the modpack" instead of starting the game.
+
+What was happening: the update package carried the updater's own program file. Windows keeps
+that file locked while the updater is running, so it could never be written, and the updater
+kept seeing it as a file that was still out of date. That single file made it give up on the
+quick update and re-download the entire 1.2 GB pack instead, every version, forever. Updates
+again download only the files that actually changed, which is a few MB on a normal release.
+
+New installs get a rebuilt updater as well: it never tries to overwrite itself, one file it
+cannot write no longer cancels the whole quick update, and it prints download progress in the
+console so a long download no longer looks frozen.
+
+You do not need to reinstall. The fix above works with the updater you already have. If you
+want a completely clean instance, or the rebuilt updater, use the installer again.
+
+
 # Skybound SMP Season 2, v1.88
 
 Kosmo, the custom space add-on, gets a big fix and a new world.
@@ -285,30 +304,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.50
 
 - Fixed a crash that closed the game whenever you ordered or received a package (Create: Mobile Packages). It was caused by a Create Fluid Logistics version mismatch; the pack now ships the matching version.
-
-
-# Skybound SMP Season 2, v1.49
-
-- The updater now shows a progress window when you launch: you can see it downloading and installing, with a percentage, instead of the launcher looking frozen.
-- Reminder: the pack only updates when you press "Update" in the menu. If an update is interrupted, it finishes on the next launch on its own.
-
-
-# Skybound SMP Season 2, v1.48
-
-- Removed Qlobal Translator (voice and chat translation). It is gone from both the client and the server.
-
-
-# Skybound SMP Season 2, v1.47
-
-- Qlobal Translator: the menu is now in English, the sound on each translated message is gone, and chat translation is now per-player. Open the Qlobal menu and toggle "Chat Translation" OFF to stop receiving translations (your choice is remembered).
-- Added Remorphed (with Woodwalkers and CraftedCore): transform into mobs you defeat.
-- Added Create: Addictives.
-- Fix: the Linked Controller Hub (Drive-by-wire) now drops when broken.
-
-
-# Skybound SMP Season 2, v1.46
-
-- Removed LinguaChat. It caused client lag and duplicated chat translation with Qlobal Translator (which handles both voice and chat).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
