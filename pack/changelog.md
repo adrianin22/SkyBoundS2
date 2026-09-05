@@ -1,3 +1,24 @@
+# Skybound SMP Season 2, v1.91
+
+Kosmo is out of the pack. The space add-on a friend of ours was building is no longer part of
+Skybound, on the server or in the pack. Nothing was built in its dimensions, so nothing is lost.
+
+Create: Bits and Bobs was shipping twice. The pack carried both 1.0.7 and 1.0.8, which is the
+same mod installed two times over. Only 1.0.8 ships now.
+
+Create FPS Optimizer is gone. It was the suspect behind the long freeze some of us hit while
+the world loaded.
+
+Sodium settings and config keybinds are yours again. Updates no longer overwrite your Sodium
+and Sodium Extra settings, or the FzzyConfig menu keybinds. Whatever you have set stays set.
+
+Wings, jetpacks and thrusters now wear out, and the coin mod matches the server. Both were
+already running on the server and only now reach your game.
+
+Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
+and the Hammer Bid recipes are gone.
+
+
 # Skybound SMP Season 2, v1.90
 
 Two follow-ups to the update fix in v1.89.
@@ -282,30 +303,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.56
 
 - Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
-
-
-# Skybound SMP Season 2, v1.55
-
-- Removed Create: Bionics. Its Anole item had a broken renderer that crashed the game whenever the item was shown in a GUI (for example the portable stock ticker search).
-- Removed All Tutta's Needs.
-- Removed High Seas.
-- Added Connected Textures Mod (CTM).
-- Recipe changes: the obsidian plate is now sawed first in its assembly, and the brass fluid pipe costs one extra brass ingot.
-
-
-# Skybound SMP Season 2, v1.54
-
-- Removed the Continuity connected-textures mod.
-
-
-# Skybound SMP Season 2, v1.53
-
-- Fixed a crash on load for everyone: Create: Gunsmithing 1.4.9 required a newer gun library. Updated NukaTeam's Gun Lib to 3.1.8.
-
-
-# Skybound SMP Season 2, v1.52
-
-- Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
