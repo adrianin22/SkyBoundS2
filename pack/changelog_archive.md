@@ -1,3 +1,24 @@
+# Skybound SMP Season 2, v1.91
+
+Kosmo is out of the pack. The space add-on a friend of ours was building is no longer part of
+Skybound, on the server or in the pack. Nothing was built in its dimensions, so nothing is lost.
+
+Create: Bits and Bobs was shipping twice. The pack carried both 1.0.7 and 1.0.8, which is the
+same mod installed two times over. Only 1.0.8 ships now.
+
+Create FPS Optimizer is gone. It was the suspect behind the long freeze some of us hit while
+the world loaded.
+
+Sodium settings and config keybinds are yours again. Updates no longer overwrite your Sodium
+and Sodium Extra settings, or the FzzyConfig menu keybinds. Whatever you have set stays set.
+
+Wings, jetpacks and thrusters now wear out, and the coin mod matches the server. Both were
+already running on the server and only now reach your game.
+
+Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
+and the Hammer Bid recipes are gone.
+
+
 # Skybound SMP Season 2, v1.90
 
 Two follow-ups to the update fix in v1.89.
@@ -306,20 +327,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.52
 
 - Fixed a server/client crash on load caused by a Sable version mismatch with Sable Scale. Reverted Sable to the compatible version (2.0.3).
-
-
-# Skybound SMP Season 2, v1.51
-
-- Updated ~70 mods to their latest compatible versions (Create add-ons, content, performance and libraries).
-- Added Sable: Water Pressure and Create: Ironworks.
-- Updated Sable (airship physics) to 2.0.5.
-- Fixed a client crash caused by a bad Create Gunsmithing build (replaced with the normal build).
-- Removed Bandwidth Optimizer (it was causing block and entity desync).
-
-
-# Skybound SMP Season 2, v1.50
-
-- Fixed a crash that closed the game whenever you ordered or received a package (Create: Mobile Packages). It was caused by a Create Fluid Logistics version mismatch; the pack now ships the matching version.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
