@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v1.92
+
+The recipe book now matches the server.
+
+A dozen recipe scripts had been running on the server for weeks without ever reaching the pack,
+so JEI on your side was showing recipes the server does not use, and hiding ones it does. They
+ship with this update:
+
+- Steel from Create Factory Machines and Guns is its own material again, and no longer mixes
+  with the steel of other mods, including inside multi-step Create recipes.
+- Fireclay, bauxite, galena, nickel, brass pipes and the furniture blueprint get their recipes.
+- Gadgets and Gizmos blocks, Saros bitumen, Interiors kelp and the lead split are craftable.
+- CC:Tweaked wireless and ender modems work again, they were pointing at empty tags.
+- Ink sacs are craftable and the Radar Warning Receiver finally has a recipe.
+- Honey rubber can be made instead of only being an ingredient.
+- Duplicate recipes for the same item are cleaned up.
+
+No mods change in this update.
+
+
 # Skybound SMP Season 2, v1.91
 
 Kosmo is out of the pack. The space add-on a friend of ours was building is no longer part of
@@ -268,41 +288,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.62
 
 - Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
-
-
-# Skybound SMP Season 2, v1.61
-
-- NeoForge updated to 21.1.238. IMPORTANT: set your instance NeoForge to 21.1.238 (Edit Instance > Version > NeoForge) or the game will not launch.
-- Added Create: Hammer (BID) auction house, Create: Sulfuric Resonance, and player ragdolls.
-- Removed Copper Age Backport (copper armor material is now native at 21.1.238).
-- Fixed TrafficCraft recipe type registration so it loads on 21.1.238.
-
-
-# Skybound SMP Season 2, v1.60
-
-- Removed Water Pressure (underwater pressure damage).
-
-
-# Skybound SMP Season 2, v1.59
-
-- Removed Opal Light (colored dynamic lighting).
-
-
-# Skybound SMP Season 2, v1.58
-
-- Added Opal Light (colored dynamic lighting).
-- Disabled all Create: Hypertube crafting recipes.
-
-
-# Skybound SMP Season 2, v1.57
-
-- Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
-- Removed Portalium.
-
-
-# Skybound SMP Season 2, v1.56
-
-- Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
