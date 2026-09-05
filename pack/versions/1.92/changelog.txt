@@ -1,0 +1,16 @@
+The recipe book now matches the server.
+
+A dozen recipe scripts had been running on the server for weeks without ever reaching the pack,
+so JEI on your side was showing recipes the server does not use, and hiding ones it does. They
+ship with this update:
+
+- Steel from Create Factory Machines and Guns is its own material again, and no longer mixes
+  with the steel of other mods, including inside multi-step Create recipes.
+- Fireclay, bauxite, galena, nickel, brass pipes and the furniture blueprint get their recipes.
+- Gadgets and Gizmos blocks, Saros bitumen, Interiors kelp and the lead split are craftable.
+- CC:Tweaked wireless and ender modems work again, they were pointing at empty tags.
+- Ink sacs are craftable and the Radar Warning Receiver finally has a recipe.
+- Honey rubber can be made instead of only being an ingredient.
+- Duplicate recipes for the same item are cleaned up.
+
+No mods change in this update.
