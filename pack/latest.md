@@ -1,1 +1,1 @@
-v1.90: the pack's shaderpacks now arrive through updates, and an update that cannot finish no longer marks itself as done.
+v1.91: Kosmo removed, Bits and Bobs no longer ships twice, and updates stop overwriting your Sodium settings.
