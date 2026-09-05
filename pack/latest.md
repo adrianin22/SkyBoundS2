@@ -1,1 +1,1 @@
-v1.91: Kosmo removed, Bits and Bobs no longer ships twice, and updates stop overwriting your Sodium settings.
+v1.92: twelve recipe scripts that were only running on the server now ship with the pack, so your recipe book matches what the server actually crafts.
