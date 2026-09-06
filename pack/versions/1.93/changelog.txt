@@ -1,0 +1,10 @@
+Controller support.
+
+Controllable is now part of the pack, so a gamepad works for playing, for menus and for the
+JEI item list. Plug the controller in, open Options and Controller Settings to pick it and to
+remap buttons. Keyboard and mouse keep working exactly as before, nothing is forced on you.
+
+- Controllable 0.25.4, with the SDL controller library it needs.
+- Framework 0.13.11, the library Controllable depends on.
+
+Both are client side only, the server is unchanged, and no recipe or world content changes.
