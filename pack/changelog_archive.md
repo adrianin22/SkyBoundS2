@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.93
+
+Controller support.
+
+Controllable is now part of the pack, so a gamepad works for playing, for menus and for the
+JEI item list. Plug the controller in, open Options and Controller Settings to pick it and to
+remap buttons. Keyboard and mouse keep working exactly as before, nothing is forced on you.
+
+- Controllable 0.25.4, with the SDL controller library it needs.
+- Framework 0.13.11, the library Controllable depends on.
+
+Both are client side only, the server is unchanged, and no recipe or world content changes.
+
+
 # Skybound SMP Season 2, v1.92
 
 The recipe book now matches the server.
@@ -288,41 +302,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.62
 
 - Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
-
-
-# Skybound SMP Season 2, v1.61
-
-- NeoForge updated to 21.1.238. IMPORTANT: set your instance NeoForge to 21.1.238 (Edit Instance > Version > NeoForge) or the game will not launch.
-- Added Create: Hammer (BID) auction house, Create: Sulfuric Resonance, and player ragdolls.
-- Removed Copper Age Backport (copper armor material is now native at 21.1.238).
-- Fixed TrafficCraft recipe type registration so it loads on 21.1.238.
-
-
-# Skybound SMP Season 2, v1.60
-
-- Removed Water Pressure (underwater pressure damage).
-
-
-# Skybound SMP Season 2, v1.59
-
-- Removed Opal Light (colored dynamic lighting).
-
-
-# Skybound SMP Season 2, v1.58
-
-- Added Opal Light (colored dynamic lighting).
-- Disabled all Create: Hypertube crafting recipes.
-
-
-# Skybound SMP Season 2, v1.57
-
-- Added four Create add-ons: Create: Hypertubes, Create Big Cannons: Going Ballistic, Create Aeronautics: Gadgets & Gizmos, and Create Aeronautics: Compatibility.
-- Removed Portalium.
-
-
-# Skybound SMP Season 2, v1.56
-
-- Hotfix: reverted a Skybound Numismatics change that could crash the game while loading. Everything else from v1.55 (removed Create: Bionics, All Tutta's Needs and High Seas; added Connected Textures Mod; recipe tweaks) is unchanged.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
