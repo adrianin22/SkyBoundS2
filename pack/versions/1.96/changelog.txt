@@ -1,0 +1,12 @@
+The game starts again.
+
+Since v1.91 the pack shipped a modified build of Protection Pixel. That edit is what gives the
+wings, jetpack, thruster and the other powered modules real durability, but it left one piece of
+class data inconsistent, and the mod could not be created at startup. When that happens the whole
+mod loading phase stops, so the game never reaches the main menu and shows a loading error
+instead. There is no crash report, which is why it looked like a freeze.
+
+The mod is rebuilt correctly in this update. Nothing about it changes for you: same durability
+values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
+
+If your game was stuck on the loading error screen, update and it will start.
