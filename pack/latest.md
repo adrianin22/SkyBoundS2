@@ -1,1 +1,1 @@
-v1.93: controller support. Controllable and its library are in the pack, so a gamepad plays the game and drives the menus. Keyboard and mouse are untouched.
+v1.94: crash fix. Controllable, added in v1.93, crashed against the pack's JEI, so it now ships without its JEI integration. The controller still plays the game and drives the menus, it just no longer moves through the JEI item list.
