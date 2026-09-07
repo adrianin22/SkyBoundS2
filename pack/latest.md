@@ -1,1 +1,1 @@
-v1.95: Controllable is removed from the pack, along with its library Framework. It crashed against the pack's JEI, so instead of shipping it half working it is gone. This update deletes both from your install. Nothing else changes.
+v1.96: Fixes the game not starting. Since v1.91 the pack shipped a modified build of Protection Pixel that could not load, which stopped the whole mod loading phase and left the game on a loading error instead of the main menu. The mod is rebuilt correctly. Nothing else changes.
