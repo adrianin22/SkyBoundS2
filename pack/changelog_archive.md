@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v1.96
+
+The game starts again.
+
+Since v1.91 the pack shipped a modified build of Protection Pixel. That edit is what gives the
+wings, jetpack, thruster and the other powered modules real durability, but it left one piece of
+class data inconsistent, and the mod could not be created at startup. When that happens the whole
+mod loading phase stops, so the game never reaches the main menu and shows a loading error
+instead. There is no crash report, which is why it looked like a freeze.
+
+The mod is rebuilt correctly in this update. Nothing about it changes for you: same durability
+values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
+
+If your game was stuck on the loading error screen, update and it will start.
+
+
 # Skybound SMP Season 2, v1.95
 
 Controllable is out of the pack.
@@ -298,21 +314,6 @@ New content, four additions:
 
 - Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
 - Removed the Fix TFMG Controller add-on: it is incompatible with the Community Edition (which reworked the engine controller) and would crash the game. The engine controller now behaves as it does in stock TFMG CE.
-
-
-# Skybound SMP Season 2, v1.67
-
-- Fixed the charcoal dust split from v1.66: Create Ironworks charcoal dust no longer shows up on the Crushing Wheel. The Crushing Wheel now gives only Create Gunsmithing charcoal dust, and Create Ironworks charcoal dust comes from the Millstone.
-
-
-# Skybound SMP Season 2, v1.66
-
-- Charcoal dust processing is now split across machines so each mod's dust has its own path. The Crushing Wheel and the Millstone each produce their own charcoal dust. Mekanism charcoal dust now needs an extra step: press Charcoal into Pressed Charcoal first, then crush the Pressed Charcoal. New item added: Pressed Charcoal.
-
-
-# Skybound SMP Season 2, v1.65
-
-- Fixed the in-game updater so it only updates when you press Update in the main menu. Before, an interrupted or failed update could leave it re-running on every launch; now each Update press is a single attempt.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
