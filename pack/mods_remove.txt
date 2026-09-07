@@ -339,3 +339,5 @@ mods/Create-FPS-Optimizer-NeoForge-1.21.1-4.0.2.jar
 mods/create_bb-1.0.7-1.21.1-Neoforge.jar
 mods/protection_pixel-2.2.1-neoforge-1.21.1.jar
 mods/skyboundnumismatics-1.0.0.jar
+mods/controllable-neoforge-1.21.1-0.25.4.jar
+mods/framework-neoforge-1.21.1-0.13.11.jar
