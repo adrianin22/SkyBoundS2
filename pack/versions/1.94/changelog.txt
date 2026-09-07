@@ -1,0 +1,10 @@
+Crash fix for the controller update.
+
+Controllable, added in v1.93, crashed the game against the pack's version of JEI. Its JEI
+integration targets an older JEI layout, and the mismatch was fatal rather than silent. The mod
+now ships without that integration, so it no longer crashes.
+
+- Controllable still works for playing and for menus. Keyboard and mouse are untouched.
+- What is gone: moving through the JEI item list with the controller. Use the mouse there.
+
+Client side only, the server is unchanged, and no recipe or world content changes.
