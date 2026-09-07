@@ -1,1 +1,1 @@
-v1.94: crash fix. Controllable, added in v1.93, crashed against the pack's JEI, so it now ships without its JEI integration. The controller still plays the game and drives the menus, it just no longer moves through the JEI item list.
+v1.95: Controllable is removed from the pack, along with its library Framework. It crashed against the pack's JEI, so instead of shipping it half working it is gone. This update deletes both from your install. Nothing else changes.
