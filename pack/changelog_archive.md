@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.94
+
+Crash fix for the controller update.
+
+Controllable, added in v1.93, crashed the game against the pack's version of JEI. Its JEI
+integration targets an older JEI layout, and the mismatch was fatal rather than silent. The mod
+now ships without that integration, so it no longer crashes.
+
+- Controllable still works for playing and for menus. Keyboard and mouse are untouched.
+- What is gone: moving through the JEI item list with the controller. Use the mouse there.
+
+Client side only, the server is unchanged, and no recipe or world content changes.
+
+
 # Skybound SMP Season 2, v1.93
 
 Controller support.
@@ -291,17 +305,6 @@ New content, four additions:
 - Removed Undead Unleashed. Wraiths and dreadknights were flooding the world and crowding out other mobs; the mod is now gone so you should see much more mob variety.
 - Fixed Tiny Create so it can run again (patched a crash when saving a Redstone Link frequency that had an enchanted item).
 - Added Starcatcher's Delight (a Farmer's Delight add-on).
-
-
-# Skybound SMP Season 2, v1.63
-
-- Faster updates: the updater now downloads ONLY the files that changed (via HTTP range + CRC32), instead of the whole ~1.2GB pack every time.
-- The updater now also sets your instance NeoForge to 21.1.238 automatically (only bumps up). If the game crashes once right after this update, just launch again.
-
-
-# Skybound SMP Season 2, v1.62
-
-- Updated JEI (Just Enough Items) to 19.44.0.403 (latest for 1.21.1 NeoForge).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
