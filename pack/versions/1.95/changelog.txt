@@ -1,0 +1,11 @@
+Controllable is out of the pack.
+
+The controller mod added in v1.93 is removed. It crashed against the pack's version of JEI,
+v1.94 shipped it with the JEI part cut out, and it is now gone entirely rather than half
+working. Its library, Framework, goes with it since nothing else uses it.
+
+Both are deleted from your install by this update. Nothing else changes: keyboard and mouse
+were never touched, the server is unchanged, and there are no recipe or world content changes.
+
+If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
+aware its JEI integration is what crashes and the pack cannot ship around that.
