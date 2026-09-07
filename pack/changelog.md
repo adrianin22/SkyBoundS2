@@ -1,3 +1,18 @@
+# Skybound SMP Season 2, v1.95
+
+Controllable is out of the pack.
+
+The controller mod added in v1.93 is removed. It crashed against the pack's version of JEI,
+v1.94 shipped it with the JEI part cut out, and it is now gone entirely rather than half
+working. Its library, Framework, goes with it since nothing else uses it.
+
+Both are deleted from your install by this update. Nothing else changes: keyboard and mouse
+were never touched, the server is unchanged, and there are no recipe or world content changes.
+
+If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
+aware its JEI integration is what crashes and the pack cannot ship around that.
+
+
 # Skybound SMP Season 2, v1.94
 
 Crash fix for the controller update.
@@ -283,21 +298,6 @@ New content, four additions:
 
 - Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
 - Removed the Fix TFMG Controller add-on: it is incompatible with the Community Edition (which reworked the engine controller) and would crash the game. The engine controller now behaves as it does in stock TFMG CE.
-
-
-# Skybound SMP Season 2, v1.67
-
-- Fixed the charcoal dust split from v1.66: Create Ironworks charcoal dust no longer shows up on the Crushing Wheel. The Crushing Wheel now gives only Create Gunsmithing charcoal dust, and Create Ironworks charcoal dust comes from the Millstone.
-
-
-# Skybound SMP Season 2, v1.66
-
-- Charcoal dust processing is now split across machines so each mod's dust has its own path. The Crushing Wheel and the Millstone each produce their own charcoal dust. Mekanism charcoal dust now needs an extra step: press Charcoal into Pressed Charcoal first, then crush the Pressed Charcoal. New item added: Pressed Charcoal.
-
-
-# Skybound SMP Season 2, v1.65
-
-- Fixed the in-game updater so it only updates when you press Update in the main menu. Before, an interrupted or failed update could leave it re-running on every launch; now each Update press is a single attempt.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
