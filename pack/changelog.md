@@ -1,3 +1,33 @@
+# Skybound SMP Season 2, v1.97
+
+A big clear-out and a big restock.
+
+REMOVED (16 mods)
+Create: Radionautics, Create: Flight Control, Create: Ironworks, Create Redstone Link GUI,
+Create: Sonar, Floating Islands, Mowzie's Mobs, Vestalihy, Unlocked Void Sea, Placeable Items,
+Integrated Dungeons and Structures, HBs Foundation, Simply Swords: Create Lines,
+Myths and Legends, Mo Glass and Luminous Beasts. Simply Swords itself stays, only its Create
+add-on is gone. One unused library, Integrated API, went with them.
+If you had blocks or items from any of these placed in the world, they will disappear. Anything
+in a chest or in your inventory is lost the same way. Move what you care about before updating.
+
+ADDED (17 mods)
+Searchlights, Create: Alerted, Create: Rolling Tones, Create: Under Pressure, Create Parachute,
+Tracksta, Farming for Blockheads, Let's Do Furniture seats for Create and Sable, Talking Heads,
+Bathymetry, Cool Rain and Sable: Cool Rain, Sable: Quota, Sablecat, Sable Ragdoll Patch,
+Jade Sable compatibility, and Xaero's Map support for Sable ships. Three small libraries these
+need come along with them.
+
+TWO NEW RECIPES
+Honey Bottle can now be crafted from three sugar, one slime ball and a glass bottle, so a bottle
+of honey no longer depends on finding bees.
+Seabrass Ingot can now be crafted from one brass ingot and two prismarine shards. Seabrass ore
+only generates in a short list of plain vanilla biomes, and this world runs custom ones, so the
+ore never appeared and every seabrass block was unobtainable. Now the whole set is reachable.
+
+The server is running the same list.
+
+
 # Skybound SMP Season 2, v1.96
 
 The game starts again.
@@ -260,49 +290,6 @@ Lodestone compass fix:
 - Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
 - This also keeps the earlier fix for using the compass while standing on a ship.
 Client only, no server restart needed.
-
-
-# Skybound SMP Season 2, v1.76
-
-Lodestone compass fix:
-- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
-- This also keeps the earlier fix for using the compass while standing on a ship.
-Client only, no server restart needed.
-
-
-# Skybound SMP Season 2, v1.75
-
-New content, four additions:
-- Create: Blocks & Bogies. New train blocks and bogies for Create and Steam'n'Rails builds.
-- Coasters: Engineered. Buildable roller coasters that tie into Create.
-- Create: Schematic Checker. Shows the exact materials a schematic still needs before it can print.
-- Dashpanels: Expanded. More dash panels and movement options on top of the base Dashpanels mod.
-
-
-# Skybound SMP Season 2, v1.74
-
-- Fixed the lodestone compass on Sable sub levels. While standing on a sub level the needle was stuck pointing a fixed direction instead of tracking the lodestone; it now points to the correct block. Overworld and normal use are unchanged.
-
-
-# Skybound SMP Season 2, v1.73
-
-- Reworked how you unlock Mekanism. The Mekanism Research Catalyst now has a full custom crafting tree built from Create: Many More Mechanisms cores: five top-tier mechanisms (Industrial, Factory, Arcane, Primal and Pioneer) each assembled from parts across the pack's Create add-ons.
-- The Research Catalyst finally has its own item icon.
-
-
-# Skybound SMP Season 2, v1.72
-
-- Removed Mobs of Mythology. If you had any of its mobs or blocks placed, they will disappear.
-
-
-# Skybound SMP Season 2, v1.71
-
-- Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
-
-
-# Skybound SMP Season 2, v1.70
-
-- Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
