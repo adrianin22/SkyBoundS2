@@ -1,3 +1,33 @@
+# Skybound SMP Season 2, v1.97
+
+A big clear-out and a big restock.
+
+REMOVED (16 mods)
+Create: Radionautics, Create: Flight Control, Create: Ironworks, Create Redstone Link GUI,
+Create: Sonar, Floating Islands, Mowzie's Mobs, Vestalihy, Unlocked Void Sea, Placeable Items,
+Integrated Dungeons and Structures, HBs Foundation, Simply Swords: Create Lines,
+Myths and Legends, Mo Glass and Luminous Beasts. Simply Swords itself stays, only its Create
+add-on is gone. One unused library, Integrated API, went with them.
+If you had blocks or items from any of these placed in the world, they will disappear. Anything
+in a chest or in your inventory is lost the same way. Move what you care about before updating.
+
+ADDED (17 mods)
+Searchlights, Create: Alerted, Create: Rolling Tones, Create: Under Pressure, Create Parachute,
+Tracksta, Farming for Blockheads, Let's Do Furniture seats for Create and Sable, Talking Heads,
+Bathymetry, Cool Rain and Sable: Cool Rain, Sable: Quota, Sablecat, Sable Ragdoll Patch,
+Jade Sable compatibility, and Xaero's Map support for Sable ships. Three small libraries these
+need come along with them.
+
+TWO NEW RECIPES
+Honey Bottle can now be crafted from three sugar, one slime ball and a glass bottle, so a bottle
+of honey no longer depends on finding bees.
+Seabrass Ingot can now be crafted from one brass ingot and two prismarine shards. Seabrass ore
+only generates in a short list of plain vanilla biomes, and this world runs custom ones, so the
+ore never appeared and every seabrass block was unobtainable. Now the whole set is reachable.
+
+The server is running the same list.
+
+
 # Skybound SMP Season 2, v1.96
 
 The game starts again.
@@ -303,17 +333,6 @@ New content, four additions:
 # Skybound SMP Season 2, v1.70
 
 - Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
-
-
-# Skybound SMP Season 2, v1.69
-
-- Swapped the Create Northstar bridge (cnbridge) for AeroStar, patched to work with Create Northstar Redux. This enables the Dimensional Drive to travel to the planets. If you hit a one-time crash right after updating, relaunch.
-
-
-# Skybound SMP Season 2, v1.68
-
-- Switched Create: The Factory Must Grow to the Community Edition (1.2.4b), a bug-fix fork. Your factories and recipes carry over.
-- Removed the Fix TFMG Controller add-on: it is incompatible with the Community Edition (which reworked the engine controller) and would crash the game. The engine controller now behaves as it does in stock TFMG CE.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
