@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.98
+
+REMOVED: Create Parachute
+
+Create Parachute shipped in v1.97 and it cannot run on a dedicated server. One of its blocks
+is registered through code that loads a client-only screen class, so the server aborts while
+registering blocks and never finishes starting. It also broke registration for Create: Power
+Grid, Dashpanels and Rechiseled: Create on the way down. The mod is out of the pack and off
+the server, and everything it dragged with it works again.
+
+If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
+else in this update changes: same mod list otherwise, same recipes, same configs.
+
+
 # Skybound SMP Season 2, v1.97
 
 A big clear-out and a big restock.
@@ -290,49 +304,6 @@ Lodestone compass fix:
 - Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
 - This also keeps the earlier fix for using the compass while standing on a ship.
 Client only, no server restart needed.
-
-
-# Skybound SMP Season 2, v1.76
-
-Lodestone compass fix:
-- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
-- This also keeps the earlier fix for using the compass while standing on a ship.
-Client only, no server restart needed.
-
-
-# Skybound SMP Season 2, v1.75
-
-New content, four additions:
-- Create: Blocks & Bogies. New train blocks and bogies for Create and Steam'n'Rails builds.
-- Coasters: Engineered. Buildable roller coasters that tie into Create.
-- Create: Schematic Checker. Shows the exact materials a schematic still needs before it can print.
-- Dashpanels: Expanded. More dash panels and movement options on top of the base Dashpanels mod.
-
-
-# Skybound SMP Season 2, v1.74
-
-- Fixed the lodestone compass on Sable sub levels. While standing on a sub level the needle was stuck pointing a fixed direction instead of tracking the lodestone; it now points to the correct block. Overworld and normal use are unchanged.
-
-
-# Skybound SMP Season 2, v1.73
-
-- Reworked how you unlock Mekanism. The Mekanism Research Catalyst now has a full custom crafting tree built from Create: Many More Mechanisms cores: five top-tier mechanisms (Industrial, Factory, Arcane, Primal and Pioneer) each assembled from parts across the pack's Create add-ons.
-- The Research Catalyst finally has its own item icon.
-
-
-# Skybound SMP Season 2, v1.72
-
-- Removed Mobs of Mythology. If you had any of its mobs or blocks placed, they will disappear.
-
-
-# Skybound SMP Season 2, v1.71
-
-- Removed the default recipes from Create: Many More Mechanisms; the pack will provide its own recipes for those items.
-
-
-# Skybound SMP Season 2, v1.70
-
-- Added Create: Many More Mechanisms, a Create add-on with extra mechanical blocks and gadgets.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
