@@ -358,3 +358,4 @@ mods/mythsandlegends-0.0.8.6.jar
 mods/Mo-Glass-1.10.1-MC1.21-NeoForge.jar
 mods/Luminous Beasts V1.2.7 - NeoForge 1.21.1.jar
 mods/integrated_api-neoforge-1.21.1-1.8.0.jar
+mods/create_parachute-1.1.0.jar
