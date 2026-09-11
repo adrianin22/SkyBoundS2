@@ -1,0 +1,10 @@
+REMOVED: Create Parachute
+
+Create Parachute shipped in v1.97 and it cannot run on a dedicated server. One of its blocks
+is registered through code that loads a client-only screen class, so the server aborts while
+registering blocks and never finishes starting. It also broke registration for Create: Power
+Grid, Dashpanels and Rechiseled: Create on the way down. The mod is out of the pack and off
+the server, and everything it dragged with it works again.
+
+If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
+else in this update changes: same mod list otherwise, same recipes, same configs.
