@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v1.98
+
+REMOVED: Create Parachute
+
+Create Parachute shipped in v1.97 and it cannot run on a dedicated server. One of its blocks
+is registered through code that loads a client-only screen class, so the server aborts while
+registering blocks and never finishes starting. It also broke registration for Create: Power
+Grid, Dashpanels and Rechiseled: Create on the way down. The mod is out of the pack and off
+the server, and everything it dragged with it works again.
+
+If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
+else in this update changes: same mod list otherwise, same recipes, same configs.
+
+
 # Skybound SMP Season 2, v1.97
 
 A big clear-out and a big restock.
@@ -282,14 +296,6 @@ Dimensional Drive fix + shaders:
 - Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
 - Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
 Server restart may be needed for the drive fix to take effect.
-
-
-# Skybound SMP Season 2, v1.76
-
-Lodestone compass fix:
-- Fixed the compass needle pointing in a fixed wrong direction when the lodestone it tracks is placed on a Sable ship or sublevel. The needle now points to where the ship is actually rendered in the world, not to its anchor spot.
-- This also keeps the earlier fix for using the compass while standing on a ship.
-Client only, no server restart needed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
