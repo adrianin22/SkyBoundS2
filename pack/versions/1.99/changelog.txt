@@ -1,0 +1,17 @@
+ADDED: Create: Cosmonautics
+
+Space addon for Create: Aeronautics. Build rockets, leave the ground and fly to orbit with the
+same Create machinery you already use. It brings its own orbital flight model, so a ship that
+leaves the atmosphere keeps behaving like a real craft instead of teleporting to another world.
+It runs on top of Aeronautics and Sable, both already in the pack, and it is installed on the
+server too, so anything you build there flies for everyone.
+
+FIXED: client crash when opening the pause menu
+
+FTB Chunks saved the minimap on the render thread while its own worker thread was still adding
+map regions, and the two collided. Pressing ESC at the wrong moment closed the game with a
+ConcurrentModificationException, most often right after exploring or flying over new land.
+The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions under the
+mod's own lock before saving them. Same mod, same version, same map data, no crash.
+
+Nothing else changes: same recipes, same configs, no other mod added or removed.
