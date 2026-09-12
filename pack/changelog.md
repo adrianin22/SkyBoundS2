@@ -1,3 +1,24 @@
+# Skybound SMP Season 2, v1.99
+
+ADDED: Create: Cosmonautics
+
+Space addon for Create: Aeronautics. Build rockets, leave the ground and fly to orbit with the
+same Create machinery you already use. It brings its own orbital flight model, so a ship that
+leaves the atmosphere keeps behaving like a real craft instead of teleporting to another world.
+It runs on top of Aeronautics and Sable, both already in the pack, and it is installed on the
+server too, so anything you build there flies for everyone.
+
+FIXED: client crash when opening the pause menu
+
+FTB Chunks saved the minimap on the render thread while its own worker thread was still adding
+map regions, and the two collided. Pressing ESC at the wrong moment closed the game with a
+ConcurrentModificationException, most often right after exploring or flying over new land.
+The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions under the
+mod's own lock before saving them. Same mod, same version, same map data, no crash.
+
+Nothing else changes: same recipes, same configs, no other mod added or removed.
+
+
 # Skybound SMP Season 2, v1.98
 
 REMOVED: Create Parachute
@@ -280,22 +301,6 @@ Updater:
 - The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
 - It shows real progress for both the small incremental updates and the full first-time download.
 No gameplay changes, and no server restart needed.
-
-
-# Skybound SMP Season 2, v1.78
-
-Compass fix:
-- Fixed lodestone compasses pointing the wrong way when the lodestone is placed on a ship (sublevel). Attune a compass to a lodestone on your ship and the needle now tracks it correctly as the ship moves, whether you are standing on the ship or watching from the ground.
-- Note: attune the compass AFTER the lodestone is part of the ship. A compass locked to a lodestone before it was assembled still points at the old spot.
-Server restart may be needed for this to take effect.
-
-
-# Skybound SMP Season 2, v1.77
-
-Dimensional Drive fix + shaders:
-- Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
-- Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
-Server restart may be needed for the drive fix to take effect.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
