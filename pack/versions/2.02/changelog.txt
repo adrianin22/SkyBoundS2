@@ -1,0 +1,13 @@
+CHANGED: Create: Cosmonautics moved to the official release build
+
+The pack was shipping a build made straight from the mod's development branch. That branch
+carries unfinished work that cannot run on a dedicated server: it kept crashing the server,
+first while loading mods and then on every entity tick.
+
+Cosmonautics is now the team's published release, 26.08.307. Everything in it works on both
+sides and the server stays up. What you lose is only the unreleased part of the development
+branch, the multifunction display and the free flight controls, which were never in a release
+yet. Rockets, orbit and the rest of the mod are unchanged.
+
+Recipes for this mod are still disabled on the server for now, so its items cannot be crafted
+yet even though you can see them.
