@@ -1,1 +1,1 @@
-v2.00: WorldEdit is removed from the modpack. It stays installed on the server, so every command still works exactly as before, it simply no longer ships to your client where it was never used. Your schematics are untouched. Nothing else changes.
+v2.01: hotfix. The Create: Cosmonautics build from v1.99 crashed the dedicated server at startup, because it registered a client only event handler on both sides. The mod is rebuilt with that fixed and the server boots again. Same mod and same content otherwise, and the jar keeps its name, so your launcher just repairs it in place.
