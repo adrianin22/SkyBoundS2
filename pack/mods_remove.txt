@@ -361,3 +361,4 @@ mods/integrated_api-neoforge-1.21.1-1.8.0.jar
 mods/create_parachute-1.1.0.jar
 mods/ftb-chunks-neoforge-2101.1.20.jar
 mods/worldedit-mod-7.3.8.jar
+mods/cosmonautics-26.09.345.jar
