@@ -1,0 +1,15 @@
+FOUR MODS REMOVED FOR FRAME RATE
+
+This update only takes things out. Several of you reported lower frame rates after the recent
+updates, so four mods that cost every player performance whether they used them or not are gone.
+
+REMOVED: SearchLights. Its lights were drawn every frame by everyone who had one in view.
+
+REMOVED: Sable Ragdolls, Sable Ragdolls Patch and Ragdoll Reactions. The three go together, the
+other two do not run without the base mod. Players and mobs now die the normal way instead of
+flopping around.
+
+IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and so is anything
+still sitting in a chest or in your inventory. Nothing else is affected.
+
+Nothing was added and no recipe changed, so everything you have built keeps working.
