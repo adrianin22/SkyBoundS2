@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.04
+
+FOUR MODS REMOVED FOR FRAME RATE
+
+This update only takes things out. Several of you reported lower frame rates after the recent
+updates, so four mods that cost every player performance whether they used them or not are gone.
+
+REMOVED: SearchLights. Its lights were drawn every frame by everyone who had one in view.
+
+REMOVED: Sable Ragdolls, Sable Ragdolls Patch and Ragdoll Reactions. The three go together, the
+other two do not run without the base mod. Players and mobs now die the normal way instead of
+flopping around.
+
+IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and so is anything
+still sitting in a chest or in your inventory. Nothing else is affected.
+
+Nothing was added and no recipe changed, so everything you have built keeps working.
+
+
 # Skybound SMP Season 2, v2.03
 
 FASTER LAUNCH, and three mods that were quietly broken are fixed
@@ -273,22 +292,6 @@ Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the 
 channel in the system, and its own blocks and ores.
 
 Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
-
-
-# Skybound SMP Season 2, v1.87
-
-Hotfix for v1.86, which could not start.
-
-NeoForge is now 21.1.248 (it was 21.1.238). The launcher updater bumps your instance for you.
-
-Six mods from the v1.86 mass update were rolled back, the ones the NeoForge bump does not fix:
-- Bits and Bobs 2.2.9 -> 0.0.44, Create More Girder 2.3.0 -> 2.2.0 and Jaden's Nether
-  Expansion 2.4.1 -> 2.4.0-RC.2 (their newest versions need library mods this pack does not ship).
-- Photon 2.2.5 -> 2.1.5 and AeroIE 1.0.1 -> 1.0.0-hotfix2 (version mismatch between the two).
-- GPUBooster 1.3.2 -> GPUTape 1.0.3 (the newer one crashed on startup, missing library).
-
-Create Crafts & Additions, Supplementaries and Forgified Fabric API keep their v1.86 versions,
-they work now that NeoForge is 21.1.248. Everything else from v1.86 is unchanged.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
