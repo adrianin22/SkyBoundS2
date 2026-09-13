@@ -1,0 +1,16 @@
+FASTER LAUNCH, and three mods that were quietly broken are fixed
+
+Two new mods work on how long the pack takes to open. Lightspeed caches the resource pack
+and loads it in parallel, so the second launch after this update should be noticeably
+quicker than the first. Rhenium caps the memory the game holds for structure templates.
+Neither changes anything you can see or craft.
+
+FIXED: Electro Energetics had no JEI support at all. Its recipe integration was crashing on
+startup against the current version of JEI, so none of its machines or recipes showed up when
+you looked them up. They are back.
+
+FIXED: the Analog Audio radio did nothing when placed on a moving contraption. The mod was
+failing to hand itself to Create and had been failing silently since it was added.
+
+FIXED: Contraption Lights is now on its finished 1.5.0 release instead of a beta. One of its
+features was failing to load every single launch.
