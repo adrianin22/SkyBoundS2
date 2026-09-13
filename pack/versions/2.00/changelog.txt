@@ -1,0 +1,8 @@
+REMOVED: WorldEdit (client side only)
+
+WorldEdit is gone from the modpack, but it is still installed and working on the server, so the
+commands you use in game are unchanged. It was only ever used server side, and a copy sitting in
+your own mods folder did nothing but cost memory and loading time.
+
+Nothing else changes: same mod list otherwise, same recipes, same configs. If you kept your own
+WorldEdit schematics, they stay where they are, the folder is not touched.
