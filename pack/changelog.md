@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.03
+
+FASTER LAUNCH, and three mods that were quietly broken are fixed
+
+Two new mods work on how long the pack takes to open. Lightspeed caches the resource pack
+and loads it in parallel, so the second launch after this update should be noticeably
+quicker than the first. Rhenium caps the memory the game holds for structure templates.
+Neither changes anything you can see or craft.
+
+FIXED: Electro Energetics had no JEI support at all. Its recipe integration was crashing on
+startup against the current version of JEI, so none of its machines or recipes showed up when
+you looked them up. They are back.
+
+FIXED: the Analog Audio radio did nothing when placed on a moving contraption. The mod was
+failing to hand itself to Create and had been failing silently since it was added.
+
+FIXED: Contraption Lights is now on its finished 1.5.0 release instead of a beta. One of its
+features was failing to load every single launch.
+
+
 # Skybound SMP Season 2, v2.02
 
 CHANGED: Create: Cosmonautics moved to the official release build
@@ -269,41 +289,6 @@ Six mods from the v1.86 mass update were rolled back, the ones the NeoForge bump
 
 Create Crafts & Additions, Supplementaries and Forgified Fabric API keep their v1.86 versions,
 they work now that NeoForge is 21.1.248. Everything else from v1.86 is unchanged.
-
-
-# Skybound SMP Season 2, v1.86
-
-Added:
-- Kosmo: a new custom addon with moon ores, titanium, and more (custom mod, work in progress).
-- Abyssal Decor.
-
-Updated:
-- Industrial Hellscape 1.1.1 -> 1.1.94.
-- Mass mod update: 97 other mods bumped to their latest compatible version.
-
-Removed:
-- StasisMod.
-
-
-# Skybound SMP Season 2, v1.85
-
-Added:
-- The Mechanical Chicken now also produces feathers (about 50% chance) and leather (about 10% chance) alongside its eggs each cycle.
-- Crafting recipes for the Legendary Monsters spike traps (small and big), which previously had none.
-
-
-# Skybound SMP Season 2, v1.84
-
-Removed:
-- Click Signs is removed (it was crashing the dedicated server).
-
-
-# Skybound SMP Season 2, v1.83
-
-New mod:
-- Click Signs, create custom highway and street signs for city building with customizable text and colors.
-Removed:
-- Creative Mode Tweaks is removed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
