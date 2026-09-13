@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.04
+
+FOUR MODS REMOVED FOR FRAME RATE
+
+This update only takes things out. Several of you reported lower frame rates after the recent
+updates, so four mods that cost every player performance whether they used them or not are gone.
+
+REMOVED: SearchLights. Its lights were drawn every frame by everyone who had one in view.
+
+REMOVED: Sable Ragdolls, Sable Ragdolls Patch and Ragdoll Reactions. The three go together, the
+other two do not run without the base mod. Players and mobs now die the normal way instead of
+flopping around.
+
+IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and so is anything
+still sitting in a chest or in your inventory. Nothing else is affected.
+
+Nothing was added and no recipe changed, so everything you have built keeps working.
+
+
 # Skybound SMP Season 2, v2.03
 
 FASTER LAUNCH, and three mods that were quietly broken are fixed
@@ -289,41 +308,6 @@ Six mods from the v1.86 mass update were rolled back, the ones the NeoForge bump
 
 Create Crafts & Additions, Supplementaries and Forgified Fabric API keep their v1.86 versions,
 they work now that NeoForge is 21.1.248. Everything else from v1.86 is unchanged.
-
-
-# Skybound SMP Season 2, v1.86
-
-Added:
-- Kosmo: a new custom addon with moon ores, titanium, and more (custom mod, work in progress).
-- Abyssal Decor.
-
-Updated:
-- Industrial Hellscape 1.1.1 -> 1.1.94.
-- Mass mod update: 97 other mods bumped to their latest compatible version.
-
-Removed:
-- StasisMod.
-
-
-# Skybound SMP Season 2, v1.85
-
-Added:
-- The Mechanical Chicken now also produces feathers (about 50% chance) and leather (about 10% chance) alongside its eggs each cycle.
-- Crafting recipes for the Legendary Monsters spike traps (small and big), which previously had none.
-
-
-# Skybound SMP Season 2, v1.84
-
-Removed:
-- Click Signs is removed (it was crashing the dedicated server).
-
-
-# Skybound SMP Season 2, v1.83
-
-New mod:
-- Click Signs, create custom highway and street signs for city building with customizable text and colors.
-Removed:
-- Creative Mode Tweaks is removed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
