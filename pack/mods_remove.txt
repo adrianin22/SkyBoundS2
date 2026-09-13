@@ -365,3 +365,7 @@ mods/cosmonautics-26.09.345.jar
 mods/electroenergetics-1.21.1-1.1.1.jar
 mods/Analog-Audio-0.1.5-hotfix.1.jar
 mods/contraption-lights-neoforge-1.21.1-1.5.0-beta.5.1.jar
+mods/searchlights-1.3.1.jar
+mods/sable_player_ragdoll-1.21.1-0.7.5.jar
+mods/sable_player_ragdoll_patch-1.21.1-1.9.jar
+mods/ragdoll_reactions-1.21.1-0.7.0.jar
