@@ -1,3 +1,15 @@
+# Skybound SMP Season 2, v2.00
+
+REMOVED: WorldEdit (client side only)
+
+WorldEdit is gone from the modpack, but it is still installed and working on the server, so the
+commands you use in game are unchanged. It was only ever used server side, and a copy sitting in
+your own mods folder did nothing but cost memory and loading time.
+
+Nothing else changes: same mod list otherwise, same recipes, same configs. If you kept your own
+WorldEdit schematics, they stay where they are, the folder is not touched.
+
+
 # Skybound SMP Season 2, v1.99
 
 ADDED: Create: Cosmonautics
@@ -301,22 +313,6 @@ Updater:
 - The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
 - It shows real progress for both the small incremental updates and the full first-time download.
 No gameplay changes, and no server restart needed.
-
-
-# Skybound SMP Season 2, v1.78
-
-Compass fix:
-- Fixed lodestone compasses pointing the wrong way when the lodestone is placed on a ship (sublevel). Attune a compass to a lodestone on your ship and the needle now tracks it correctly as the ship moves, whether you are standing on the ship or watching from the ground.
-- Note: attune the compass AFTER the lodestone is part of the ship. A compass locked to a lodestone before it was assembled still points at the old spot.
-Server restart may be needed for this to take effect.
-
-
-# Skybound SMP Season 2, v1.77
-
-Dimensional Drive fix + shaders:
-- Fixed the AeroStar Dimensional Drive not detecting your ship's altitude, so ships never left for space. It now reads the correct Sable ship and transfers it once you reach the required altitude.
-- Added a set of shaderpacks (Complementary, Solas, Noble, Photon, Rethinking Voxels, Aurora's, Miniature) to your shaderpacks folder. Enable one in Video Settings > Shaders if you want; off by default, your own selection is never overwritten.
-Server restart may be needed for the drive fix to take effect.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
