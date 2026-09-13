@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.01
+
+FIXED: Create: Cosmonautics crashed the server at startup
+
+The build of Create: Cosmonautics that shipped in v1.99 could not start on a dedicated server.
+One of its classes registers an event handler that only exists on the client, so the server
+aborted while loading mods and never came up. The mod is rebuilt with that handler marked
+client side, and the server boots normally again.
+
+Same mod, same version, same content: only the broken registration is fixed. The jar keeps its
+name, so the updater repairs it in place on your next launch.
+
+
 # Skybound SMP Season 2, v2.00
 
 REMOVED: WorldEdit (client side only)
@@ -297,22 +310,6 @@ Mod removals:
 - Anything built inside the Northstar dimensions will no longer be reachable.
 - The Eclipse Alloy Mechanism no longer has a recipe (it used Northstar parts); the Mekanism-key tree is unaffected in progression outside that branch.
 Server restart needed for this to fully take effect.
-
-
-# Skybound SMP Season 2, v1.80
-
-Mob change:
-- Removed Alex's Mobs. It was causing repeated server ticking crashes (froststalker), so it has been taken out for everyone.
-- Any Alex's Mobs creatures or blocks already in the world will disappear. Citadel stays (other mods use it).
-Server restart needed for this to fully take effect.
-
-
-# Skybound SMP Season 2, v1.79
-
-Updater:
-- The update screen is back. When you launch and the pack needs updating, you now see a window with a progress bar and a status line instead of a silent wait.
-- It shows real progress for both the small incremental updates and the full first-time download.
-No gameplay changes, and no server restart needed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
