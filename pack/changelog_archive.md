@@ -1,3 +1,20 @@
+# Skybound SMP Season 2, v2.02
+
+CHANGED: Create: Cosmonautics moved to the official release build
+
+The pack was shipping a build made straight from the mod's development branch. That branch
+carries unfinished work that cannot run on a dedicated server: it kept crashing the server,
+first while loading mods and then on every entity tick.
+
+Cosmonautics is now the team's published release, 26.08.307. Everything in it works on both
+sides and the server stays up. What you lose is only the unreleased part of the development
+branch, the multifunction display and the free flight controls, which were never in a release
+yet. Rockets, orbit and the rest of the mod are unchanged.
+
+Recipes for this mod are still disabled on the server for now, so its items cannot be crafted
+yet even though you can see them.
+
+
 # Skybound SMP Season 2, v2.01
 
 FIXED: Create: Cosmonautics crashed the server at startup
@@ -300,16 +317,6 @@ New mods:
 Removed:
 - Simulated Coasters and its add-ons (Coasters Engineered, Coasters Magnetized) are removed for now.
 - Coaster blocks already placed in the world will show as missing until coasters return.
-
-
-# Skybound SMP Season 2, v1.81
-
-Mod removals:
-- Removed Northstar Redux (the space dimensions mod) and its Aeronautics add-on (AeroStar), plus the Northstar Curios compat.
-- Removed Create Aeronautics FTB Chunks compat.
-- Anything built inside the Northstar dimensions will no longer be reachable.
-- The Eclipse Alloy Mechanism no longer has a recipe (it used Northstar parts); the Mekanism-key tree is unaffected in progression outside that branch.
-Server restart needed for this to fully take effect.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
