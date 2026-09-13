@@ -1,0 +1,9 @@
+FIXED: Create: Cosmonautics crashed the server at startup
+
+The build of Create: Cosmonautics that shipped in v1.99 could not start on a dedicated server.
+One of its classes registers an event handler that only exists on the client, so the server
+aborted while loading mods and never came up. The mod is rebuilt with that handler marked
+client side, and the server boots normally again.
+
+Same mod, same version, same content: only the broken registration is fixed. The jar keeps its
+name, so the updater repairs it in place on your next launch.
