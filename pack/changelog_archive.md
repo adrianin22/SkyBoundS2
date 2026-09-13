@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.03
+
+FASTER LAUNCH, and three mods that were quietly broken are fixed
+
+Two new mods work on how long the pack takes to open. Lightspeed caches the resource pack
+and loads it in parallel, so the second launch after this update should be noticeably
+quicker than the first. Rhenium caps the memory the game holds for structure templates.
+Neither changes anything you can see or craft.
+
+FIXED: Electro Energetics had no JEI support at all. Its recipe integration was crashing on
+startup against the current version of JEI, so none of its machines or recipes showed up when
+you looked them up. They are back.
+
+FIXED: the Analog Audio radio did nothing when placed on a moving contraption. The mod was
+failing to hand itself to Create and had been failing silently since it was added.
+
+FIXED: Contraption Lights is now on its finished 1.5.0 release instead of a beta. One of its
+features was failing to load every single launch.
+
+
 # Skybound SMP Season 2, v2.02
 
 CHANGED: Create: Cosmonautics moved to the official release build
@@ -304,19 +324,6 @@ New mod:
 - Click Signs, create custom highway and street signs for city building with customizable text and colors.
 Removed:
 - Creative Mode Tweaks is removed.
-
-
-# Skybound SMP Season 2, v1.82
-
-New mods:
-- Create: Computationally Expensive, adds compute power into Create: Power Grid.
-- Create: Mechanical Chicken and Create: Mechanical Cow, kinetic egg and milk generators.
-- Create: Backtank Trims & Dyes, cosmetic trims and dyes for backtanks.
-- Create: FPS Optimizer, a client-side render optimizer for Create contraptions.
-- Creative Mode Tweaks, quality-of-life tweaks for creative mode.
-Removed:
-- Simulated Coasters and its add-ons (Coasters Engineered, Coasters Magnetized) are removed for now.
-- Coaster blocks already placed in the world will show as missing until coasters return.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
