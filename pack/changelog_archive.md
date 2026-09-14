@@ -1,3 +1,32 @@
+# Skybound SMP Season 2, v2.05
+
+A CREATIVE BUILD DIMENSION IS BACK
+
+Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
+it. You get your own plot, 12 by 12 chunks, and you build there in creative without touching
+survival.
+
+YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
+armour, Curios, cosmetic slots and your XP. You arrive empty. When you come back out, all of it
+returns exactly as it was. Nothing you make in the build dimension can follow you home.
+
+WHAT DOES NOT WORK IN THERE, and why:
+
+Ender chests, ender tanks, ender pouches, backpacks, shulker boxes and the portable Mekanism
+dashboard. All of them read the same storage back in survival, so any one of them would be a
+way to walk creative items into the server economy. Bring one in and it is destroyed.
+
+Leaving to anywhere except the overworld. Space, the Nether, the End and sublevels all send you
+back to spawn instead. Use the normal way out.
+
+Mekanism does not unlock in there. If you have already earned it, it works as usual. If you have
+not, crafting the key inside does nothing, the build dimension hands out no progression.
+
+Claiming chunks still works normally inside your plot.
+
+Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
+
+
 # Skybound SMP Season 2, v2.04
 
 FOUR MODS REMOVED FOR FRAME RATE
@@ -292,22 +321,6 @@ Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the 
 channel in the system, and its own blocks and ores.
 
 Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
-
-
-# Skybound SMP Season 2, v1.87
-
-Hotfix for v1.86, which could not start.
-
-NeoForge is now 21.1.248 (it was 21.1.238). The launcher updater bumps your instance for you.
-
-Six mods from the v1.86 mass update were rolled back, the ones the NeoForge bump does not fix:
-- Bits and Bobs 2.2.9 -> 0.0.44, Create More Girder 2.3.0 -> 2.2.0 and Jaden's Nether
-  Expansion 2.4.1 -> 2.4.0-RC.2 (their newest versions need library mods this pack does not ship).
-- Photon 2.2.5 -> 2.1.5 and AeroIE 1.0.1 -> 1.0.0-hotfix2 (version mismatch between the two).
-- GPUBooster 1.3.2 -> GPUTape 1.0.3 (the newer one crashed on startup, missing library).
-
-Create Crafts & Additions, Supplementaries and Forgified Fabric API keep their v1.86 versions,
-they work now that NeoForge is 21.1.248. Everything else from v1.86 is unchanged.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
