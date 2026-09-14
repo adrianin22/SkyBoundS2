@@ -1,3 +1,32 @@
+# Skybound SMP Season 2, v2.05
+
+A CREATIVE BUILD DIMENSION IS BACK
+
+Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
+it. You get your own plot, 12 by 12 chunks, and you build there in creative without touching
+survival.
+
+YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
+armour, Curios, cosmetic slots and your XP. You arrive empty. When you come back out, all of it
+returns exactly as it was. Nothing you make in the build dimension can follow you home.
+
+WHAT DOES NOT WORK IN THERE, and why:
+
+Ender chests, ender tanks, ender pouches, backpacks, shulker boxes and the portable Mekanism
+dashboard. All of them read the same storage back in survival, so any one of them would be a
+way to walk creative items into the server economy. Bring one in and it is destroyed.
+
+Leaving to anywhere except the overworld. Space, the Nether, the End and sublevels all send you
+back to spawn instead. Use the normal way out.
+
+Mekanism does not unlock in there. If you have already earned it, it works as usual. If you have
+not, crafting the key inside does nothing, the build dimension hands out no progression.
+
+Claiming chunks still works normally inside your plot.
+
+Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
+
+
 # Skybound SMP Season 2, v2.04
 
 FOUR MODS REMOVED FOR FRAME RATE
@@ -258,40 +287,6 @@ Update again, instead of marking itself up to date with an old file inside.
 
 Both of these live in the rebuilt updater, so they apply to new installs. Nothing to do on an
 existing install.
-
-
-# Skybound SMP Season 2, v1.89
-
-Fixed the update that never finished, the one that left the launcher sitting on
-"downloading the modpack" instead of starting the game.
-
-What was happening: the update package carried the updater's own program file. Windows keeps
-that file locked while the updater is running, so it could never be written, and the updater
-kept seeing it as a file that was still out of date. That single file made it give up on the
-quick update and re-download the entire 1.2 GB pack instead, every version, forever. Updates
-again download only the files that actually changed, which is a few MB on a normal release.
-
-New installs get a rebuilt updater as well: it never tries to overwrite itself, one file it
-cannot write no longer cancels the whole quick update, and it prints download progress in the
-console so a long download no longer looks frozen.
-
-You do not need to reinstall. The fix above works with the updater you already have. If you
-want a completely clean instance, or the rebuilt updater, use the installer again.
-
-
-# Skybound SMP Season 2, v1.88
-
-Kosmo, the custom space add-on, gets a big fix and a new world.
-
-Fixed: Kosmo was painting its space star field over the sky of the Overworld and of every
-other mod's dimension. Nights looked like deep space, planets hung over them, and the
-vanilla sun was replaced everywhere. Kosmo now only draws the skies it owns, so the
-Overworld and every other dimension are back to their own sky, sun, moon and stars included.
-
-Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the longest
-channel in the system, and its own blocks and ores.
-
-Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
