@@ -1,0 +1,25 @@
+A CREATIVE BUILD DIMENSION IS BACK
+
+Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
+it. You get your own plot, 12 by 12 chunks, and you build there in creative without touching
+survival.
+
+YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
+armour, Curios, cosmetic slots and your XP. You arrive empty. When you come back out, all of it
+returns exactly as it was. Nothing you make in the build dimension can follow you home.
+
+WHAT DOES NOT WORK IN THERE, and why:
+
+Ender chests, ender tanks, ender pouches, backpacks, shulker boxes and the portable Mekanism
+dashboard. All of them read the same storage back in survival, so any one of them would be a
+way to walk creative items into the server economy. Bring one in and it is destroyed.
+
+Leaving to anywhere except the overworld. Space, the Nether, the End and sublevels all send you
+back to spawn instead. Use the normal way out.
+
+Mekanism does not unlock in there. If you have already earned it, it works as usual. If you have
+not, crafting the key inside does nothing, the build dimension hands out no progression.
+
+Claiming chunks still works normally inside your plot.
+
+Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
