@@ -3,7 +3,7 @@
 A CREATIVE BUILD DIMENSION IS BACK
 
 Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
-it. You get your own plot, 12 by 12 chunks, and you build there in creative without touching
+it. You get your own plot, 15 by 15 chunks, and you build there in creative without touching
 survival.
 
 YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
