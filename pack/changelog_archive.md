@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.06
+
+A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
+
+**Updated, the headline ones:** TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries 3.9.9, Sophisticated Backpacks 3.26.3 (with Core and the Create integration), Quark 485, Create Integrated Farming, Copycats+ 3.0.9, Fluid Logistics 1.2.9, KubeJS, FTB Library and Quests, Xaero's Minimap and World Map, Voice Chat 2.6.23, Veil 4.5.0, Blueprint, Moonlight, Puzzles Lib, and a long tail of libraries and performance mods.
+
+**Added:** Lodestone.
+
+**Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
+
+**Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
+
+
 # Skybound SMP Season 2, v2.05
 
 A CREATIVE BUILD DIMENSION IS BACK
@@ -287,40 +300,6 @@ Update again, instead of marking itself up to date with an old file inside.
 
 Both of these live in the rebuilt updater, so they apply to new installs. Nothing to do on an
 existing install.
-
-
-# Skybound SMP Season 2, v1.89
-
-Fixed the update that never finished, the one that left the launcher sitting on
-"downloading the modpack" instead of starting the game.
-
-What was happening: the update package carried the updater's own program file. Windows keeps
-that file locked while the updater is running, so it could never be written, and the updater
-kept seeing it as a file that was still out of date. That single file made it give up on the
-quick update and re-download the entire 1.2 GB pack instead, every version, forever. Updates
-again download only the files that actually changed, which is a few MB on a normal release.
-
-New installs get a rebuilt updater as well: it never tries to overwrite itself, one file it
-cannot write no longer cancels the whole quick update, and it prints download progress in the
-console so a long download no longer looks frozen.
-
-You do not need to reinstall. The fix above works with the updater you already have. If you
-want a completely clean instance, or the rebuilt updater, use the installer again.
-
-
-# Skybound SMP Season 2, v1.88
-
-Kosmo, the custom space add-on, gets a big fix and a new world.
-
-Fixed: Kosmo was painting its space star field over the sky of the Overworld and of every
-other mod's dimension. Nights looked like deep space, planets hung over them, and the
-vanilla sun was replaced everywhere. Kosmo now only draws the skies it owns, so the
-Overworld and every other dimension are back to their own sky, sun, moon and stars included.
-
-Added: Venus. A new dimension with its own terrain, coronae and lava lakes, the longest
-channel in the system, and its own blocks and ores.
-
-Added: Mars ores, and ore veins across Kosmo's worlds no longer generate far too thickly.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
