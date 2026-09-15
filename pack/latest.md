@@ -1,3 +1,3 @@
-Update 2.08
+Update 2.09
 
-Sable Cat removed, Sable updated to 2.0.5 now that nothing patches its storage code.
+FluidLogistics rolled back to 1.2.0, fixes the crash when a package arrives.
