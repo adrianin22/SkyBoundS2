@@ -1,0 +1,5 @@
+Hotfix on top of 2.06.
+
+Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
+
+Nothing else changes.
