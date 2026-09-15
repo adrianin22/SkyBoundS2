@@ -434,5 +434,6 @@ mods/voxelized_furniture-1.6-neoforge-1.21.1.jar
 mods/xaerominimap-neoforge-1.21.1-26.4.2.jar
 mods/xaeroworldmap-neoforge-1.21.1-1.45.0.jar
 mods/zps-1.21.1-2.5.1.jar
-mods/sable-neoforge-1.21.1-2.0.5-COMPASSFIX3.jar
-mods/sable-scale-neoforge-1.21.1-skyboundpatch.jar
+mods/sable-neoforge-1.21.1-2.0.3.jar
+mods/sable-scale-neoforge-1.21.1.jar
+mods/sablecat-1.0.1.jar
