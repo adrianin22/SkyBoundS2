@@ -1,3 +1,21 @@
+# Skybound SMP Season 2, v2.09
+
+Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when a package arrives.
+
+FluidLogistics 1.2.5 renamed an internal class that Create Mobile Packages 0.7.7 still calls when it draws the package toast, so the game died with a NoClassDefFoundError every time anyone ordered or received a package. 1.2.0 is the last version that still has that class, and Mobile Packages has no fix upstream yet.
+
+The cost is the FluidLogistics features added since 1.2.0, among them the fluid factory gauges, fluid schematics and the copper frogport. They come back as soon as Mobile Packages is updated.
+
+
+# Skybound SMP Season 2, v2.08
+
+Sable Cat is out of the pack, and with it gone Sable moves up to 2.0.5.
+
+Sable Cat patched the same sub-level storage code that Sable 2.0.5 rewrote, which is what crashed the server on autosave in 2.06. Removing it also removes the rest of its fixes, so if something that used to be quietly patched starts misbehaving, that is where to look.
+
+Sable Scale ships with the mixin fix for 2.0.5.
+
+
 # Skybound SMP Season 2, v2.07
 
 Hotfix on top of 2.06.
@@ -272,27 +290,6 @@ ship with this update:
 - Duplicate recipes for the same item are cleaned up.
 
 No mods change in this update.
-
-
-# Skybound SMP Season 2, v1.91
-
-Kosmo is out of the pack. The space add-on a friend of ours was building is no longer part of
-Skybound, on the server or in the pack. Nothing was built in its dimensions, so nothing is lost.
-
-Create: Bits and Bobs was shipping twice. The pack carried both 1.0.7 and 1.0.8, which is the
-same mod installed two times over. Only 1.0.8 ships now.
-
-Create FPS Optimizer is gone. It was the suspect behind the long freeze some of us hit while
-the world loaded.
-
-Sodium settings and config keybinds are yours again. Updates no longer overwrite your Sodium
-and Sodium Extra settings, or the FzzyConfig menu keybinds. Whatever you have set stays set.
-
-Wings, jetpacks and thrusters now wear out, and the coin mod matches the server. Both were
-already running on the server and only now reach your game.
-
-Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
-and the Hammer Bid recipes are gone.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
