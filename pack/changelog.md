@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v2.09
+
+Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when a package arrives.
+
+FluidLogistics 1.2.5 renamed an internal class that Create Mobile Packages 0.7.7 still calls when it draws the package toast, so the game died with a NoClassDefFoundError every time anyone ordered or received a package. 1.2.0 is the last version that still has that class, and Mobile Packages has no fix upstream yet.
+
+The cost is the FluidLogistics features added since 1.2.0, among them the fluid factory gauges, fluid schematics and the copper frogport. They come back as soon as Mobile Packages is updated.
+
+
 # Skybound SMP Season 2, v2.08
 
 Sable Cat is out of the pack, and with it gone Sable moves up to 2.0.5.
@@ -261,26 +270,6 @@ remap buttons. Keyboard and mouse keep working exactly as before, nothing is for
 - Framework 0.13.11, the library Controllable depends on.
 
 Both are client side only, the server is unchanged, and no recipe or world content changes.
-
-
-# Skybound SMP Season 2, v1.92
-
-The recipe book now matches the server.
-
-A dozen recipe scripts had been running on the server for weeks without ever reaching the pack,
-so JEI on your side was showing recipes the server does not use, and hiding ones it does. They
-ship with this update:
-
-- Steel from Create Factory Machines and Guns is its own material again, and no longer mixes
-  with the steel of other mods, including inside multi-step Create recipes.
-- Fireclay, bauxite, galena, nickel, brass pipes and the furniture blueprint get their recipes.
-- Gadgets and Gizmos blocks, Saros bitumen, Interiors kelp and the lead split are craftable.
-- CC:Tweaked wireless and ender modems work again, they were pointing at empty tags.
-- Ink sacs are craftable and the Radar Warning Receiver finally has a recipe.
-- Honey rubber can be made instead of only being an ingredient.
-- Duplicate recipes for the same item are cleaned up.
-
-No mods change in this update.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
