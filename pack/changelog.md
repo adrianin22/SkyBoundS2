@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v2.07
+
+Hotfix on top of 2.06.
+
+Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
+
+Nothing else changes.
+
+
 # Skybound SMP Season 2, v2.06
 
 A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
@@ -263,27 +272,6 @@ ship with this update:
 - Duplicate recipes for the same item are cleaned up.
 
 No mods change in this update.
-
-
-# Skybound SMP Season 2, v1.91
-
-Kosmo is out of the pack. The space add-on a friend of ours was building is no longer part of
-Skybound, on the server or in the pack. Nothing was built in its dimensions, so nothing is lost.
-
-Create: Bits and Bobs was shipping twice. The pack carried both 1.0.7 and 1.0.8, which is the
-same mod installed two times over. Only 1.0.8 ships now.
-
-Create FPS Optimizer is gone. It was the suspect behind the long freeze some of us hit while
-the world loaded.
-
-Sodium settings and config keybinds are yours again. Updates no longer overwrite your Sodium
-and Sodium Extra settings, or the FzzyConfig menu keybinds. Whatever you have set stays set.
-
-Wings, jetpacks and thrusters now wear out, and the coin mod matches the server. Both were
-already running on the server and only now reach your game.
-
-Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
-and the Hammer Bid recipes are gone.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
