@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v2.07
+
+Hotfix on top of 2.06.
+
+Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
+
+Nothing else changes.
+
+
 # Skybound SMP Season 2, v2.06
 
 A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
@@ -284,22 +293,6 @@ already running on the server and only now reach your game.
 
 Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
 and the Hammer Bid recipes are gone.
-
-
-# Skybound SMP Season 2, v1.90
-
-Two follow-ups to the update fix in v1.89.
-
-The shaderpacks that come with the pack now actually arrive. The pack has carried eight
-shaderpacks since v1.77, but the updater was not looking at that folder, so only people who
-installed from the mrpack ever got them. They are part of what an update installs now.
-
-An update that cannot finish no longer claims it did. If a file cannot be written, for example
-because antivirus is holding it, the pack keeps showing as outdated and asks you to press
-Update again, instead of marking itself up to date with an old file inside.
-
-Both of these live in the rebuilt updater, so they apply to new installs. Nothing to do on an
-existing install.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
