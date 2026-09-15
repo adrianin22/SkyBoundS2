@@ -1,7 +1,3 @@
-Update 2.06
+Update 2.07
 
-66 mods updated, including TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries, Sophisticated Backpacks, Quark and Veil.
-
-Lodestone added.
-
-Zero Point Systems, Aerocopycats and plastic_fix removed. Blocks placed by those mods will be gone from your world.
+Hotfix: Sable back on 2.0.3, the 2.0.5 build shipped in 2.06 crashes the server on autosave. Sable Scale back to stock.
