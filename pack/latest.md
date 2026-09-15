@@ -1,3 +1,3 @@
-Update 2.07
+Update 2.08
 
-Hotfix: Sable back on 2.0.3, the 2.0.5 build shipped in 2.06 crashes the server on autosave. Sable Scale back to stock.
+Sable Cat removed, Sable updated to 2.0.5 now that nothing patches its storage code.
