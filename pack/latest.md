@@ -1,1 +1,7 @@
-v2.05: the creative build dimension is back, replacing the old Stasis world. Type /plot for your own 15x15 chunk plot. Your survival inventory, Curios and XP are stored on the way in and returned on the way out, so nothing built in creative can reach survival. Ender storage, backpacks, shulkers and the portable Mekanism dashboard are destroyed inside, leaving to anywhere but the overworld sends you back to spawn, and Mekanism does not unlock in there. Nothing was removed and no recipe changed.
+Update 2.06
+
+66 mods updated, including TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries, Sophisticated Backpacks, Quark and Veil.
+
+Lodestone added.
+
+Zero Point Systems, Aerocopycats and plastic_fix removed. Blocks placed by those mods will be gone from your world.
