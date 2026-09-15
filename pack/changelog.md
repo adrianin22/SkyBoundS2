@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v2.08
+
+Sable Cat is out of the pack, and with it gone Sable moves up to 2.0.5.
+
+Sable Cat patched the same sub-level storage code that Sable 2.0.5 rewrote, which is what crashed the server on autosave in 2.06. Removing it also removes the rest of its fixes, so if something that used to be quietly patched starts misbehaving, that is where to look.
+
+Sable Scale ships with the mixin fix for 2.0.5.
+
+
 # Skybound SMP Season 2, v2.07
 
 Hotfix on top of 2.06.
