@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.06
+
+A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
+
+**Updated, the headline ones:** TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries 3.9.9, Sophisticated Backpacks 3.26.3 (with Core and the Create integration), Quark 485, Create Integrated Farming, Copycats+ 3.0.9, Fluid Logistics 1.2.9, KubeJS, FTB Library and Quests, Xaero's Minimap and World Map, Voice Chat 2.6.23, Veil 4.5.0, Blueprint, Moonlight, Puzzles Lib, and a long tail of libraries and performance mods.
+
+**Added:** Lodestone.
+
+**Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
+
+**Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
+
+
 # Skybound SMP Season 2, v2.05
 
 A CREATIVE BUILD DIMENSION IS BACK
@@ -271,22 +284,6 @@ already running on the server and only now reach your game.
 
 Recipe fixes: wrenches pick up blocks from add-on mods, redstone links cost a netherite ingot,
 and the Hammer Bid recipes are gone.
-
-
-# Skybound SMP Season 2, v1.90
-
-Two follow-ups to the update fix in v1.89.
-
-The shaderpacks that come with the pack now actually arrive. The pack has carried eight
-shaderpacks since v1.77, but the updater was not looking at that folder, so only people who
-installed from the mrpack ever got them. They are part of what an update installs now.
-
-An update that cannot finish no longer claims it did. If a file cannot be written, for example
-because antivirus is holding it, the pack keeps showing as outdated and asks you to press
-Update again, instead of marking itself up to date with an old file inside.
-
-Both of these live in the rebuilt updater, so they apply to new installs. Nothing to do on an
-existing install.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
