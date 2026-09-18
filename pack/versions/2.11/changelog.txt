@@ -1,0 +1,7 @@
+Fixes and removals.
+
+Fixed:
+- Extruding recipes from the Mechanical Extruder now show up in JEI. The extruder pole model was never loaded, which broke every extruding recipe page and caused lag near extruders.
+
+Removed:
+- Create: Sulfuric Resonance. Blocks and items from this mod are lost.
