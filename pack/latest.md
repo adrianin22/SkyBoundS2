@@ -1,4 +1,3 @@
-Update 2.13
+Update 2.14
 
-Create: Cosmonautics updated to a newer development build (26.09.349).
-Fixed missing models, textures and sounds from several mods.
+New: Yuushya Townscape building blocks and the Vista URL Cassette Maker. Seat camera on moving ships fixed. Vista updated to 5.5.6, server side patches now shipped to everyone.
