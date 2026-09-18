@@ -1,3 +1,3 @@
-Update 2.11
+Update 2.12
 
-Extruding recipes show up in JEI again (and less lag near Mechanical Extruders). Create: Sulfuric Resonance removed.
+Cosmonautics: Deep Air added. Sealed ships and stations keep air and gravity in space, so space bases work now.
