@@ -1,0 +1,15 @@
+New content batch.
+
+Added:
+- Drive By Sable, replaces Drive By Wire and its Typewriter addon (it covers everything they did, now built for Sable sub-levels).
+- Create Coasters Simulated and Coasters Engineered are back. Rivets have new limits: one rivet per sub-level, and a rivet cannot be placed on another rivet or on anything built onto one, so rivet chains are no longer possible.
+- Skyport (Create Aeronautics).
+- Aeronautics Player Tilt.
+- Create: Who Touched My Train.
+- Estrogen. The dash ability it grants is disabled.
+- Diversity Delight. Its food effects are disabled, the food itself works normally.
+- Sauce Delight.
+- Hearth and Harvest.
+
+Removed:
+- Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
