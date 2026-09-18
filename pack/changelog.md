@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v2.12
+
+New mod.
+
+Added:
+- Cosmonautics: Deep Air. Sealed, unbreached ships and stations built with Create Deep Seas now keep breathable air and gravity in space. Fill a sealed room with oxygen from a Deep Seas oxygen diffuser and you can breathe inside without a helmet. Gravity needs at least one room with air on the ship.
+
+
 # Skybound SMP Season 2, v2.11
 
 Fixes and removals.
