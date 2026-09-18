@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.14
+
+Server patches now shipped to everyone, plus new building and TV content.
+
+Added:
+- Yuushya Townscape: 2600+ building and decoration blocks.
+- Glaiden's Vista improvements: URL Cassette Maker, paste a link and pick a colour to make your own cassette.
+
+Fixed:
+- Create seats on moving ships: the camera no longer looks one way while your body faces another (Cosmonautics free look only kicks in with 6DOF on).
+
+Changed:
+- Vista updated to 5.5.6.
+- Create: CC Better Recipes, Create: Things and Misc and Protection Pixel: rewritten scheduled task queue (no longer scans the whole queue every tick).
+- Farmer's Delight: same patched build the server runs.
+- Sable Quota: swivel bearings no longer count as physics structures (splits still do).
+- KubeJS server scripts synced with the server, and the JEI hide list updated (fireworks, Legendary Monsters eyes, Ender Pouch and Ender Tank hidden).
+
+
 # Skybound SMP Season 2, v2.13
 
 Cosmonautics update.
@@ -232,52 +251,6 @@ the server, and everything it dragged with it works again.
 
 If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
 else in this update changes: same mod list otherwise, same recipes, same configs.
-
-
-# Skybound SMP Season 2, v1.97
-
-A big clear-out and a big restock.
-
-REMOVED (16 mods)
-Create: Radionautics, Create: Flight Control, Create: Ironworks, Create Redstone Link GUI,
-Create: Sonar, Floating Islands, Mowzie's Mobs, Vestalihy, Unlocked Void Sea, Placeable Items,
-Integrated Dungeons and Structures, HBs Foundation, Simply Swords: Create Lines,
-Myths and Legends, Mo Glass and Luminous Beasts. Simply Swords itself stays, only its Create
-add-on is gone. One unused library, Integrated API, went with them.
-If you had blocks or items from any of these placed in the world, they will disappear. Anything
-in a chest or in your inventory is lost the same way. Move what you care about before updating.
-
-ADDED (17 mods)
-Searchlights, Create: Alerted, Create: Rolling Tones, Create: Under Pressure, Create Parachute,
-Tracksta, Farming for Blockheads, Let's Do Furniture seats for Create and Sable, Talking Heads,
-Bathymetry, Cool Rain and Sable: Cool Rain, Sable: Quota, Sablecat, Sable Ragdoll Patch,
-Jade Sable compatibility, and Xaero's Map support for Sable ships. Three small libraries these
-need come along with them.
-
-TWO NEW RECIPES
-Honey Bottle can now be crafted from three sugar, one slime ball and a glass bottle, so a bottle
-of honey no longer depends on finding bees.
-Seabrass Ingot can now be crafted from one brass ingot and two prismarine shards. Seabrass ore
-only generates in a short list of plain vanilla biomes, and this world runs custom ones, so the
-ore never appeared and every seabrass block was unobtainable. Now the whole set is reachable.
-
-The server is running the same list.
-
-
-# Skybound SMP Season 2, v1.96
-
-The game starts again.
-
-Since v1.91 the pack shipped a modified build of Protection Pixel. That edit is what gives the
-wings, jetpack, thruster and the other powered modules real durability, but it left one piece of
-class data inconsistent, and the mod could not be created at startup. When that happens the whole
-mod loading phase stops, so the game never reaches the main menu and shows a loading error
-instead. There is no crash report, which is why it looked like a freeze.
-
-The mod is rebuilt correctly in this update. Nothing about it changes for you: same durability
-values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
-
-If your game was stuck on the loading error screen, update and it will start.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
