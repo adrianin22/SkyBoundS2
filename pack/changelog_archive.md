@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.14
+
+Server patches now shipped to everyone, plus new building and TV content.
+
+Added:
+- Yuushya Townscape: 2600+ building and decoration blocks.
+- Glaiden's Vista improvements: URL Cassette Maker, paste a link and pick a colour to make your own cassette.
+
+Fixed:
+- Create seats on moving ships: the camera no longer looks one way while your body faces another (Cosmonautics free look only kicks in with 6DOF on).
+
+Changed:
+- Vista updated to 5.5.6.
+- Create: CC Better Recipes, Create: Things and Misc and Protection Pixel: rewritten scheduled task queue (no longer scans the whole queue every tick).
+- Farmer's Delight: same patched build the server runs.
+- Sable Quota: swivel bearings no longer count as physics structures (splits still do).
+- KubeJS server scripts synced with the server, and the JEI hide list updated (fireworks, Legendary Monsters eyes, Ender Pouch and Ender Tank hidden).
+
+
 # Skybound SMP Season 2, v2.13
 
 Cosmonautics update.
@@ -278,21 +297,6 @@ The mod is rebuilt correctly in this update. Nothing about it changes for you: s
 values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
 
 If your game was stuck on the loading error screen, update and it will start.
-
-
-# Skybound SMP Season 2, v1.95
-
-Controllable is out of the pack.
-
-The controller mod added in v1.93 is removed. It crashed against the pack's version of JEI,
-v1.94 shipped it with the JEI part cut out, and it is now gone entirely rather than half
-working. Its library, Framework, goes with it since nothing else uses it.
-
-Both are deleted from your install by this update. Nothing else changes: keyboard and mouse
-were never touched, the server is unchanged, and there are no recipe or world content changes.
-
-If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
-aware its JEI integration is what crashes and the pack cannot ship around that.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
