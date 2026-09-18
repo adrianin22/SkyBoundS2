@@ -1,3 +1,24 @@
+# Skybound SMP Season 2, v2.13
+
+Cosmonautics update.
+
+Changed:
+- Create: Cosmonautics updated from the 26.08.307 release to a newer 26.09.349 development build (patched by us so it runs on the server). Brings the upstream work since August, including the MFD screens and 6DOF free movement in space.
+
+Fixed:
+- Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
+- Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
+- The Mekanism key item texture.
+
+
+# Skybound SMP Season 2, v2.12
+
+New mod.
+
+Added:
+- Cosmonautics: Deep Air. Sealed, unbreached ships and stations built with Create Deep Seas now keep breathable air and gravity in space. Fill a sealed room with oxygen from a Deep Seas oxygen diffuser and you can breathe inside without a helmet. Gravity needs at least one room with air on the ship.
+
+
 # Skybound SMP Season 2, v2.11
 
 Fixes and removals.
@@ -272,20 +293,6 @@ were never touched, the server is unchanged, and there are no recipe or world co
 
 If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
 aware its JEI integration is what crashes and the pack cannot ship around that.
-
-
-# Skybound SMP Season 2, v1.94
-
-Crash fix for the controller update.
-
-Controllable, added in v1.93, crashed the game against the pack's version of JEI. Its JEI
-integration targets an older JEI layout, and the mismatch was fatal rather than silent. The mod
-now ships without that integration, so it no longer crashes.
-
-- Controllable still works for playing and for menus. Keyboard and mouse are untouched.
-- What is gone: moving through the JEI item list with the controller. Use the mouse there.
-
-Client side only, the server is unchanged, and no recipe or world content changes.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
