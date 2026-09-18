@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.13
+
+Cosmonautics update.
+
+Changed:
+- Create: Cosmonautics updated from the 26.08.307 release to a newer 26.09.349 development build (patched by us so it runs on the server). Brings the upstream work since August, including the MFD screens and 6DOF free movement in space.
+
+Fixed:
+- Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
+- Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
+- The Mekanism key item texture.
+
+
 # Skybound SMP Season 2, v2.12
 
 New mod.
@@ -265,21 +278,6 @@ The mod is rebuilt correctly in this update. Nothing about it changes for you: s
 values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
 
 If your game was stuck on the loading error screen, update and it will start.
-
-
-# Skybound SMP Season 2, v1.95
-
-Controllable is out of the pack.
-
-The controller mod added in v1.93 is removed. It crashed against the pack's version of JEI,
-v1.94 shipped it with the JEI part cut out, and it is now gone entirely rather than half
-working. Its library, Framework, goes with it since nothing else uses it.
-
-Both are deleted from your install by this update. Nothing else changes: keyboard and mouse
-were never touched, the server is unchanged, and there are no recipe or world content changes.
-
-If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
-aware its JEI integration is what crashes and the pack cannot ship around that.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
