@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.10
+
+New content batch.
+
+Added:
+- Drive By Sable, replaces Drive By Wire and its Typewriter addon (it covers everything they did, now built for Sable sub-levels).
+- Create Coasters Simulated and Coasters Engineered are back. Rivets have new limits: one rivet per sub-level, and a rivet cannot be placed on another rivet or on anything built onto one, so rivet chains are no longer possible.
+- Skyport (Create Aeronautics).
+- Aeronautics Player Tilt.
+- Create: Who Touched My Train.
+- Estrogen. The dash ability it grants is disabled.
+- Diversity Delight. Its food effects are disabled, the food itself works normally.
+- Sauce Delight.
+- Hearth and Harvest.
+
+Removed:
+- Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
+
+
 # Skybound SMP Season 2, v2.09
 
 Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when a package arrives.
@@ -256,20 +275,6 @@ now ships without that integration, so it no longer crashes.
 - What is gone: moving through the JEI item list with the controller. Use the mouse there.
 
 Client side only, the server is unchanged, and no recipe or world content changes.
-
-
-# Skybound SMP Season 2, v1.93
-
-Controller support.
-
-Controllable is now part of the pack, so a gamepad works for playing, for menus and for the
-JEI item list. Plug the controller in, open Options and Controller Settings to pick it and to
-remap buttons. Keyboard and mouse keep working exactly as before, nothing is forced on you.
-
-- Controllable 0.25.4, with the SDL controller library it needs.
-- Framework 0.13.11, the library Controllable depends on.
-
-Both are client side only, the server is unchanged, and no recipe or world content changes.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
