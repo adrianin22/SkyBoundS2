@@ -1,3 +1,3 @@
-Update 2.14
+Update 2.15
 
-New: Yuushya Townscape building blocks and the Vista URL Cassette Maker. Seat camera on moving ships fixed. Vista updated to 5.5.6, server side patches now shipped to everyone.
+Distant Horizons updated to 3.3.1, required by Vista 5.5.6.
