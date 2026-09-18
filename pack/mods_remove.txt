@@ -437,3 +437,5 @@ mods/sable-neoforge-1.21.1-2.0.3.jar
 mods/sable-scale-neoforge-1.21.1.jar
 mods/sablecat-1.0.1.jar
 mods/fluidlogistics-1.2.9.jar
+mods/drivebywire-0.3.0.jar
+mods/drivebywire-typewriter-1.1.0-beta.2.jar
