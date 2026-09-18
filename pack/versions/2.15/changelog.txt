@@ -1,0 +1,4 @@
+Distant Horizons updated so it works with Vista again.
+
+Changed:
+- Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
