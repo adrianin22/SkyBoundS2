@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v2.11
+
+Fixes and removals.
+
+Fixed:
+- Extruding recipes from the Mechanical Extruder now show up in JEI. The extruder pole model was never loaded, which broke every extruding recipe page and caused lag near extruders.
+
+Removed:
+- Create: Sulfuric Resonance. Blocks and items from this mod are lost.
+
+
 # Skybound SMP Season 2, v2.10
 
 New content batch.
@@ -261,20 +272,6 @@ were never touched, the server is unchanged, and there are no recipe or world co
 
 If you want a controller in the meantime, install Controllable yourself from CurseForge, but be
 aware its JEI integration is what crashes and the pack cannot ship around that.
-
-
-# Skybound SMP Season 2, v1.94
-
-Crash fix for the controller update.
-
-Controllable, added in v1.93, crashed the game against the pack's version of JEI. Its JEI
-integration targets an older JEI layout, and the mismatch was fatal rather than silent. The mod
-now ships without that integration, so it no longer crashes.
-
-- Controllable still works for playing and for menus. Keyboard and mouse are untouched.
-- What is gone: moving through the JEI item list with the controller. Use the mouse there.
-
-Client side only, the server is unchanged, and no recipe or world content changes.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
