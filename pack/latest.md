@@ -1,3 +1,4 @@
-Update 2.12
+Update 2.13
 
-Cosmonautics: Deep Air added. Sealed ships and stations keep air and gravity in space, so space bases work now.
+Create: Cosmonautics updated to a newer development build (26.09.349).
+Fixed missing models, textures and sounds from several mods.
