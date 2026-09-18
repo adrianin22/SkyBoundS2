@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.10
+
+New content batch.
+
+Added:
+- Drive By Sable, replaces Drive By Wire and its Typewriter addon (it covers everything they did, now built for Sable sub-levels).
+- Create Coasters Simulated and Coasters Engineered are back. Rivets have new limits: one rivet per sub-level, and a rivet cannot be placed on another rivet or on anything built onto one, so rivet chains are no longer possible.
+- Skyport (Create Aeronautics).
+- Aeronautics Player Tilt.
+- Create: Who Touched My Train.
+- Estrogen. The dash ability it grants is disabled.
+- Diversity Delight. Its food effects are disabled, the food itself works normally.
+- Sauce Delight.
+- Hearth and Harvest.
+
+Removed:
+- Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
+
+
 # Skybound SMP Season 2, v2.09
 
 Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when a package arrives.
@@ -270,26 +289,6 @@ remap buttons. Keyboard and mouse keep working exactly as before, nothing is for
 - Framework 0.13.11, the library Controllable depends on.
 
 Both are client side only, the server is unchanged, and no recipe or world content changes.
-
-
-# Skybound SMP Season 2, v1.92
-
-The recipe book now matches the server.
-
-A dozen recipe scripts had been running on the server for weeks without ever reaching the pack,
-so JEI on your side was showing recipes the server does not use, and hiding ones it does. They
-ship with this update:
-
-- Steel from Create Factory Machines and Guns is its own material again, and no longer mixes
-  with the steel of other mods, including inside multi-step Create recipes.
-- Fireclay, bauxite, galena, nickel, brass pipes and the furniture blueprint get their recipes.
-- Gadgets and Gizmos blocks, Saros bitumen, Interiors kelp and the lead split are craftable.
-- CC:Tweaked wireless and ender modems work again, they were pointing at empty tags.
-- Ink sacs are craftable and the Radar Warning Receiver finally has a recipe.
-- Honey rubber can be made instead of only being an ingredient.
-- Duplicate recipes for the same item are cleaned up.
-
-No mods change in this update.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
