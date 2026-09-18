@@ -444,3 +444,4 @@ mods/cosmonautics-26.08.307.jar
 mods/sable_quota-1.2.0.jar
 mods/vista-1.21.1-5.4.4-neoforge.jar
 mods/cosmonautics-26.09.349-skyboundpatch.jar
+mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar
