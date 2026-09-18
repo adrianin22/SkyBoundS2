@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v2.15
+
+Distant Horizons updated so it works with Vista again.
+
+Changed:
+- Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
+
+
 # Skybound SMP Season 2, v2.14
 
 Server patches now shipped to everyone, plus new building and TV content.
