@@ -1,3 +1,3 @@
-Update 2.15
+Update 2.16
 
-Distant Horizons updated to 3.3.1, required by Vista 5.5.6.
+Vista and Distant Horizons reverted, Create: Estrogen added, honey is now a mixer fluid.
