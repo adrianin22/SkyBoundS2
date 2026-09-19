@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v2.16
+
+Vista and Distant Horizons back to their previous versions, Create: Estrogen added, and bee-free honey now comes out of a mixer as fluid.
+
+Added:
+- Create: Estrogen 2.0.0.
+
+Changed:
+- Vista reverted to 5.4.4.
+- Distant Horizons reverted to 3.2.0-b.
+- Sugar (x3) + slime ball in a Create mixer now gives 250 mB of honey fluid instead of a honey bottle. Fill bottles with a spout.
+- Honeycomb is now made in a Create mixer from paper + 250 mB of honey.
+
+
 # Skybound SMP Season 2, v2.15
 
 Distant Horizons updated so it works with Vista again.
