@@ -1,3 +1,58 @@
+# Skybound SMP Season 2, v2.18
+
+Create Train Utilities is back in the pack.
+
+Added:
+- Create Train Utilities 3.1.0, removed in 2.17, back by request. Train doors and the rest of its train blocks work again.
+
+
+# Skybound SMP Season 2, v2.17
+
+Biomancy and its Create add-on Bio-Factory join the pack, along with Assembly Animations, High Skies and CreateFix. Seven mods are gone.
+
+Added:
+- Biomancy 2.9.8.5.
+- Create: Bio-Factory 0.6.1.
+- CreateFix 1.8.1.
+- Create: Assembly Animations 1.0.1 (client side).
+- Create: High Skies 0.1.0.
+
+Changed:
+- Create: Power Chip updated to 2.1.1.
+- The Primordial Cradle can no longer be crafted.
+
+Removed:
+- Immersive Armors.
+- Fancy Entity Renderer.
+- Create Train Utilities.
+- Create More: Parallel Pipes.
+- ChoiceTheorem's Overhauled Village. Villages already generated will lose their modded blocks.
+- Saro's Road Blocks. Saro's Road Signs stays in the pack.
+- Computationally Expensive.
+
+
+# Skybound SMP Season 2, v2.16
+
+Vista and Distant Horizons back to their previous versions, Create: Estrogen added, and bee-free honey now comes out of a mixer as fluid.
+
+Added:
+- Create: Estrogen 2.0.0.
+
+Changed:
+- Vista reverted to 5.4.4.
+- Distant Horizons reverted to 3.2.0-b.
+- Sugar (x3) + slime ball in a Create mixer now gives 250 mB of honey fluid instead of a honey bottle. Fill bottles with a spout.
+- Honeycomb is now made in a Create mixer from paper + 250 mB of honey.
+
+
+# Skybound SMP Season 2, v2.15
+
+Distant Horizons updated so it works with Vista again.
+
+Changed:
+- Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
+
+
 # Skybound SMP Season 2, v2.14
 
 Server patches now shipped to everyone, plus new building and TV content.
@@ -251,52 +306,6 @@ the server, and everything it dragged with it works again.
 
 If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
 else in this update changes: same mod list otherwise, same recipes, same configs.
-
-
-# Skybound SMP Season 2, v1.97
-
-A big clear-out and a big restock.
-
-REMOVED (16 mods)
-Create: Radionautics, Create: Flight Control, Create: Ironworks, Create Redstone Link GUI,
-Create: Sonar, Floating Islands, Mowzie's Mobs, Vestalihy, Unlocked Void Sea, Placeable Items,
-Integrated Dungeons and Structures, HBs Foundation, Simply Swords: Create Lines,
-Myths and Legends, Mo Glass and Luminous Beasts. Simply Swords itself stays, only its Create
-add-on is gone. One unused library, Integrated API, went with them.
-If you had blocks or items from any of these placed in the world, they will disappear. Anything
-in a chest or in your inventory is lost the same way. Move what you care about before updating.
-
-ADDED (17 mods)
-Searchlights, Create: Alerted, Create: Rolling Tones, Create: Under Pressure, Create Parachute,
-Tracksta, Farming for Blockheads, Let's Do Furniture seats for Create and Sable, Talking Heads,
-Bathymetry, Cool Rain and Sable: Cool Rain, Sable: Quota, Sablecat, Sable Ragdoll Patch,
-Jade Sable compatibility, and Xaero's Map support for Sable ships. Three small libraries these
-need come along with them.
-
-TWO NEW RECIPES
-Honey Bottle can now be crafted from three sugar, one slime ball and a glass bottle, so a bottle
-of honey no longer depends on finding bees.
-Seabrass Ingot can now be crafted from one brass ingot and two prismarine shards. Seabrass ore
-only generates in a short list of plain vanilla biomes, and this world runs custom ones, so the
-ore never appeared and every seabrass block was unobtainable. Now the whole set is reachable.
-
-The server is running the same list.
-
-
-# Skybound SMP Season 2, v1.96
-
-The game starts again.
-
-Since v1.91 the pack shipped a modified build of Protection Pixel. That edit is what gives the
-wings, jetpack, thruster and the other powered modules real durability, but it left one piece of
-class data inconsistent, and the mod could not be created at startup. When that happens the whole
-mod loading phase stops, so the game never reaches the main menu and shows a loading error
-instead. There is no crash report, which is why it looked like a freeze.
-
-The mod is rebuilt correctly in this update. Nothing about it changes for you: same durability
-values, same recipes, same flare rod consumption. No other mod is added, removed or updated.
-
-If your game was stuck on the loading error screen, update and it will start.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
