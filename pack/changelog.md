@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v2.19
+
+Performance update for Create factories.
+
+Added:
+- StellarCreateOptimization 1.0.6. Cuts CPU and rendering cost in large Create builds: belts, chutes, encased fans, pumps, crushing wheels, steam engines, fluid tanks, factory panels and chain conveyors. Most of the gain is client side FPS around big factories, and the server also ticks those machines cheaper.
+
+Server side only, nothing to install:
+- Sterilization Fixer was removed from the server. It rewrote unknown blocks to air with no way to preview the change, and some of those blocks belong to mods that are only temporarily downgraded.
+
+
 # Skybound SMP Season 2, v2.18
 
 Create Train Utilities is back in the pack.
@@ -271,27 +282,6 @@ your own mods folder did nothing but cost memory and loading time.
 
 Nothing else changes: same mod list otherwise, same recipes, same configs. If you kept your own
 WorldEdit schematics, they stay where they are, the folder is not touched.
-
-
-# Skybound SMP Season 2, v1.99
-
-ADDED: Create: Cosmonautics
-
-Space addon for Create: Aeronautics. Build rockets, leave the ground and fly to orbit with the
-same Create machinery you already use. It brings its own orbital flight model, so a ship that
-leaves the atmosphere keeps behaving like a real craft instead of teleporting to another world.
-It runs on top of Aeronautics and Sable, both already in the pack, and it is installed on the
-server too, so anything you build there flies for everyone.
-
-FIXED: client crash when opening the pause menu
-
-FTB Chunks saved the minimap on the render thread while its own worker thread was still adding
-map regions, and the two collided. Pressing ESC at the wrong moment closed the game with a
-ConcurrentModificationException, most often right after exploring or flying over new land.
-The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions under the
-mod's own lock before saving them. Same mod, same version, same map data, no crash.
-
-Nothing else changes: same recipes, same configs, no other mod added or removed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
