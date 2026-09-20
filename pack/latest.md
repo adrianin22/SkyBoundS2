@@ -1,3 +1,3 @@
-Update 2.16
+Update 2.17
 
-Vista and Distant Horizons reverted, Create: Estrogen added, honey is now a mixer fluid.
+Biomancy, Bio-Factory, Assembly Animations, High Skies and CreateFix added, seven mods removed.
