@@ -1,0 +1,21 @@
+Biomancy and its Create add-on Bio-Factory join the pack, along with Assembly Animations, High Skies and CreateFix. Seven mods are gone.
+
+Added:
+- Biomancy 2.9.8.5.
+- Create: Bio-Factory 0.6.1.
+- CreateFix 1.8.1.
+- Create: Assembly Animations 1.0.1 (client side).
+- Create: High Skies 0.1.0.
+
+Changed:
+- Create: Power Chip updated to 2.1.1.
+- The Primordial Cradle can no longer be crafted.
+
+Removed:
+- Immersive Armors.
+- Fancy Entity Renderer.
+- Create Train Utilities.
+- Create More: Parallel Pipes.
+- ChoiceTheorem's Overhauled Village. Villages already generated will lose their modded blocks.
+- Saro's Road Blocks. Saro's Road Signs stays in the pack.
+- Computationally Expensive.
