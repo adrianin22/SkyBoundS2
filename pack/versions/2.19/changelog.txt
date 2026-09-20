@@ -1,0 +1,7 @@
+Performance update for Create factories.
+
+Added:
+- StellarCreateOptimization 1.0.6. Cuts CPU and rendering cost in large Create builds: belts, chutes, encased fans, pumps, crushing wheels, steam engines, fluid tanks, factory panels and chain conveyors. Most of the gain is client side FPS around big factories, and the server also ticks those machines cheaper.
+
+Server side only, nothing to install:
+- Sterilization Fixer was removed from the server. It rewrote unknown blocks to air with no way to preview the change, and some of those blocks belong to mods that are only temporarily downgraded.
