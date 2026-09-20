@@ -445,3 +445,11 @@ mods/sable_quota-1.2.0.jar
 mods/cosmonautics-26.09.349-skyboundpatch.jar
 mods/vista-1.21.1-5.5.6-neoforge.jar
 mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar
+mods/immersive_armors-1.7.6+1.21.1-neoforge.jar
+mods/fancy-entity-renderer-neoforge-1.21-0.4.9.jar
+mods/trainutilities-neoforge-3.1.0.jar
+mods/cmparallelpipes-neoforge-2.0.2.jar
+mods/[Neoforge]ctov-3.6.3.jar
+mods/Saros-Road-Blocks-NeoForge-1.21.1-5.9.9.jar
+mods/create_ce-0.1.1-alpha.jar
+mods/powerchip-2.1.0.jar
