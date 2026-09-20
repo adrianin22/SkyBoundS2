@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v2.19
+
+Performance update for Create factories.
+
+Added:
+- StellarCreateOptimization 1.0.6. Cuts CPU and rendering cost in large Create builds: belts, chutes, encased fans, pumps, crushing wheels, steam engines, fluid tanks, factory panels and chain conveyors. Most of the gain is client side FPS around big factories, and the server also ticks those machines cheaper.
+
+Server side only, nothing to install:
+- Sterilization Fixer was removed from the server. It rewrote unknown blocks to air with no way to preview the change, and some of those blocks belong to mods that are only temporarily downgraded.
+
+
 # Skybound SMP Season 2, v2.18
 
 Create Train Utilities is back in the pack.
@@ -292,20 +303,6 @@ The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions
 mod's own lock before saving them. Same mod, same version, same map data, no crash.
 
 Nothing else changes: same recipes, same configs, no other mod added or removed.
-
-
-# Skybound SMP Season 2, v1.98
-
-REMOVED: Create Parachute
-
-Create Parachute shipped in v1.97 and it cannot run on a dedicated server. One of its blocks
-is registered through code that loads a client-only screen class, so the server aborts while
-registering blocks and never finishes starting. It also broke registration for Create: Power
-Grid, Dashpanels and Rechiseled: Create on the way down. The mod is out of the pack and off
-the server, and everything it dragged with it works again.
-
-If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
-else in this update changes: same mod list otherwise, same recipes, same configs.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
