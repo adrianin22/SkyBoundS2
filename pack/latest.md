@@ -1,3 +1,3 @@
-Update 2.17
+Update 2.18
 
-Biomancy, Bio-Factory, Assembly Animations, High Skies and CreateFix added, seven mods removed.
+Create Train Utilities is back in the pack.
