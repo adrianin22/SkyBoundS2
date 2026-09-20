@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v2.18
+
+Create Train Utilities is back in the pack.
+
+Added:
+- Create Train Utilities 3.1.0, removed in 2.17, back by request. Train doors and the rest of its train blocks work again.
+
+
 # Skybound SMP Season 2, v2.17
 
 Biomancy and its Create add-on Bio-Factory join the pack, along with Assembly Animations, High Skies and CreateFix. Seven mods are gone.
@@ -284,20 +292,6 @@ The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions
 mod's own lock before saving them. Same mod, same version, same map data, no crash.
 
 Nothing else changes: same recipes, same configs, no other mod added or removed.
-
-
-# Skybound SMP Season 2, v1.98
-
-REMOVED: Create Parachute
-
-Create Parachute shipped in v1.97 and it cannot run on a dedicated server. One of its blocks
-is registered through code that loads a client-only screen class, so the server aborts while
-registering blocks and never finishes starting. It also broke registration for Create: Power
-Grid, Dashpanels and Rechiseled: Create on the way down. The mod is out of the pack and off
-the server, and everything it dragged with it works again.
-
-If you placed a parachute block or kept a parachute item, it is gone with the mod. Nothing
-else in this update changes: same mod list otherwise, same recipes, same configs.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
