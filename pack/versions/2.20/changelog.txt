@@ -1,0 +1,15 @@
+Cleanup update: 20 mods removed, 2 added.
+
+Added:
+- Skybound Extras 1.0.0. Server utility mod, adds /freebeacon (beacon effects without a pyramid).
+- World Spawn 0.2.1. World Spawner block that moves the world spawn along with a Sable sublevel.
+
+Removed:
+- Ender Storage. Placed ender chests and their shared inventories are gone.
+- Create: Things and Misc, Create Alerted, Industrial Immersive Blocks, Create Integrated Farming and Create Factory Metrics. Their placed blocks disappear from the world.
+- Sable Pathfinder and World Backup.
+- Client side: SimplyTooltips, Legendary Tooltips (with Iceberg and Prism), MineMenu, Visuality, CreativeCore, Instaload, Easy Mob Spawn Control, FTB Essentials, Aeronautics Wind Sound and Rolling Tones.
+- The "Install MineMenu" button is gone from the updater screen.
+
+Recipes:
+- Crushed magma no longer exists, magma blocks crush only into sulfur.
