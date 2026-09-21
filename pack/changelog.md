@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.21
+
+Added back:
+- SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
+
+
 # Skybound SMP Season 2, v2.20
 
 Cleanup update: 20 mods removed, 2 added.
