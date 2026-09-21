@@ -1,3 +1,3 @@
-Update 2.20
+Update 2.21
 
-Cleanup update: 20 mods removed, 2 added.
+SimplyTooltips is back.
