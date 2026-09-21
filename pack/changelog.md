@@ -3,7 +3,7 @@
 Cleanup update: 20 mods removed, 2 added.
 
 Added:
-- Skybound Extras 1.0.0. Server utility mod, adds /freebeacon (beacon effects without a pyramid).
+- Skybound Extras 1.0.0. Small server utility mod.
 - World Spawn 0.2.1. World Spawner block that moves the world spawn along with a Sable sublevel.
 
 Removed:
