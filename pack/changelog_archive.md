@@ -1,3 +1,45 @@
+# Skybound SMP Season 2, v2.22
+
+Added:
+- EntityJS 1.5.0 (groundwork for custom bosses).
+
+Removed:
+- Create: Mind the Gap
+- Create Simurail
+- Create Smart Diesel Generator (Create Diesel Generators stays)
+- Simulated Coasters and Coasters Engineered
+- No Elytra Boost
+- Create Assembly Animation
+- Fast IP Ping
+
+Blocks from the removed mods are gone from the world.
+
+
+# Skybound SMP Season 2, v2.21
+
+Added back:
+- SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
+
+
+# Skybound SMP Season 2, v2.20
+
+Cleanup update: 20 mods removed, 2 added.
+
+Added:
+- Skybound Extras 1.0.0. Small server utility mod.
+- World Spawn 0.2.1. World Spawner block that moves the world spawn along with a Sable sublevel.
+
+Removed:
+- Ender Storage. Placed ender chests and their shared inventories are gone.
+- Create: Things and Misc, Create Alerted, Industrial Immersive Blocks, Create Integrated Farming and Create Factory Metrics. Their placed blocks disappear from the world.
+- Sable Pathfinder and World Backup.
+- Client side: SimplyTooltips, Legendary Tooltips (with Iceberg and Prism), MineMenu, Visuality, CreativeCore, Instaload, Easy Mob Spawn Control, FTB Essentials, Aeronautics Wind Sound and Rolling Tones.
+- The "Install MineMenu" button is gone from the updater screen.
+
+Recipes:
+- Crushed magma no longer exists, magma blocks crush only into sulfur.
+
+
 # Skybound SMP Season 2, v2.19
 
 Performance update for Create factories.
@@ -282,27 +324,6 @@ your own mods folder did nothing but cost memory and loading time.
 
 Nothing else changes: same mod list otherwise, same recipes, same configs. If you kept your own
 WorldEdit schematics, they stay where they are, the folder is not touched.
-
-
-# Skybound SMP Season 2, v1.99
-
-ADDED: Create: Cosmonautics
-
-Space addon for Create: Aeronautics. Build rockets, leave the ground and fly to orbit with the
-same Create machinery you already use. It brings its own orbital flight model, so a ship that
-leaves the atmosphere keeps behaving like a real craft instead of teleporting to another world.
-It runs on top of Aeronautics and Sable, both already in the pack, and it is installed on the
-server too, so anything you build there flies for everyone.
-
-FIXED: client crash when opening the pause menu
-
-FTB Chunks saved the minimap on the render thread while its own worker thread was still adding
-map regions, and the two collided. Pressing ESC at the wrong moment closed the game with a
-ConcurrentModificationException, most often right after exploring or flying over new land.
-The pack now ships a patched FTB Chunks jar that takes a snapshot of the regions under the
-mod's own lock before saving them. Same mod, same version, same map data, no crash.
-
-Nothing else changes: same recipes, same configs, no other mod added or removed.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
