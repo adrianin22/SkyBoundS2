@@ -1,0 +1,13 @@
+Added:
+- EntityJS 1.5.0 (groundwork for custom bosses).
+
+Removed:
+- Create: Mind the Gap
+- Create Simurail
+- Create Smart Diesel Generator (Create Diesel Generators stays)
+- Simulated Coasters and Coasters Engineered
+- No Elytra Boost
+- Create Assembly Animation
+- Fast IP Ping
+
+Blocks from the removed mods are gone from the world.
