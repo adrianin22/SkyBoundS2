@@ -475,3 +475,11 @@ mods/.index/creativecore.pw.toml
 kubejs/assets/industrial_immersive_block/models/blocks/industrialconcrete_slab.json
 kubejs/assets/industrial_immersive_block/models/blocks/industrialconcrete_slab_full.json
 kubejs/assets/industrial_immersive_block/models/blocks/industrialconcrete_slab_top.json
+mods/create_mtg-1.2.1-neoforge.jar
+mods/create_smart_diesel_generator-1.21.1.jar
+mods/simurail-1.21.1-0.0.0-a.jar
+mods/no_elytra_boost-1.0.0.jar
+mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar
+mods/coastersengineered-1.21.1-1.1.1.jar
+mods/simulatedcoasters-0.1.5.jar
+mods/create_assembly_animation-1.0.1.jar
