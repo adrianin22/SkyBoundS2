@@ -483,3 +483,4 @@ mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar
 mods/coastersengineered-1.21.1-1.1.1.jar
 mods/simulatedcoasters-0.1.5.jar
 mods/create_assembly_animation-1.0.1.jar
+mods/sablecleanup-0.3.0.jar
