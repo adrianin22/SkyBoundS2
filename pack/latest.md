@@ -1,3 +1,3 @@
-Update 2.22
+Update 2.23
 
-EntityJS added. Mind the Gap, Simurail, Smart Diesel Generator, Simulated Coasters, Coasters Engineered, No Elytra Boost, Assembly Animation and Fast IP Ping removed.
+Sable Cleanup Tools replaced by Sable Watch. Sub-levels no longer stop around y1510, and small tablecloth shop sales now reach the seller in full.
