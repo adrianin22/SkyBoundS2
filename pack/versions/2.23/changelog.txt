@@ -1,0 +1,6 @@
+Changed:
+- Sable Cleanup Tools replaced by Sable Watch, a staff tool for Sable sub-levels that also measures how much server time each one costs. All existing sub-level data is kept.
+
+Fixed:
+- Sub-levels no longer hit an invisible ceiling around y1510.
+- Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
