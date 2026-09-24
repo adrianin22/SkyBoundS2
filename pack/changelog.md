@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.23
+
+Changed:
+- Sable Cleanup Tools replaced by Sable Watch, a staff tool for Sable sub-levels that also measures how much server time each one costs. All existing sub-level data is kept.
+
+Fixed:
+- Sub-levels no longer hit an invisible ceiling around y1510.
+- Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
+
+
 # Skybound SMP Season 2, v2.22
 
 Added:
@@ -299,19 +309,6 @@ yet. Rockets, orbit and the rest of the mod are unchanged.
 
 Recipes for this mod are still disabled on the server for now, so its items cannot be crafted
 yet even though you can see them.
-
-
-# Skybound SMP Season 2, v2.01
-
-FIXED: Create: Cosmonautics crashed the server at startup
-
-The build of Create: Cosmonautics that shipped in v1.99 could not start on a dedicated server.
-One of its classes registers an event handler that only exists on the client, so the server
-aborted while loading mods and never came up. The mod is rebuilt with that handler marked
-client side, and the server boots normally again.
-
-Same mod, same version, same content: only the broken registration is fixed. The jar keeps its
-name, so the updater repairs it in place on your next launch.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
