@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.23
+
+Changed:
+- Sable Cleanup Tools replaced by Sable Watch, a staff tool for Sable sub-levels that also measures how much server time each one costs. All existing sub-level data is kept.
+
+Fixed:
+- Sub-levels no longer hit an invisible ceiling around y1510.
+- Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
+
+
 # Skybound SMP Season 2, v2.22
 
 Added:
@@ -312,18 +322,6 @@ client side, and the server boots normally again.
 
 Same mod, same version, same content: only the broken registration is fixed. The jar keeps its
 name, so the updater repairs it in place on your next launch.
-
-
-# Skybound SMP Season 2, v2.00
-
-REMOVED: WorldEdit (client side only)
-
-WorldEdit is gone from the modpack, but it is still installed and working on the server, so the
-commands you use in game are unchanged. It was only ever used server side, and a copy sitting in
-your own mods folder did nothing but cost memory and loading time.
-
-Nothing else changes: same mod list otherwise, same recipes, same configs. If you kept your own
-WorldEdit schematics, they stay where they are, the folder is not touched.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
