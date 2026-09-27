@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v2.25
+
+Fixed:
+- The game no longer crashes on launch with TFMW. The Factory Must Grow Community Edition blocked TFMW, it now loads with a patched TFMW made compatible with the Community Edition.
+- Surface Scanners use the Community Edition detection again (they no longer show TFMW Oil Rock deposits).
+
+Changed:
+- Create: TFMG Community Edition updated to 1.3.1 (coke ovens work again, light bulb redstone intensity control, cable connector mode on the multimeter).
+- The Update button on the title screen now only appears when a newer version is available, and the latest version is checked live.
+
+
 # Skybound SMP Season 2, v2.24
 
 Added:
@@ -290,26 +301,6 @@ IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and s
 still sitting in a chest or in your inventory. Nothing else is affected.
 
 Nothing was added and no recipe changed, so everything you have built keeps working.
-
-
-# Skybound SMP Season 2, v2.03
-
-FASTER LAUNCH, and three mods that were quietly broken are fixed
-
-Two new mods work on how long the pack takes to open. Lightspeed caches the resource pack
-and loads it in parallel, so the second launch after this update should be noticeably
-quicker than the first. Rhenium caps the memory the game holds for structure templates.
-Neither changes anything you can see or craft.
-
-FIXED: Electro Energetics had no JEI support at all. Its recipe integration was crashing on
-startup against the current version of JEI, so none of its machines or recipes showed up when
-you looked them up. They are back.
-
-FIXED: the Analog Audio radio did nothing when placed on a moving contraption. The mod was
-failing to hand itself to Create and had been failing silently since it was added.
-
-FIXED: Contraption Lights is now on its finished 1.5.0 release instead of a beta. One of its
-features was failing to load every single launch.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
