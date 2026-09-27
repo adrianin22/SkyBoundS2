@@ -1,3 +1,21 @@
+# Skybound SMP Season 2, v2.24
+
+Added:
+- Create: The Factory Must WORK (TFMW) 1.1.0: bug fixes and new content for The Factory Must Grow (Boiler multiblock, Oil Rock, fuel explosions and burning fluids). Oil deposits stay infinite as before.
+- Create: Security Program 2.01: card readers, card inscriber, ticket gates and train tickets.
+- CC-Aeroworks 1.3.3: ComputerCraft peripherals for Aeroworks.
+- Oxide 0.2.0: industrial decay building blocks (corrugated iron, cement, cinder and clinker bricks, rebar, paint).
+- Create: World of Colors 1.3: paint fluids to dye blocks and items with Create filling and mixing.
+- Create: Rolling Tones is back (client side train and vehicle sounds).
+
+Changed:
+- Distant Horizons updated to 3.3.2.
+- SSRD updated to 1.8.7 (beta), fixes sub-level rendering with the new Distant Horizons.
+- Vista updated to 5.5.7.
+
+Credits and thanks to Novi1i for telling me about TFMW, the Create: Security Program mod and Oxide.
+
+
 # Skybound SMP Season 2, v2.23
 
 Changed:
@@ -309,19 +327,6 @@ yet. Rockets, orbit and the rest of the mod are unchanged.
 
 Recipes for this mod are still disabled on the server for now, so its items cannot be crafted
 yet even though you can see them.
-
-
-# Skybound SMP Season 2, v2.01
-
-FIXED: Create: Cosmonautics crashed the server at startup
-
-The build of Create: Cosmonautics that shipped in v1.99 could not start on a dedicated server.
-One of its classes registers an event handler that only exists on the client, so the server
-aborted while loading mods and never came up. The mod is rebuilt with that handler marked
-client side, and the server boots normally again.
-
-Same mod, same version, same content: only the broken registration is fixed. The jar keeps its
-name, so the updater repairs it in place on your next launch.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
