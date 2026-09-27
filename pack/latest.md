@@ -1,3 +1,3 @@
-Update 2.26
+Update 2.27
 
-Claims now protect against other players' Create machines, fixes the Oxide cement error and re-packagers with crafting orders, updates Schematic Checker and FTB Chunks, and removes World of Colors, CC: Aeroworks and Rolling Tones.
+Adds Ship Glue, explosion physics for ships, ships visible out to your view distance, and Blueprinted to render schematics as images.
