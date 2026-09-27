@@ -1,0 +1,14 @@
+Added:
+- Create: The Factory Must WORK (TFMW) 1.1.0: bug fixes and new content for The Factory Must Grow (Boiler multiblock, Oil Rock, fuel explosions and burning fluids). Oil deposits stay infinite as before.
+- Create: Security Program 2.01: card readers, card inscriber, ticket gates and train tickets.
+- CC-Aeroworks 1.3.3: ComputerCraft peripherals for Aeroworks.
+- Oxide 0.2.0: industrial decay building blocks (corrugated iron, cement, cinder and clinker bricks, rebar, paint).
+- Create: World of Colors 1.3: paint fluids to dye blocks and items with Create filling and mixing.
+- Create: Rolling Tones is back (client side train and vehicle sounds).
+
+Changed:
+- Distant Horizons updated to 3.3.2.
+- SSRD updated to 1.8.7 (beta), fixes sub-level rendering with the new Distant Horizons.
+- Vista updated to 5.5.7.
+
+Credits and thanks to Novi1i for telling me about TFMW, the Create: Security Program mod and Oxide.
