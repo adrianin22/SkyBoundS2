@@ -462,7 +462,6 @@ mods/instaload-1.1.1+1.21.jar
 mods/easy_mob_spawn_control-1.5.10.jar
 mods/ftb-essentials-neoforge-2101.1.10.jar
 mods/aeronautics_windsound-1.0.1.jar
-mods/rolling-tones-0.2.2.jar
 mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar
 mods/CreateAlerted-0.2.1.jar
 mods/industrial_immersive_blocks-1.0.2-neoforge-1.21.1.jar
@@ -484,3 +483,6 @@ mods/coastersengineered-1.21.1-1.1.1.jar
 mods/simulatedcoasters-0.1.5.jar
 mods/create_assembly_animation-1.0.1.jar
 mods/sablecleanup-0.3.0.jar
+mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar
+mods/SSRD-1.8.5-1.21.1.jar
+mods/vista-1.21.1-5.4.4-neoforge.jar
