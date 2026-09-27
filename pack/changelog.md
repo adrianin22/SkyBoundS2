@@ -1,3 +1,12 @@
+# Skybound SMP Season 2, v2.27
+
+Added:
+- Create: Ship Glue: crouch and right click with Super Glue or Honey Glue to glue a whole ship at once.
+- Create Aeronautics: Explosion Physics: explosions now push ships instead of only breaking their blocks.
+- Sable View Distance: ships stay visible out to your view distance.
+- Create: Blueprinted: render any schematic to an isometric PNG with one click.
+
+
 # Skybound SMP Season 2, v2.26
 
 Fixed:
