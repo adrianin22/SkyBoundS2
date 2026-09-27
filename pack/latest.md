@@ -1,3 +1,3 @@
-Update 2.25
+Update 2.26
 
-Fixes the launch crash with TFMW, updates TFMG Community Edition to 1.3.1 and the Update button now only shows when there is a new version.
+Claims now protect against other players' Create machines, fixes the Oxide cement error and re-packagers with crafting orders, updates Schematic Checker and FTB Chunks, and removes World of Colors, CC: Aeroworks and Rolling Tones.
