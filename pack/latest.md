@@ -1,3 +1,3 @@
-Update 2.24
+Update 2.25
 
-New: Create: The Factory Must WORK, Create: Security Program, CC-Aeroworks, Oxide and Create: World of Colors. Create: Rolling Tones is back. Distant Horizons, SSRD and Vista updated. Thanks to Novi1i for the recommendations.
+Fixes the launch crash with TFMW, updates TFMG Community Edition to 1.3.1 and the Update button now only shows when there is a new version.
