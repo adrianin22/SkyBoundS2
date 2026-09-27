@@ -1,3 +1,20 @@
+# Skybound SMP Season 2, v2.26
+
+Fixed:
+- Falling Oxide cement no longer throws a ticking entity error on the server.
+- Re-packagers process crafting order packages again.
+
+Changed:
+- Create: Schematic Checker updated to 2.27.47.
+- FTB Chunks updated to 2101.1.22.
+- Added Create: FTB Chunks Compat on the server: drills, saws, Schematicannons, Super Glue, contraptions and machine settings now respect FTB Chunks claims. Item logistics and rotation still cross claim borders as before, and Redstone Links still talk across claims.
+
+Removed:
+- Create: World of Colors.
+- CC: Aeroworks.
+- Create: Rolling Tones.
+
+
 # Skybound SMP Season 2, v2.25
 
 Fixed:
@@ -301,26 +318,6 @@ IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and s
 still sitting in a chest or in your inventory. Nothing else is affected.
 
 Nothing was added and no recipe changed, so everything you have built keeps working.
-
-
-# Skybound SMP Season 2, v2.03
-
-FASTER LAUNCH, and three mods that were quietly broken are fixed
-
-Two new mods work on how long the pack takes to open. Lightspeed caches the resource pack
-and loads it in parallel, so the second launch after this update should be noticeably
-quicker than the first. Rhenium caps the memory the game holds for structure templates.
-Neither changes anything you can see or craft.
-
-FIXED: Electro Energetics had no JEI support at all. Its recipe integration was crashing on
-startup against the current version of JEI, so none of its machines or recipes showed up when
-you looked them up. They are back.
-
-FIXED: the Analog Audio radio did nothing when placed on a moving contraption. The mod was
-failing to hand itself to Create and had been failing silently since it was added.
-
-FIXED: Contraption Lights is now on its finished 1.5.0 release instead of a beta. One of its
-features was failing to load every single launch.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
