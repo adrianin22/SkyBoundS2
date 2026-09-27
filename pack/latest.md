@@ -1,3 +1,3 @@
-Update 2.23
+Update 2.24
 
-Sable Cleanup Tools replaced by Sable Watch. Sub-levels no longer stop around y1510, and small tablecloth shop sales now reach the seller in full.
+New: Create: The Factory Must WORK, Create: Security Program, CC-Aeroworks, Oxide and Create: World of Colors. Create: Rolling Tones is back. Distant Horizons, SSRD and Vista updated. Thanks to Novi1i for the recommendations.
