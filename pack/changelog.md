@@ -1,3 +1,20 @@
+# Skybound SMP Season 2, v2.26
+
+Fixed:
+- Falling Oxide cement no longer throws a ticking entity error on the server.
+- Re-packagers process crafting order packages again.
+
+Changed:
+- Create: Schematic Checker updated to 2.27.47.
+- FTB Chunks updated to 2101.1.22.
+- Added Create: FTB Chunks Compat on the server: drills, saws, Schematicannons, Super Glue, contraptions and machine settings now respect FTB Chunks claims. Item logistics and rotation still cross claim borders as before, and Redstone Links still talk across claims.
+
+Removed:
+- Create: World of Colors.
+- CC: Aeroworks.
+- Create: Rolling Tones.
+
+
 # Skybound SMP Season 2, v2.25
 
 Fixed:
@@ -282,25 +299,6 @@ not, crafting the key inside does nothing, the build dimension hands out no prog
 Claiming chunks still works normally inside your plot.
 
 Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
-
-
-# Skybound SMP Season 2, v2.04
-
-FOUR MODS REMOVED FOR FRAME RATE
-
-This update only takes things out. Several of you reported lower frame rates after the recent
-updates, so four mods that cost every player performance whether they used them or not are gone.
-
-REMOVED: SearchLights. Its lights were drawn every frame by everyone who had one in view.
-
-REMOVED: Sable Ragdolls, Sable Ragdolls Patch and Ragdoll Reactions. The three go together, the
-other two do not run without the base mod. Players and mobs now die the normal way instead of
-flopping around.
-
-IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and so is anything
-still sitting in a chest or in your inventory. Nothing else is affected.
-
-Nothing was added and no recipe changed, so everything you have built keeps working.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
