@@ -1,0 +1,9 @@
+Added:
+- CBC Modern Warfare is now craftable: medium cannons, rotary cannons, gun launchers, rockets, torpedoes, ERA and composite armor. Infrared seekers, APDS and HE autocannon rounds stay uncraftable.
+
+Removed:
+- Sauce Delight.
+
+Fixed:
+- Menus now follow your GUI scale instead of forcing their own, and the title screen cloud frame no longer repeats on large or ultrawide screens.
+- An interrupted update could leave the game marked as up to date with no Update button, so you could not join the server. The updater now only marks the version once the update finishes cleanly, and repairs installs that got stuck.
