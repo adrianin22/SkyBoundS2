@@ -1,3 +1,25 @@
+# Skybound SMP Season 2, v2.28
+
+Removed:
+- Create: Cosmonautics, and its Deep Seas bridge (Cosmonautics Deep Air). The Moon and Deep Space dimensions are gone with it.
+- Aeronautics: Interstellar Expansion (AeroIE).
+- Creatures and Beasts.
+- Let's Do Furniture. Create Furniture Seats stays.
+
+Fixed:
+- Main menu and updater screens now scale to any resolution, aspect ratio and GUI scale.
+- Updating through the .mrpack (Modrinth App, Prism, CurseForge import) no longer resets your keybinds and video settings.
+
+
+# Skybound SMP Season 2, v2.27
+
+Added:
+- Create: Ship Glue: crouch and right click with Super Glue or Honey Glue to glue a whole ship at once.
+- Create Aeronautics: Explosion Physics: explosions now push ships instead of only breaking their blocks.
+- Sable View Distance: ships stay visible out to your view distance.
+- Create: Blueprinted: render any schematic to an isometric PNG with one click.
+
+
 # Skybound SMP Season 2, v2.26
 
 Fixed:
@@ -299,25 +321,6 @@ not, crafting the key inside does nothing, the build dimension hands out no prog
 Claiming chunks still works normally inside your plot.
 
 Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
-
-
-# Skybound SMP Season 2, v2.04
-
-FOUR MODS REMOVED FOR FRAME RATE
-
-This update only takes things out. Several of you reported lower frame rates after the recent
-updates, so four mods that cost every player performance whether they used them or not are gone.
-
-REMOVED: SearchLights. Its lights were drawn every frame by everyone who had one in view.
-
-REMOVED: Sable Ragdolls, Sable Ragdolls Patch and Ragdoll Reactions. The three go together, the
-other two do not run without the base mod. Players and mobs now die the normal way instead of
-flopping around.
-
-IF YOU HAD SEARCHLIGHTS PLACED: they are gone from the world with the mod, and so is anything
-still sitting in a chest or in your inventory. Nothing else is affected.
-
-Nothing was added and no recipe changed, so everything you have built keeps working.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
