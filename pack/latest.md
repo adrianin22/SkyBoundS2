@@ -1,3 +1,3 @@
-Update 2.27
+Update 2.28
 
-Adds Ship Glue, explosion physics for ships, ships visible out to your view distance, and Blueprinted to render schematics as images.
+Removes Cosmonautics, AeroIE, Creatures and Beasts and Let's Do Furniture. The main menu now fits any screen and GUI scale.
