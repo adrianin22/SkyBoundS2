@@ -1,0 +1,9 @@
+Removed:
+- Create: Cosmonautics, and its Deep Seas bridge (Cosmonautics Deep Air). The Moon and Deep Space dimensions are gone with it.
+- Aeronautics: Interstellar Expansion (AeroIE).
+- Creatures and Beasts.
+- Let's Do Furniture. Create Furniture Seats stays.
+
+Fixed:
+- Main menu and updater screens now scale to any resolution, aspect ratio and GUI scale.
+- Updating through the .mrpack (Modrinth App, Prism, CurseForge import) no longer resets your keybinds and video settings.
