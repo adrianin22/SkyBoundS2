@@ -493,3 +493,8 @@ mods/world_of_color-1.3.jar
 mods/cc-aeroworks-1.3.3.jar
 mods/createschematicchecker-2.27.45-6.0-neoforge-1.21.1.jar
 mods/ftb-chunks-neoforge-2101.1.20-skyboundpatch.jar
+mods/CNB-1.21.1-neoforge-1.7.17.jar
+mods/letsdo-furniture-neoforge-1.1.4.jar
+mods/cosmonautics-26.09.349-skyboundpatch2.jar
+mods/cosmonauticsdeepair-1.0.2.jar
+mods/AeroIE-1.0.1.jar
