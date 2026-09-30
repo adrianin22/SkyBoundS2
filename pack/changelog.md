@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.28
+
+Removed:
+- Create: Cosmonautics, and its Deep Seas bridge (Cosmonautics Deep Air). The Moon and Deep Space dimensions are gone with it.
+- Aeronautics: Interstellar Expansion (AeroIE).
+- Creatures and Beasts.
+- Let's Do Furniture. Create Furniture Seats stays.
+
+Fixed:
+- Main menu and updater screens now scale to any resolution, aspect ratio and GUI scale.
+- Updating through the .mrpack (Modrinth App, Prism, CurseForge import) no longer resets your keybinds and video settings.
+
+
 # Skybound SMP Season 2, v2.27
 
 Added:
@@ -279,35 +292,6 @@ A big maintenance pass. 66 mods moved to their latest build, three were dropped 
 **Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
 
 **Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
-
-
-# Skybound SMP Season 2, v2.05
-
-A CREATIVE BUILD DIMENSION IS BACK
-
-Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
-it. You get your own plot, 15 by 15 chunks, and you build there in creative without touching
-survival.
-
-YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
-armour, Curios, cosmetic slots and your XP. You arrive empty. When you come back out, all of it
-returns exactly as it was. Nothing you make in the build dimension can follow you home.
-
-WHAT DOES NOT WORK IN THERE, and why:
-
-Ender chests, ender tanks, ender pouches, backpacks, shulker boxes and the portable Mekanism
-dashboard. All of them read the same storage back in survival, so any one of them would be a
-way to walk creative items into the server economy. Bring one in and it is destroyed.
-
-Leaving to anywhere except the overworld. Space, the Nether, the End and sublevels all send you
-back to spawn instead. Use the normal way out.
-
-Mekanism does not unlock in there. If you have already earned it, it works as usual. If you have
-not, crafting the key inside does nothing, the build dimension hands out no progression.
-
-Claiming chunks still works normally inside your plot.
-
-Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
