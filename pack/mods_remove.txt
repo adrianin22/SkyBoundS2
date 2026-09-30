@@ -498,3 +498,4 @@ mods/letsdo-furniture-neoforge-1.1.4.jar
 mods/cosmonautics-26.09.349-skyboundpatch2.jar
 mods/cosmonauticsdeepair-1.0.2.jar
 mods/AeroIE-1.0.1.jar
+mods/sauce_delight-2.0.2-SNAPSHOT.jar
