@@ -1,3 +1,3 @@
-Update 2.28
+Update 2.29
 
-Removes Cosmonautics, AeroIE, Creatures and Beasts and Let's Do Furniture. The main menu now fits any screen and GUI scale.
+CBC Modern Warfare is now craftable, Sauce Delight is removed, menus follow your GUI scale and interrupted updates no longer lock you out.
