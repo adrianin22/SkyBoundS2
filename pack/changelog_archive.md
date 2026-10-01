@@ -1,3 +1,26 @@
+# Skybound SMP Season 2, v2.30
+
+Added:
+- Skybound Client Patches, client side FPS fixes: Protection Pixel armor stands no longer scan every block entity each frame, boiler hiss sounds are limited to nearby boilers, Veil GPU debug labels are off, Create: Tracks wheels stop rendering past 128 blocks, Sound Physics uses lighter settings once per install (you can change them back in its menu) and Cable Facades skips its lookup when there are no facades nearby.
+
+Removed:
+- Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
+- FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
+
+
+# Skybound SMP Season 2, v2.29
+
+Added:
+- CBC Modern Warfare is now craftable: medium cannons, rotary cannons, gun launchers, rockets, torpedoes, ERA and composite armor. Infrared seekers, APDS and HE autocannon rounds stay uncraftable.
+
+Removed:
+- Sauce Delight.
+
+Fixed:
+- Menus now follow your GUI scale instead of forcing their own, and the title screen cloud frame no longer repeats on large or ultrawide screens.
+- An interrupted update could leave the game marked as up to date with no Update button, so you could not join the server. The updater now only marks the version once the update finishes cleanly, and repairs installs that got stuck.
+
+
 # Skybound SMP Season 2, v2.28
 
 Removed:
@@ -292,35 +315,6 @@ A big maintenance pass. 66 mods moved to their latest build, three were dropped 
 **Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
 
 **Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
-
-
-# Skybound SMP Season 2, v2.05
-
-A CREATIVE BUILD DIMENSION IS BACK
-
-Season 2 has a separate creative world again, replacing the old Stasis one. Type /plot to open
-it. You get your own plot, 15 by 15 chunks, and you build there in creative without touching
-survival.
-
-YOUR SURVIVAL INVENTORY IS SAFE. The moment you go in, everything you carry is put away: items,
-armour, Curios, cosmetic slots and your XP. You arrive empty. When you come back out, all of it
-returns exactly as it was. Nothing you make in the build dimension can follow you home.
-
-WHAT DOES NOT WORK IN THERE, and why:
-
-Ender chests, ender tanks, ender pouches, backpacks, shulker boxes and the portable Mekanism
-dashboard. All of them read the same storage back in survival, so any one of them would be a
-way to walk creative items into the server economy. Bring one in and it is destroyed.
-
-Leaving to anywhere except the overworld. Space, the Nether, the End and sublevels all send you
-back to spawn instead. Use the normal way out.
-
-Mekanism does not unlock in there. If you have already earned it, it works as usual. If you have
-not, crafting the key inside does nothing, the build dimension hands out no progression.
-
-Claiming chunks still works normally inside your plot.
-
-Everything else is unchanged, no recipes were touched and nothing was removed from the pack.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
