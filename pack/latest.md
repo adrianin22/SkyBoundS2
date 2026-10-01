@@ -1,3 +1,3 @@
-Update 2.30
+Update 2.31
 
-Client FPS fixes: new Skybound Client Patches, Async Particles, FastBoot and GPUTape removed.
+Performance: ScalableLux light engine (game and server) and Catalyst client optimizations for Create.
