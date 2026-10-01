@@ -1,0 +1,6 @@
+Added:
+- Skybound Client Patches, client side FPS fixes: Protection Pixel armor stands no longer scan every block entity each frame, boiler hiss sounds are limited to nearby boilers, Veil GPU debug labels are off, Create: Tracks wheels stop rendering past 128 blocks, Sound Physics uses lighter settings once per install (you can change them back in its menu) and Cable Facades skips its lookup when there are no facades nearby.
+
+Removed:
+- Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
+- FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
