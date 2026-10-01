@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.30
+
+Added:
+- Skybound Client Patches, client side FPS fixes: Protection Pixel armor stands no longer scan every block entity each frame, boiler hiss sounds are limited to nearby boilers, Veil GPU debug labels are off, Create: Tracks wheels stop rendering past 128 blocks, Sound Physics uses lighter settings once per install (you can change them back in its menu) and Cable Facades skips its lookup when there are no facades nearby.
+
+Removed:
+- Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
+- FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
+
+
 # Skybound SMP Season 2, v2.29
 
 Added:
@@ -292,19 +302,6 @@ Hotfix on top of 2.06.
 Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
 
 Nothing else changes.
-
-
-# Skybound SMP Season 2, v2.06
-
-A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
-
-**Updated, the headline ones:** TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries 3.9.9, Sophisticated Backpacks 3.26.3 (with Core and the Create integration), Quark 485, Create Integrated Farming, Copycats+ 3.0.9, Fluid Logistics 1.2.9, KubeJS, FTB Library and Quests, Xaero's Minimap and World Map, Voice Chat 2.6.23, Veil 4.5.0, Blueprint, Moonlight, Puzzles Lib, and a long tail of libraries and performance mods.
-
-**Added:** Lodestone.
-
-**Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
-
-**Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
