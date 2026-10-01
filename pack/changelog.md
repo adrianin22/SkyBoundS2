@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v2.31
+
+Added:
+- ScalableLux, a faster multithreaded light engine based on Starlight, on both your game and the server. Sable sub level lighting keeps working thanks to a compatibility fix, and config/fml.toml now tells Sable to accept it.
+- Catalyst, client side Create optimizations: belt items, fluids, machine items and block entities render with less detail or stop rendering at a distance, Blaze Burner smoke is lighter and repeated machine sounds are limited.
+
+
 # Skybound SMP Season 2, v2.30
 
 Added:
