@@ -499,3 +499,6 @@ mods/cosmonautics-26.09.349-skyboundpatch2.jar
 mods/cosmonauticsdeepair-1.0.2.jar
 mods/AeroIE-1.0.1.jar
 mods/sauce_delight-2.0.2-SNAPSHOT.jar
+mods/fastboot-1.21.x-v1.3neo.jar
+mods/GPUTape-1.20.6-1.21x-1.0.3.jar
+mods/AsyncParticles-21.1.4.3+1.21.1.jar
