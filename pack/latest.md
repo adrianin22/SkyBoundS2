@@ -1,3 +1,3 @@
-Update 2.29
+Update 2.30
 
-CBC Modern Warfare is now craftable, Sauce Delight is removed, menus follow your GUI scale and interrupted updates no longer lock you out.
+Client FPS fixes: new Skybound Client Patches, Async Particles, FastBoot and GPUTape removed.
