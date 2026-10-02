@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.33
+
+Removed:
+- ScalableLux, the light engine added in 2.31. It could crash the game near moving ships (Sable sub levels). Lighting goes back to the vanilla engine.
+
+
 # Skybound SMP Season 2, v2.32
 
 Updated:
