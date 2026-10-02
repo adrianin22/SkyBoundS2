@@ -1,3 +1,3 @@
-Update 2.33
+Update 2.34
 
-ScalableLux removed, it could crash the game near ships.
+Cleanup: ScalableLux removed from config/fml.toml.
