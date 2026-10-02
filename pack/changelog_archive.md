@@ -1,3 +1,26 @@
+# Skybound SMP Season 2, v2.32
+
+Updated:
+- Create: Deep Seas 3.0.0, the biggest update of the mod. It now includes Create: High Seas (living wind, sails, boat engine, helm and rudder, anchor, oars, buoys, Seaglide, wind vane), real flooding and sinking, hull pressure and implosions, and a computer, sonar and autopilot for submarines.
+- Mechanical Chicken now also produces raw chicken.
+- Video Settings now opens the Sodium settings screen directly.
+
+Removed:
+- Create High Skies, it does not work with Deep Seas 3.0.0 yet. Its blocks disappear from the world.
+
+Heads-up:
+- The old Weather Vane and Submarine Rudder from Deep Seas are gone. Use the new High Seas Wind Vane and Rudder.
+- Symmetric Sails no longer push ships, replace them with the new Sail.
+- Hull strength values were rebalanced per material. Glass holds about 20 to 30 blocks of depth, iron about 100.
+
+
+# Skybound SMP Season 2, v2.31
+
+Added:
+- ScalableLux, a faster multithreaded light engine based on Starlight, on both your game and the server. Sable sub level lighting keeps working thanks to a compatibility fix, and config/fml.toml now tells Sable to accept it.
+- Catalyst, client side Create optimizations: belt items, fluids, machine items and block entities render with less detail or stop rendering at a distance, Blaze Burner smoke is lighter and repeated machine sounds are limited.
+
+
 # Skybound SMP Season 2, v2.30
 
 Added:
@@ -302,19 +325,6 @@ Hotfix on top of 2.06.
 Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
 
 Nothing else changes.
-
-
-# Skybound SMP Season 2, v2.06
-
-A big maintenance pass. 66 mods moved to their latest build, three were dropped and one was added.
-
-**Updated, the headline ones:** TFMG 1.3.0, JEI 19.56, Sable 2.0.5, Supplementaries 3.9.9, Sophisticated Backpacks 3.26.3 (with Core and the Create integration), Quark 485, Create Integrated Farming, Copycats+ 3.0.9, Fluid Logistics 1.2.9, KubeJS, FTB Library and Quests, Xaero's Minimap and World Map, Voice Chat 2.6.23, Veil 4.5.0, Blueprint, Moonlight, Puzzles Lib, and a long tail of libraries and performance mods.
-
-**Added:** Lodestone.
-
-**Removed:** Zero Point Systems, Aerocopycats and plastic_fix. Any blocks those mods placed in your world will disappear, Aerocopycats copycat blocks included.
-
-**Notes:** PowerGrid is back on its stock build, the compatibility patch we shipped for it is no longer needed now that TFMG 1.3.0 restores the API it expected. A handful of mods were deliberately left on their older version because their newest build crashes or breaks another mod: GPU Tape, Easy Stock Ticker, Vista, Photon, Bits 'n' Bobs and Create More Girders.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
