@@ -1,0 +1,2 @@
+Changed:
+- config/fml.toml no longer lists ScalableLux in its dependency overrides (ScalableLux was removed in 2.33).
