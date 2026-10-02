@@ -1,0 +1,12 @@
+Updated:
+- Create: Deep Seas 3.0.0, the biggest update of the mod. It now includes Create: High Seas (living wind, sails, boat engine, helm and rudder, anchor, oars, buoys, Seaglide, wind vane), real flooding and sinking, hull pressure and implosions, and a computer, sonar and autopilot for submarines.
+- Mechanical Chicken now also produces raw chicken.
+- Video Settings now opens the Sodium settings screen directly.
+
+Removed:
+- Create High Skies, it does not work with Deep Seas 3.0.0 yet. Its blocks disappear from the world.
+
+Heads-up:
+- The old Weather Vane and Submarine Rudder from Deep Seas are gone. Use the new High Seas Wind Vane and Rudder.
+- Symmetric Sails no longer push ships, replace them with the new Sail.
+- Hull strength values were rebalanced per material. Glass holds about 20 to 30 blocks of depth, iron about 100.
