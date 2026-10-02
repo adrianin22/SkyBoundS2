@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v2.32
+
+Updated:
+- Create: Deep Seas 3.0.0, the biggest update of the mod. It now includes Create: High Seas (living wind, sails, boat engine, helm and rudder, anchor, oars, buoys, Seaglide, wind vane), real flooding and sinking, hull pressure and implosions, and a computer, sonar and autopilot for submarines.
+- Mechanical Chicken now also produces raw chicken.
+- Video Settings now opens the Sodium settings screen directly.
+
+Removed:
+- Create High Skies, it does not work with Deep Seas 3.0.0 yet. Its blocks disappear from the world.
+
+Heads-up:
+- The old Weather Vane and Submarine Rudder from Deep Seas are gone. Use the new High Seas Wind Vane and Rudder.
+- Symmetric Sails no longer push ships, replace them with the new Sail.
+- Hull strength values were rebalanced per material. Glass holds about 20 to 30 blocks of depth, iron about 100.
+
+
 # Skybound SMP Season 2, v2.31
 
 Added:
@@ -291,24 +307,6 @@ Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when
 FluidLogistics 1.2.5 renamed an internal class that Create Mobile Packages 0.7.7 still calls when it draws the package toast, so the game died with a NoClassDefFoundError every time anyone ordered or received a package. 1.2.0 is the last version that still has that class, and Mobile Packages has no fix upstream yet.
 
 The cost is the FluidLogistics features added since 1.2.0, among them the fluid factory gauges, fluid schematics and the copper frogport. They come back as soon as Mobile Packages is updated.
-
-
-# Skybound SMP Season 2, v2.08
-
-Sable Cat is out of the pack, and with it gone Sable moves up to 2.0.5.
-
-Sable Cat patched the same sub-level storage code that Sable 2.0.5 rewrote, which is what crashed the server on autosave in 2.06. Removing it also removes the rest of its fixes, so if something that used to be quietly patched starts misbehaving, that is where to look.
-
-Sable Scale ships with the mixin fix for 2.0.5.
-
-
-# Skybound SMP Season 2, v2.07
-
-Hotfix on top of 2.06.
-
-Sable is back on 2.0.3. The 2.0.5 build we shipped in 2.06 crashes the dedicated server during autosave, inside its sub-level region file cache, and Sable Cat patches that same code but is built against 2.0.3. Sable Scale goes back to its stock jar for the same reason.
-
-Nothing else changes.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
