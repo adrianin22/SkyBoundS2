@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.34
+
+Changed:
+- config/fml.toml no longer lists ScalableLux in its dependency overrides (ScalableLux was removed in 2.33).
+
+
 # Skybound SMP Season 2, v2.33
 
 Removed:
@@ -304,15 +310,6 @@ Added:
 
 Removed:
 - Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
-
-
-# Skybound SMP Season 2, v2.09
-
-Create FluidLogistics goes back down to 1.2.0, which fixes the client crash when a package arrives.
-
-FluidLogistics 1.2.5 renamed an internal class that Create Mobile Packages 0.7.7 still calls when it draws the package toast, so the game died with a NoClassDefFoundError every time anyone ordered or received a package. 1.2.0 is the last version that still has that class, and Mobile Packages has no fix upstream yet.
-
-The cost is the FluidLogistics features added since 1.2.0, among them the fluid factory gauges, fluid schematics and the copper frogport. They come back as soon as Mobile Packages is updated.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
