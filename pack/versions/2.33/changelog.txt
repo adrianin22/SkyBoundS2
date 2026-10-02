@@ -1,0 +1,2 @@
+Removed:
+- ScalableLux, the light engine added in 2.31. It could crash the game near moving ships (Sable sub levels). Lighting goes back to the vanilla engine.
