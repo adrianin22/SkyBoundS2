@@ -1,0 +1,19 @@
+Added:
+- Create: High Skies (back in the pack)
+- Kaleidoscope Cookery, Kaleidoscope Tavern and Kaleidoscope Contraption
+- CEE: Voltworks
+- CBC Military Supplement
+- MALAHIT Monitors
+- Create Shining Stage
+
+Balance:
+- Kaleidoscope Cookery food buffs nerfed: shorter durations, level I only. Satiated Shield reduction lowered.
+- Kaleidoscope Tavern drink buffs nerfed the same way. Harmful effects are unchanged.
+- Create Food effects rebalanced for its 3.0 update.
+
+Updated:
+- About 90 mods updated to their latest versions, including Create Deep Seas 3.3.0, Sable 2.0.6, TFMG Community Edition 1.3.2a and The Factory Must Work CE 2.1.1.
+- Skybound Client Patches 1.6.1 and Skybound Extras 1.1.0.
+
+Removed:
+- Xaero's Regions.
