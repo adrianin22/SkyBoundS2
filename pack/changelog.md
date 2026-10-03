@@ -1,3 +1,26 @@
+# Skybound SMP Season 2, v2.35
+
+Added:
+- Create: High Skies (back in the pack)
+- Kaleidoscope Cookery, Kaleidoscope Tavern and Kaleidoscope Contraption
+- CEE: Voltworks
+- CBC Military Supplement
+- MALAHIT Monitors
+- Create Shining Stage
+
+Balance:
+- Kaleidoscope Cookery food buffs nerfed: shorter durations, level I only. Satiated Shield reduction lowered.
+- Kaleidoscope Tavern drink buffs nerfed the same way. Harmful effects are unchanged.
+- Create Food effects rebalanced for its 3.0 update.
+
+Updated:
+- About 90 mods updated to their latest versions, including Create Deep Seas 3.3.0, Sable 2.0.6, TFMG Community Edition 1.3.2a and The Factory Must Work CE 2.1.1.
+- Skybound Client Patches 1.6.1 and Skybound Extras 1.1.0.
+
+Removed:
+- Xaero's Regions.
+
+
 # Skybound SMP Season 2, v2.34
 
 Changed:
@@ -291,25 +314,6 @@ Fixed:
 
 Removed:
 - Create: Sulfuric Resonance. Blocks and items from this mod are lost.
-
-
-# Skybound SMP Season 2, v2.10
-
-New content batch.
-
-Added:
-- Drive By Sable, replaces Drive By Wire and its Typewriter addon (it covers everything they did, now built for Sable sub-levels).
-- Create Coasters Simulated and Coasters Engineered are back. Rivets have new limits: one rivet per sub-level, and a rivet cannot be placed on another rivet or on anything built onto one, so rivet chains are no longer possible.
-- Skyport (Create Aeronautics).
-- Aeronautics Player Tilt.
-- Create: Who Touched My Train.
-- Estrogen. The dash ability it grants is disabled.
-- Diversity Delight. Its food effects are disabled, the food itself works normally.
-- Sauce Delight.
-- Hearth and Harvest.
-
-Removed:
-- Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
