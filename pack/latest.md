@@ -1,3 +1,3 @@
-Update 2.34
+Update 2.35
 
-Cleanup: ScalableLux removed from config/fml.toml.
+New mods: Create High Skies, Kaleidoscope Cookery, Tavern and Contraption, Voltworks, CBC Military Supplement, MALAHIT Monitors, Shining Stage. About 90 mods updated.
