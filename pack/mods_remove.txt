@@ -598,3 +598,4 @@ mods/tt20-0.8.4+mc1.21.1-neoforge.jar
 mods/veil-neoforge-1.21.1-4.5.0.jar
 mods/voicechat-neoforge-1.21.1-2.6.23.jar
 mods/xaeroregions-neoforge-1.21.1-1.0.8.jar
+mods/photon-neoforge-1.21.1-2.1.5.jar
