@@ -1,3 +1,3 @@
-Update 2.35
+Update 2.36
 
-New mods: Create High Skies, Kaleidoscope Cookery, Tavern and Contraption, Voltworks, CBC Military Supplement, MALAHIT Monitors, Shining Stage. About 90 mods updated.
+Mechanical Livestock, banned items hidden in JEI and server performance fixes.
