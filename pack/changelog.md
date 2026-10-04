@@ -1,3 +1,15 @@
+# Skybound SMP Season 2, v2.36
+
+Changed:
+- The Mechanical Chicken is now the Mechanical Livestock, and can also produce raw beef, raw porkchop and raw rabbit.
+- Banned items are now hidden in JEI.
+
+Fixes:
+- Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
+- The Changelog button now shows the notes of the version you have installed.
+- Missing kerosene and naphtha fluid textures.
+
+
 # Skybound SMP Season 2, v2.35
 
 Added:
