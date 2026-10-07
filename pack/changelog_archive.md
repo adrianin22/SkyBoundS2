@@ -1,3 +1,32 @@
+# Skybound SMP Season 2, v2.37
+
+Added:
+- Ships no longer unload while you are near them or right after you die on board.
+
+Changed:
+- Updated 28 mods (Xaero maps, Sophisticated Backpacks, Contraption Lights, AdvancedPeripherals, Create: High Skies and others).
+- Create: High Skies: reversing the pump on a gas port now pulls hydrogen back out so you can reuse it.
+
+Fixes:
+- CBC Neo Warfare: rotary cannon moulds now cast the right parts, rotary and medium cannons can be cast and bored, and its blocks drop items again.
+- Fixed recipe and loot errors in CBC Military Supplement.
+- Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
+- Removed the dependency override warning screen on game launch.
+- Fixed a Better Lib error on game start.
+
+
+# Skybound SMP Season 2, v2.36
+
+Changed:
+- The Mechanical Chicken is now the Mechanical Livestock, and can also produce raw beef, raw porkchop and raw rabbit.
+- Banned items are now hidden in JEI.
+
+Fixes:
+- Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
+- The Changelog button now shows the notes of the version you have installed.
+- Missing kerosene and naphtha fluid textures.
+
+
 # Skybound SMP Season 2, v2.35
 
 Added:
@@ -314,25 +343,6 @@ Fixed:
 
 Removed:
 - Create: Sulfuric Resonance. Blocks and items from this mod are lost.
-
-
-# Skybound SMP Season 2, v2.10
-
-New content batch.
-
-Added:
-- Drive By Sable, replaces Drive By Wire and its Typewriter addon (it covers everything they did, now built for Sable sub-levels).
-- Create Coasters Simulated and Coasters Engineered are back. Rivets have new limits: one rivet per sub-level, and a rivet cannot be placed on another rivet or on anything built onto one, so rivet chains are no longer possible.
-- Skyport (Create Aeronautics).
-- Aeronautics Player Tilt.
-- Create: Who Touched My Train.
-- Estrogen. The dash ability it grants is disabled.
-- Diversity Delight. Its food effects are disabled, the food itself works normally.
-- Sauce Delight.
-- Hearth and Harvest.
-
-Removed:
-- Drive By Wire and Drive By Wire Typewriter. Blocks placed from those mods are lost.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
