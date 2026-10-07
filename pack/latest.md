@@ -1,3 +1,3 @@
-Update 2.36
+Update 2.37
 
-Mechanical Livestock, banned items hidden in JEI and server performance fixes.
+Ships stay loaded while you are near them, 28 mod updates and CBC Neo Warfare cannon fixes.
