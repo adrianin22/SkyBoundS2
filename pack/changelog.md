@@ -1,3 +1,20 @@
+# Skybound SMP Season 2, v2.37
+
+Added:
+- Ships no longer unload while you are near them or right after you die on board.
+
+Changed:
+- Updated 28 mods (Xaero maps, Sophisticated Backpacks, Contraption Lights, AdvancedPeripherals, Create: High Skies and others).
+- Create: High Skies: reversing the pump on a gas port now pulls hydrogen back out so you can reuse it.
+
+Fixes:
+- CBC Neo Warfare: rotary cannon moulds now cast the right parts, rotary and medium cannons can be cast and bored, and its blocks drop items again.
+- Fixed recipe and loot errors in CBC Military Supplement.
+- Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
+- Removed the dependency override warning screen on game launch.
+- Fixed a Better Lib error on game start.
+
+
 # Skybound SMP Season 2, v2.36
 
 Changed:
@@ -307,25 +324,6 @@ Fixed:
 - Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
 - Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
 - The Mekanism key item texture.
-
-
-# Skybound SMP Season 2, v2.12
-
-New mod.
-
-Added:
-- Cosmonautics: Deep Air. Sealed, unbreached ships and stations built with Create Deep Seas now keep breathable air and gravity in space. Fill a sealed room with oxygen from a Deep Seas oxygen diffuser and you can breathe inside without a helmet. Gravity needs at least one room with air on the ship.
-
-
-# Skybound SMP Season 2, v2.11
-
-Fixes and removals.
-
-Fixed:
-- Extruding recipes from the Mechanical Extruder now show up in JEI. The extruder pole model was never loaded, which broke every extruding recipe page and caused lag near extruders.
-
-Removed:
-- Create: Sulfuric Resonance. Blocks and items from this mod are lost.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
