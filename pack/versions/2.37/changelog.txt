@@ -1,0 +1,13 @@
+Added:
+- Ships no longer unload while you are near them or right after you die on board.
+
+Changed:
+- Updated 28 mods (Xaero maps, Sophisticated Backpacks, Contraption Lights, AdvancedPeripherals, Create: High Skies and others).
+- Create: High Skies: reversing the pump on a gas port now pulls hydrogen back out so you can reuse it.
+
+Fixes:
+- CBC Neo Warfare: rotary cannon moulds now cast the right parts, rotary and medium cannons can be cast and bored, and its blocks drop items again.
+- Fixed recipe and loot errors in CBC Military Supplement.
+- Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
+- Removed the dependency override warning screen on game launch.
+- Fixed a Better Lib error on game start.
