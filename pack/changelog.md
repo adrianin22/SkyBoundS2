@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.39
+
+Fixes:
+- Fixed the game crashing on startup after updating to 2.38.
+- Removed a wall of info text some players got in chat when joining.
+
+Changed:
+- Camera screen shake effects are turned off for now, they caused the startup crash.
+
+
 # Skybound SMP Season 2, v2.38
 
 Added:
@@ -310,25 +320,6 @@ Distant Horizons updated so it works with Vista again.
 
 Changed:
 - Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
-
-
-# Skybound SMP Season 2, v2.14
-
-Server patches now shipped to everyone, plus new building and TV content.
-
-Added:
-- Yuushya Townscape: 2600+ building and decoration blocks.
-- Glaiden's Vista improvements: URL Cassette Maker, paste a link and pick a colour to make your own cassette.
-
-Fixed:
-- Create seats on moving ships: the camera no longer looks one way while your body faces another (Cosmonautics free look only kicks in with 6DOF on).
-
-Changed:
-- Vista updated to 5.5.6.
-- Create: CC Better Recipes, Create: Things and Misc and Protection Pixel: rewritten scheduled task queue (no longer scans the whole queue every tick).
-- Farmer's Delight: same patched build the server runs.
-- Sable Quota: swivel bearings no longer count as physics structures (splits still do).
-- KubeJS server scripts synced with the server, and the JEI hide list updated (fireworks, Legendary Monsters eyes, Ender Pouch and Ender Tank hidden).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
