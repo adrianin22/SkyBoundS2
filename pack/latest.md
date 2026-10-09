@@ -1,3 +1,3 @@
-Update 2.37
+Update 2.38
 
-Ships stay loaded while you are near them, 28 mod updates and CBC Neo Warfare cannon fixes.
+New Nether with Incendium, Biomes O' Plenty removed, Simply Light, Decorative Levitite and Gadgets & Gizmos 1.2.7.
