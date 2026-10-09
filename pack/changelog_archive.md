@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.39
+
+Fixes:
+- Fixed the game crashing on startup after updating to 2.38.
+- Removed a wall of info text some players got in chat when joining.
+
+Changed:
+- Camera screen shake effects are turned off for now, they caused the startup crash.
+
+
 # Skybound SMP Season 2, v2.38
 
 Added:
@@ -329,19 +339,6 @@ Changed:
 - Farmer's Delight: same patched build the server runs.
 - Sable Quota: swivel bearings no longer count as physics structures (splits still do).
 - KubeJS server scripts synced with the server, and the JEI hide list updated (fireworks, Legendary Monsters eyes, Ender Pouch and Ender Tank hidden).
-
-
-# Skybound SMP Season 2, v2.13
-
-Cosmonautics update.
-
-Changed:
-- Create: Cosmonautics updated from the 26.08.307 release to a newer 26.09.349 development build (patched by us so it runs on the server). Brings the upstream work since August, including the MFD screens and 6DOF free movement in space.
-
-Fixed:
-- Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
-- Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
-- The Mekanism key item texture.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
