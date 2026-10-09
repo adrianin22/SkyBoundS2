@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.40
+
+Fixes:
+- Fixed ships and other physics structures not showing up until a block was placed next to them, and their blocks not breaking or vanishing when right clicked.
+
+
 # Skybound SMP Season 2, v2.39
 
 Fixes:
