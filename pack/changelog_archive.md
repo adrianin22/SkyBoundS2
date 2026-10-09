@@ -1,3 +1,21 @@
+# Skybound SMP Season 2, v2.38
+
+Added:
+- Incendium: the Nether has new biomes and structures.
+- Simply Light: simple decorative lamps.
+- Decorative Levitite: crafted from levitite, same look, no lift.
+
+Changed:
+- Removed Biomes O' Plenty. The Nether has been regenerated, anything left there is gone.
+- Updated Create Aeronautics: Gadgets & Gizmos to 1.2.7: Creative RCS Thruster, belt wheel and zipline fixes, thruster light.
+- Lighter Flywheel lighting and Sound Physics settings for everyone.
+- Train Steps from Create Train Parts can no longer be crafted or placed.
+- Ender Linker from Sophisticated Core is disabled, it could lock players out of the server.
+
+Fixes:
+- CBC Neo Warfare: unbored rotary and medium cannon parts can be cast again.
+
+
 # Skybound SMP Season 2, v2.37
 
 Added:
@@ -324,25 +342,6 @@ Fixed:
 - Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
 - Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
 - The Mekanism key item texture.
-
-
-# Skybound SMP Season 2, v2.12
-
-New mod.
-
-Added:
-- Cosmonautics: Deep Air. Sealed, unbreached ships and stations built with Create Deep Seas now keep breathable air and gravity in space. Fill a sealed room with oxygen from a Deep Seas oxygen diffuser and you can breathe inside without a helmet. Gravity needs at least one room with air on the ship.
-
-
-# Skybound SMP Season 2, v2.11
-
-Fixes and removals.
-
-Fixed:
-- Extruding recipes from the Mechanical Extruder now show up in JEI. The extruder pole model was never loaded, which broke every extruding recipe page and caused lag near extruders.
-
-Removed:
-- Create: Sulfuric Resonance. Blocks and items from this mod are lost.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
