@@ -632,3 +632,8 @@ mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar
 kubejs/server_scripts/skybound_52_aeroie_recipes.js
 kubejs/server_scripts/skybound_54_dimensional_drive.js
 kubejs/server_scripts/skybound_80_replacekeep.js
+mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar
+mods/SkyboundNether-1.0.0.jar
+mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar
+mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar
+mods/gadgets-and-gizmos-bundled-V1.2.5.jar
