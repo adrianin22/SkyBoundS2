@@ -1,3 +1,21 @@
+# Skybound SMP Season 2, v2.38
+
+Added:
+- Incendium: the Nether has new biomes and structures.
+- Simply Light: simple decorative lamps.
+- Decorative Levitite: crafted from levitite, same look, no lift.
+
+Changed:
+- Removed Biomes O' Plenty. The Nether has been regenerated, anything left there is gone.
+- Updated Create Aeronautics: Gadgets & Gizmos to 1.2.7: Creative RCS Thruster, belt wheel and zipline fixes, thruster light.
+- Lighter Flywheel lighting and Sound Physics settings for everyone.
+- Train Steps from Create Train Parts can no longer be crafted or placed.
+- Ender Linker from Sophisticated Core is disabled, it could lock players out of the server.
+
+Fixes:
+- CBC Neo Warfare: unbored rotary and medium cannon parts can be cast again.
+
+
 # Skybound SMP Season 2, v2.37
 
 Added:
@@ -311,19 +329,6 @@ Changed:
 - Farmer's Delight: same patched build the server runs.
 - Sable Quota: swivel bearings no longer count as physics structures (splits still do).
 - KubeJS server scripts synced with the server, and the JEI hide list updated (fireworks, Legendary Monsters eyes, Ender Pouch and Ender Tank hidden).
-
-
-# Skybound SMP Season 2, v2.13
-
-Cosmonautics update.
-
-Changed:
-- Create: Cosmonautics updated from the 26.08.307 release to a newer 26.09.349 development build (patched by us so it runs on the server). Brings the upstream work since August, including the MFD screens and 6DOF free movement in space.
-
-Fixed:
-- Cleaned up the client startup log: missing block models, blockstates and textures from several mods now resolve (Tiny Gates, Cluttered signs, More Traffic lights, Create Propulsion, Simulated Coasters, Create Wings Plus, Pandas Decor lanterns, Diversity Delight pies, TFMG fuses, Hot Stuff link relay and others).
-- Broken or missing sounds from Design n Decor chains, Create Gunsmithing, NTGL, Create Aviation mail, Electro Energetics and Legendary Monsters.
-- The Mekanism key item texture.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
