@@ -1,0 +1,6 @@
+Fixes:
+- Fixed the game crashing on startup after updating to 2.38.
+- Removed a wall of info text some players got in chat when joining.
+
+Changed:
+- Camera screen shake effects are turned off for now, they caused the startup crash.
