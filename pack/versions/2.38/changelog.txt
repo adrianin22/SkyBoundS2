@@ -1,0 +1,14 @@
+Added:
+- Incendium: the Nether has new biomes and structures.
+- Simply Light: simple decorative lamps.
+- Decorative Levitite: crafted from levitite, same look, no lift.
+
+Changed:
+- Removed Biomes O' Plenty. The Nether has been regenerated, anything left there is gone.
+- Updated Create Aeronautics: Gadgets & Gizmos to 1.2.7: Creative RCS Thruster, belt wheel and zipline fixes, thruster light.
+- Lighter Flywheel lighting and Sound Physics settings for everyone.
+- Train Steps from Create Train Parts can no longer be crafted or placed.
+- Ender Linker from Sophisticated Core is disabled, it could lock players out of the server.
+
+Fixes:
+- CBC Neo Warfare: unbored rotary and medium cannon parts can be cast again.
