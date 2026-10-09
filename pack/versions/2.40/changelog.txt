@@ -1,0 +1,2 @@
+Fixes:
+- Fixed ships and other physics structures not showing up until a block was placed next to them, and their blocks not breaking or vanishing when right clicked.
