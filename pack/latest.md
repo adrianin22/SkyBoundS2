@@ -1,3 +1,3 @@
-Update 2.39
+Update 2.40
 
-Hotfix for the 2.38 startup crash.
+Fix for invisible and glitchy ships.
