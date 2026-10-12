@@ -1,3 +1,3 @@
-Update 2.41
+Update 2.42
 
-Freeze Staff, Immersive Portals removed, screen shake back and mod updates.
+Fix for the crash when joining the server, dyed decorative levitite.
