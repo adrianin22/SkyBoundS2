@@ -1,3 +1,28 @@
+# Skybound SMP Season 2, v2.41
+
+Added:
+- Create Aeronautics: Freeze Staff: right click a ship or contraption to freeze it in place, together with everything resting on it or roped to it, so it stops costing server performance while parked. Right click again to unfreeze. Crafted from blue ice, a precision mechanism and 3 gold ingots.
+- Create: Tilting Controls: tilting propeller and swivel bearings, gimbal propeller bearing, linked joystick, bidirectional throttle lever and more compact controls for Aeronautics builds.
+- Create: Autonavigation: the Navigation Workbench lets ships steer themselves without being tied to magnetite, works with Create Radar.
+- Create: Atomic: nuclear reactors and steam turbines for rotational power, uranium, plutonium and hazmat gear. Uranium ore only shows up in newly generated chunks.
+- Create: Teleporters, reserved for the server owner for now.
+
+Removed:
+- Immersive Portals.
+
+Changed:
+- Camera screen shake effects are back.
+- RCS Thrusters from Gadgets & Gizmos are back to their reduced power (140 per nozzle) and twice the backtank air use, this was lost in 2.38.
+- Hearth & Harvest 1.4.0: new crops and food (hops, keg, pizzas, pies and more). Cheddar cheese is now regular cheese, elote is now street corn and the grape trellis is now the crop trellis, existing items convert on their own.
+- Supplementaries 4.0.1: adds the Pinata.
+
+Fixes:
+- CBC Neo Warfare: rotary cannon bearings can be finished again by right clicking them with a shaft, and the nethersteel bearing now gives a nethersteel bearing instead of a steel one.
+
+Mod updates:
+- Aero Player Tilt 0.2.3, Aeroportals 1.3.4, AzureLib 3.1.19, Chunk Sending 4.1, Collective 8.47, Contraption Lights 1.5.4, Corpse Curios Compat 4.2.0, Create Central Kitchen 2.6.2b, Create Enchantment Industry 2.5.4b, DragonLib 3.0.29, Drive By Sable 2.0.2, Entity Culling 1.11.3, Framed Blocks 10.6.3, Gadgets & Gizmos 1.2.10, JEI 19.64.0, Kilagraph 21.1.0.16, Mekanism Ponders 1.0.4, ModernFix 5.27.26, Moonlight 3.7.2, Photon 2.2.8, Puzzles Lib 21.1.64, Server Warashi 2.1.1.4, Skyport 1.1.0, Starcatcher 3.3.8, Stellar Create Optimization 1.1.1fix, Streams Reflowing 2.15.0, TFMW CE 2.1.2, Veil 4.5.2, Sable Hose Connectors 0.2.2, XaeroPlus 2.36.6.
+
+
 # Skybound SMP Season 2, v2.40
 
 Fixes:
@@ -260,72 +285,6 @@ Removed:
 
 Recipes:
 - Crushed magma no longer exists, magma blocks crush only into sulfur.
-
-
-# Skybound SMP Season 2, v2.19
-
-Performance update for Create factories.
-
-Added:
-- StellarCreateOptimization 1.0.6. Cuts CPU and rendering cost in large Create builds: belts, chutes, encased fans, pumps, crushing wheels, steam engines, fluid tanks, factory panels and chain conveyors. Most of the gain is client side FPS around big factories, and the server also ticks those machines cheaper.
-
-Server side only, nothing to install:
-- Sterilization Fixer was removed from the server. It rewrote unknown blocks to air with no way to preview the change, and some of those blocks belong to mods that are only temporarily downgraded.
-
-
-# Skybound SMP Season 2, v2.18
-
-Create Train Utilities is back in the pack.
-
-Added:
-- Create Train Utilities 3.1.0, removed in 2.17, back by request. Train doors and the rest of its train blocks work again.
-
-
-# Skybound SMP Season 2, v2.17
-
-Biomancy and its Create add-on Bio-Factory join the pack, along with Assembly Animations, High Skies and CreateFix. Seven mods are gone.
-
-Added:
-- Biomancy 2.9.8.5.
-- Create: Bio-Factory 0.6.1.
-- CreateFix 1.8.1.
-- Create: Assembly Animations 1.0.1 (client side).
-- Create: High Skies 0.1.0.
-
-Changed:
-- Create: Power Chip updated to 2.1.1.
-- The Primordial Cradle can no longer be crafted.
-
-Removed:
-- Immersive Armors.
-- Fancy Entity Renderer.
-- Create Train Utilities.
-- Create More: Parallel Pipes.
-- ChoiceTheorem's Overhauled Village. Villages already generated will lose their modded blocks.
-- Saro's Road Blocks. Saro's Road Signs stays in the pack.
-- Computationally Expensive.
-
-
-# Skybound SMP Season 2, v2.16
-
-Vista and Distant Horizons back to their previous versions, Create: Estrogen added, and bee-free honey now comes out of a mixer as fluid.
-
-Added:
-- Create: Estrogen 2.0.0.
-
-Changed:
-- Vista reverted to 5.4.4.
-- Distant Horizons reverted to 3.2.0-b.
-- Sugar (x3) + slime ball in a Create mixer now gives 250 mB of honey fluid instead of a honey bottle. Fill bottles with a spout.
-- Honeycomb is now made in a Create mixer from paper + 250 mB of honey.
-
-
-# Skybound SMP Season 2, v2.15
-
-Distant Horizons updated so it works with Vista again.
-
-Changed:
-- Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
