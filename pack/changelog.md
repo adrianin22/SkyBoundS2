@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.42
+
+Added:
+- 16 dyed Decorative Levitite: decorative levitite + any dye, no lift.
+
+Fixes:
+- Fixed a crash when joining the server caused by JEI 19.64 and JEIOptimizer. JEI is back to 19.57.
+- Dyed levitite from Aeronautics Dyeable Components lifts ships again.
+
+
 # Skybound SMP Season 2, v2.41
 
 Added:
