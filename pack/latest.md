@@ -1,3 +1,3 @@
-Update 2.40
+Update 2.41
 
-Fix for invisible and glitchy ships.
+Freeze Staff, Immersive Portals removed, screen shake back and mod updates.
