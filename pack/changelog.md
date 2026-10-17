@@ -1,3 +1,17 @@
+# Skybound SMP Season 2, v2.43
+
+Added:
+- Psi: spell programming with CADs and Psimetal gear.
+- MmmMmmMmmMmm: target dummy that shows the damage of every hit.
+
+Removed:
+- Critters and Companions. Its animals, blocks and items are gone from the world.
+
+Fixes:
+- Create elevators and contraptions should no longer turn invisible.
+- Build dimension: the swivel joint part of your ship now counts as yours, you and your plot friends can use it off your plot.
+
+
 # Skybound SMP Season 2, v2.42
 
 Added:
@@ -276,25 +290,6 @@ Blocks from the removed mods are gone from the world.
 
 Added back:
 - SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
-
-
-# Skybound SMP Season 2, v2.20
-
-Cleanup update: 20 mods removed, 2 added.
-
-Added:
-- Skybound Extras 1.0.0. Small server utility mod.
-- World Spawn 0.2.1. World Spawner block that moves the world spawn along with a Sable sublevel.
-
-Removed:
-- Ender Storage. Placed ender chests and their shared inventories are gone.
-- Create: Things and Misc, Create Alerted, Industrial Immersive Blocks, Create Integrated Farming and Create Factory Metrics. Their placed blocks disappear from the world.
-- Sable Pathfinder and World Backup.
-- Client side: SimplyTooltips, Legendary Tooltips (with Iceberg and Prism), MineMenu, Visuality, CreativeCore, Instaload, Easy Mob Spawn Control, FTB Essentials, Aeronautics Wind Sound and Rolling Tones.
-- The "Install MineMenu" button is gone from the updater screen.
-
-Recipes:
-- Crushed magma no longer exists, magma blocks crush only into sulfur.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
