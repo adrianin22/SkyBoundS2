@@ -1,3 +1,3 @@
-Update 2.42
+Update 2.43
 
-Fix for the crash when joining the server, dyed decorative levitite.
+Psi and a target dummy added, Critters and Companions removed, fix for invisible elevators.
