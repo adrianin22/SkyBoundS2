@@ -1,3 +1,27 @@
+# Skybound SMP Season 2, v2.43
+
+Added:
+- Psi: spell programming with CADs and Psimetal gear.
+- MmmMmmMmmMmm: target dummy that shows the damage of every hit.
+
+Removed:
+- Critters and Companions. Its animals, blocks and items are gone from the world.
+
+Fixes:
+- Create elevators and contraptions should no longer turn invisible.
+- Build dimension: the swivel joint part of your ship now counts as yours, you and your plot friends can use it off your plot.
+
+
+# Skybound SMP Season 2, v2.42
+
+Added:
+- 16 dyed Decorative Levitite: decorative levitite + any dye, no lift.
+
+Fixes:
+- Fixed a crash when joining the server caused by JEI 19.64 and JEIOptimizer. JEI is back to 19.57.
+- Dyed levitite from Aeronautics Dyeable Components lifts ships again.
+
+
 # Skybound SMP Season 2, v2.41
 
 Added:
@@ -285,72 +309,6 @@ Removed:
 
 Recipes:
 - Crushed magma no longer exists, magma blocks crush only into sulfur.
-
-
-# Skybound SMP Season 2, v2.19
-
-Performance update for Create factories.
-
-Added:
-- StellarCreateOptimization 1.0.6. Cuts CPU and rendering cost in large Create builds: belts, chutes, encased fans, pumps, crushing wheels, steam engines, fluid tanks, factory panels and chain conveyors. Most of the gain is client side FPS around big factories, and the server also ticks those machines cheaper.
-
-Server side only, nothing to install:
-- Sterilization Fixer was removed from the server. It rewrote unknown blocks to air with no way to preview the change, and some of those blocks belong to mods that are only temporarily downgraded.
-
-
-# Skybound SMP Season 2, v2.18
-
-Create Train Utilities is back in the pack.
-
-Added:
-- Create Train Utilities 3.1.0, removed in 2.17, back by request. Train doors and the rest of its train blocks work again.
-
-
-# Skybound SMP Season 2, v2.17
-
-Biomancy and its Create add-on Bio-Factory join the pack, along with Assembly Animations, High Skies and CreateFix. Seven mods are gone.
-
-Added:
-- Biomancy 2.9.8.5.
-- Create: Bio-Factory 0.6.1.
-- CreateFix 1.8.1.
-- Create: Assembly Animations 1.0.1 (client side).
-- Create: High Skies 0.1.0.
-
-Changed:
-- Create: Power Chip updated to 2.1.1.
-- The Primordial Cradle can no longer be crafted.
-
-Removed:
-- Immersive Armors.
-- Fancy Entity Renderer.
-- Create Train Utilities.
-- Create More: Parallel Pipes.
-- ChoiceTheorem's Overhauled Village. Villages already generated will lose their modded blocks.
-- Saro's Road Blocks. Saro's Road Signs stays in the pack.
-- Computationally Expensive.
-
-
-# Skybound SMP Season 2, v2.16
-
-Vista and Distant Horizons back to their previous versions, Create: Estrogen added, and bee-free honey now comes out of a mixer as fluid.
-
-Added:
-- Create: Estrogen 2.0.0.
-
-Changed:
-- Vista reverted to 5.4.4.
-- Distant Horizons reverted to 3.2.0-b.
-- Sugar (x3) + slime ball in a Create mixer now gives 250 mB of honey fluid instead of a honey bottle. Fill bottles with a spout.
-- Honeycomb is now made in a Create mixer from paper + 250 mB of honey.
-
-
-# Skybound SMP Season 2, v2.15
-
-Distant Horizons updated so it works with Vista again.
-
-Changed:
-- Distant Horizons updated to 3.3.1 (Vista 5.5.6 requires 3.3.1 or newer).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
