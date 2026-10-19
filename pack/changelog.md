@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.44
+
+Changes:
+- RCS thrusters: max thrust lowered a lot, and shaft driven thrusters now draw stress from the network (16 SU per RPM).
+- Psi: max Psi and regeneration lowered, spells cost twice as much.
+- Decorative Levitite blocks now connect their textures.
+- Mirrors render at a shorter distance and lower resolution, for better FPS near them.
+
+Removed:
+- Create: Flight Control.
+- Aeronautics roller fix. Rollers in Tunnel Pave no longer replace the slabs on track slopes with full blocks.
+
+Fixes:
+- The Xaero minimap no longer hides while you type on a Tom's Peripherals keyboard.
+- Better FPS with girder struts on Fast graphics and while the world map updates.
+- The Psi guide book should show its entries again.
+- Watcher bat morph is animated now.
+- Psimetal Exosuit hidden from JEI (it cannot be crafted).
+
+
 # Skybound SMP Season 2, v2.43
 
 Added:
@@ -267,29 +287,6 @@ Changed:
 Fixed:
 - Sub-levels no longer hit an invisible ceiling around y1510.
 - Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
-
-
-# Skybound SMP Season 2, v2.22
-
-Added:
-- EntityJS 1.5.0 (groundwork for custom bosses).
-
-Removed:
-- Create: Mind the Gap
-- Create Simurail
-- Create Smart Diesel Generator (Create Diesel Generators stays)
-- Simulated Coasters and Coasters Engineered
-- No Elytra Boost
-- Create Assembly Animation
-- Fast IP Ping
-
-Blocks from the removed mods are gone from the world.
-
-
-# Skybound SMP Season 2, v2.21
-
-Added back:
-- SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
