@@ -1016,3 +1016,10 @@ kubejs/server_scripts/pets_gui.js
 kubejs/server_scripts/pets_recipes.js
 kubejs/server_scripts/pets_tracking.js
 kubejs/startup_scripts/pets_registry.js
+mods/create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar
+mods/gadgets-and-gizmos-bundled-V1.2.10.jar
+mods/skyboundclientpatches-1.8.1.jar
+mods/skyboundpets-0.1.0.jar
+kubejs/server_scripts/skybound_50_flightcontrol.js
+config/create_flight_control-server.toml
+mods/skyboundclientpatches-1.8.2.jar
