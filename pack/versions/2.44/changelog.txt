@@ -1,0 +1,16 @@
+Changes:
+- RCS thrusters: max thrust lowered a lot, and shaft driven thrusters now draw stress from the network (16 SU per RPM).
+- Psi: max Psi and regeneration lowered, spells cost twice as much.
+- Decorative Levitite blocks now connect their textures.
+- Mirrors render at a shorter distance and lower resolution, for better FPS near them.
+
+Removed:
+- Create: Flight Control.
+- Aeronautics roller fix. Rollers in Tunnel Pave no longer replace the slabs on track slopes with full blocks.
+
+Fixes:
+- The Xaero minimap no longer hides while you type on a Tom's Peripherals keyboard.
+- Better FPS with girder struts on Fast graphics and while the world map updates.
+- The Psi guide book should show its entries again.
+- Watcher bat morph is animated now.
+- Psimetal Exosuit hidden from JEI (it cannot be crafted).
