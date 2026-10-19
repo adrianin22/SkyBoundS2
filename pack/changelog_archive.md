@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.44
+
+Changes:
+- RCS thrusters: max thrust lowered a lot, and shaft driven thrusters now draw stress from the network (16 SU per RPM).
+- Psi: max Psi and regeneration lowered, spells cost twice as much.
+- Decorative Levitite blocks now connect their textures.
+- Mirrors render at a shorter distance and lower resolution, for better FPS near them.
+
+Removed:
+- Create: Flight Control.
+- Aeronautics roller fix. Rollers in Tunnel Pave no longer replace the slabs on track slopes with full blocks.
+
+Fixes:
+- The Xaero minimap no longer hides while you type on a Tom's Peripherals keyboard.
+- Better FPS with girder struts on Fast graphics and while the world map updates.
+- The Psi guide book should show its entries again.
+- Watcher bat morph is animated now.
+- Psimetal Exosuit hidden from JEI (it cannot be crafted).
+
+
 # Skybound SMP Season 2, v2.43
 
 Added:
@@ -290,25 +310,6 @@ Blocks from the removed mods are gone from the world.
 
 Added back:
 - SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
-
-
-# Skybound SMP Season 2, v2.20
-
-Cleanup update: 20 mods removed, 2 added.
-
-Added:
-- Skybound Extras 1.0.0. Small server utility mod.
-- World Spawn 0.2.1. World Spawner block that moves the world spawn along with a Sable sublevel.
-
-Removed:
-- Ender Storage. Placed ender chests and their shared inventories are gone.
-- Create: Things and Misc, Create Alerted, Industrial Immersive Blocks, Create Integrated Farming and Create Factory Metrics. Their placed blocks disappear from the world.
-- Sable Pathfinder and World Backup.
-- Client side: SimplyTooltips, Legendary Tooltips (with Iceberg and Prism), MineMenu, Visuality, CreativeCore, Instaload, Easy Mob Spawn Control, FTB Essentials, Aeronautics Wind Sound and Rolling Tones.
-- The "Install MineMenu" button is gone from the updater screen.
-
-Recipes:
-- Crushed magma no longer exists, magma blocks crush only into sulfur.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
