@@ -1,3 +1,3 @@
-Update 2.43
+Update 2.44
 
-Psi and a target dummy added, Critters and Companions removed, fix for invisible elevators.
+RCS thrusters and Psi rebalanced, Flight Control removed, minimap and FPS fixes.
