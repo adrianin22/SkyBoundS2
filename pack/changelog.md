@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.48
+
+Removed:
+- NextSpace. Its items and blocks are gone.
+
+
 # Skybound SMP Season 2, v2.47
 
 Fixed:
