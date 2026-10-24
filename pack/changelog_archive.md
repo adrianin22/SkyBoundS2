@@ -1,3 +1,31 @@
+# Skybound SMP Season 2, v2.45
+
+Added:
+- Create: Tramways.
+- Gravity Control.
+- Aero Dual Mount.
+- Create: Trackwright.
+- Create Aeronautics: Automated Logistics.
+- DashPanels: Extra.
+- Creative Tab Organizer.
+- Decorative Redstone Link: a block with the redstone link look, made from andesite casing and a redstone torch. It does not carry a signal.
+
+Removed:
+- Starcatcher and Starcatcher's Delight.
+- Skyport, replaced by Create Aeronautics: Automated Logistics.
+
+Changes:
+- 54 mods updated to their latest compatible versions (bug fixes and performance).
+- Mechanical Livestock: sheep machines can now drop raw mutton.
+- Freeze Staff: range raised to 128 blocks and a new recipe (packed ice and two sticks).
+- Drive by Sable: more sources allowed per ship.
+- Lodestone compasses work on ships again. Compasses no longer work in the Nether and the End, like vanilla.
+- RCS thrusters now show the same stress draw as the server (4 SU per RPM).
+
+Fixes:
+- Pilot seats can be used on trains and contraptions.
+
+
 # Skybound SMP Season 2, v2.44
 
 Changes:
@@ -287,29 +315,6 @@ Changed:
 Fixed:
 - Sub-levels no longer hit an invisible ceiling around y1510.
 - Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
-
-
-# Skybound SMP Season 2, v2.22
-
-Added:
-- EntityJS 1.5.0 (groundwork for custom bosses).
-
-Removed:
-- Create: Mind the Gap
-- Create Simurail
-- Create Smart Diesel Generator (Create Diesel Generators stays)
-- Simulated Coasters and Coasters Engineered
-- No Elytra Boost
-- Create Assembly Animation
-- Fast IP Ping
-
-Blocks from the removed mods are gone from the world.
-
-
-# Skybound SMP Season 2, v2.21
-
-Added back:
-- SimplyTooltips 0.1.5 (client side). Legendary Tooltips stays out.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
