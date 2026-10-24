@@ -1,3 +1,3 @@
-Update 2.46
+Update 2.47
 
-Hotfix: the game loads again after the 2.45 update (Forgified Fabric API and Gravity Control fixes).
+Hotfix: no more crash when joining the server (Creative Tab Organizer removed).
