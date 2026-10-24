@@ -1,3 +1,3 @@
-Update 2.44
+Update 2.45
 
-RCS thrusters and Psi rebalanced, Flight Control removed, minimap and FPS fixes.
+New mods (Tramways, Trackwright, Gravity Control, Automated Logistics), 54 mod updates, ship compass fix.
