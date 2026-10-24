@@ -1,0 +1,24 @@
+Added:
+- Create: Tramways.
+- Gravity Control.
+- Aero Dual Mount.
+- Create: Trackwright.
+- Create Aeronautics: Automated Logistics.
+- DashPanels: Extra.
+- Creative Tab Organizer.
+- Decorative Redstone Link: a block with the redstone link look, made from andesite casing and a redstone torch. It does not carry a signal.
+
+Removed:
+- Starcatcher and Starcatcher's Delight.
+- Skyport, replaced by Create Aeronautics: Automated Logistics.
+
+Changes:
+- 54 mods updated to their latest compatible versions (bug fixes and performance).
+- Mechanical Livestock: sheep machines can now drop raw mutton.
+- Freeze Staff: range raised to 128 blocks and a new recipe (packed ice and two sticks).
+- Drive by Sable: more sources allowed per ship.
+- Lodestone compasses work on ships again. Compasses no longer work in the Nether and the End, like vanilla.
+- RCS thrusters now show the same stress draw as the server (4 SU per RPM).
+
+Fixes:
+- Pilot seats can be used on trains and contraptions.
