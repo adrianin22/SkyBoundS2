@@ -1,0 +1,2 @@
+Removed:
+- NextSpace. Its items and blocks are gone.
