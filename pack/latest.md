@@ -1,3 +1,3 @@
-Update 2.45
+Update 2.46
 
-New mods (Tramways, Trackwright, Gravity Control, Automated Logistics), 54 mod updates, ship compass fix.
+Hotfix: the game loads again after the 2.45 update (Forgified Fabric API and Gravity Control fixes).
