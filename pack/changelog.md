@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.47
+
+Fixed:
+- The game crashed when joining the server after 2.45. Creative Tab Organizer is removed, it is not compatible with our JEI version.
+
+
 # Skybound SMP Season 2, v2.46
 
 Fixed:
