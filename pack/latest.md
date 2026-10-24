@@ -1,3 +1,3 @@
-Update 2.47
+Update 2.48
 
-Hotfix: no more crash when joining the server (Creative Tab Organizer removed).
+NextSpace removed.
