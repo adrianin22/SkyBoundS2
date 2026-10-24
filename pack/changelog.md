@@ -1,3 +1,31 @@
+# Skybound SMP Season 2, v2.45
+
+Added:
+- Create: Tramways.
+- Gravity Control.
+- Aero Dual Mount.
+- Create: Trackwright.
+- Create Aeronautics: Automated Logistics.
+- DashPanels: Extra.
+- Creative Tab Organizer.
+- Decorative Redstone Link: a block with the redstone link look, made from andesite casing and a redstone torch. It does not carry a signal.
+
+Removed:
+- Starcatcher and Starcatcher's Delight.
+- Skyport, replaced by Create Aeronautics: Automated Logistics.
+
+Changes:
+- 54 mods updated to their latest compatible versions (bug fixes and performance).
+- Mechanical Livestock: sheep machines can now drop raw mutton.
+- Freeze Staff: range raised to 128 blocks and a new recipe (packed ice and two sticks).
+- Drive by Sable: more sources allowed per ship.
+- Lodestone compasses work on ships again. Compasses no longer work in the Nether and the End, like vanilla.
+- RCS thrusters now show the same stress draw as the server (4 SU per RPM).
+
+Fixes:
+- Pilot seats can be used on trains and contraptions.
+
+
 # Skybound SMP Season 2, v2.44
 
 Changes:
@@ -259,34 +287,6 @@ Fixed:
 Changed:
 - Create: TFMG Community Edition updated to 1.3.1 (coke ovens work again, light bulb redstone intensity control, cable connector mode on the multimeter).
 - The Update button on the title screen now only appears when a newer version is available, and the latest version is checked live.
-
-
-# Skybound SMP Season 2, v2.24
-
-Added:
-- Create: The Factory Must WORK (TFMW) 1.1.0: bug fixes and new content for The Factory Must Grow (Boiler multiblock, Oil Rock, fuel explosions and burning fluids). Oil deposits stay infinite as before.
-- Create: Security Program 2.01: card readers, card inscriber, ticket gates and train tickets.
-- CC-Aeroworks 1.3.3: ComputerCraft peripherals for Aeroworks.
-- Oxide 0.2.0: industrial decay building blocks (corrugated iron, cement, cinder and clinker bricks, rebar, paint).
-- Create: World of Colors 1.3: paint fluids to dye blocks and items with Create filling and mixing.
-- Create: Rolling Tones is back (client side train and vehicle sounds).
-
-Changed:
-- Distant Horizons updated to 3.3.2.
-- SSRD updated to 1.8.7 (beta), fixes sub-level rendering with the new Distant Horizons.
-- Vista updated to 5.5.7.
-
-Credits and thanks to Novi1i for telling me about TFMW, the Create: Security Program mod and Oxide.
-
-
-# Skybound SMP Season 2, v2.23
-
-Changed:
-- Sable Cleanup Tools replaced by Sable Watch, a staff tool for Sable sub-levels that also measures how much server time each one costs. All existing sub-level data is kept.
-
-Fixed:
-- Sub-levels no longer hit an invisible ceiling around y1510.
-- Tablecloth shops: small sales (1 and 2 euro) now reach the seller in full, VAT is rounded down.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
