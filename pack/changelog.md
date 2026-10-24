@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v2.46
+
+Fixed:
+- The game failed to load after updating to 2.45. Forgified Fabric API is back to 0.116.15+2.3.5 (the 2.3.6 build needs a newer NeoForge).
+- Gravity Control no longer stops the game from loading (Lithium entity collision optimization turned off for it).
+
+
 # Skybound SMP Season 2, v2.45
 
 Added:
