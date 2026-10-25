@@ -1,0 +1,13 @@
+Added:
+- Visual Creative Tab Editor.
+
+Removed:
+- Vanilla Backport spears. They can no longer be crafted or used.
+- More Wheels tractor tires. They can no longer be crafted, placed or used.
+
+Changes:
+- Create: Lanterns updated to Alpha 20.7.
+- The Vanilla Backport locator bar is turned off.
+
+Fixed:
+- Modules on DashPanels: Extra panels can be removed with the wrench again.
