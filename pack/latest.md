@@ -1,3 +1,3 @@
-Update 2.48
+Update 2.49
 
-NextSpace removed.
+Visual Creative Tab Editor added, Create: Lanterns updated, DashPanels: Extra wrench fix.
