@@ -1084,3 +1084,5 @@ mods/fancytabsections-6.2.1-NEOFORGE-1.21.1.jar
 mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar
 mods/tab_organizer-2.4.1-neoforge.jar
 mods/nextspace-0.1.1-alpha.jar
+mods/createlanterns-alpha-17.6.jar
+mods/dashpanelsextra-1.4.1.jar
