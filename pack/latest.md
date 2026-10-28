@@ -1,3 +1,3 @@
-Update 2.52
+Update 2.53
 
-Fixes the startup crash from 2.51.
+Removes KeybindsGalore and Oxide.
