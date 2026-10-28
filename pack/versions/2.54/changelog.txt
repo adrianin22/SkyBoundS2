@@ -1,0 +1,11 @@
+Better FPS:
+- Better FPS near large Create builds: Create block entities far away are no longer rendered in full (Create FPS Optimizer).
+- Better FPS near vehicles with wheels.
+- Block models load on demand, lower memory use.
+- Enchanted Create machines no longer shimmer.
+
+Removed:
+- Optimized Block Entities.
+- Sable Xaero Maps, ships are no longer drawn on the Xaero map.
+- Functional Sculptures (golem statues). Its blocks and items are gone from the world.
+- Memory cleanup after joining turned off.
