@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v2.55
+
+Fixes:
+- Fixed a crash on startup when your network blocks Microsoft's text to speech service (Create: Tramways). The game now starts normally; train announcements only speak when that service is reachable.
+- Fixed a client freeze near large Create builds (Create FPS Optimizer).
+- The updater no longer downloads the same config files again on every launch.
+
+
 # Skybound SMP Season 2, v2.54
 
 Better FPS:
@@ -324,19 +332,6 @@ Added:
 Removed:
 - Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
 - FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
-
-
-# Skybound SMP Season 2, v2.29
-
-Added:
-- CBC Modern Warfare is now craftable: medium cannons, rotary cannons, gun launchers, rockets, torpedoes, ERA and composite armor. Infrared seekers, APDS and HE autocannon rounds stay uncraftable.
-
-Removed:
-- Sauce Delight.
-
-Fixed:
-- Menus now follow your GUI scale instead of forcing their own, and the title screen cloud frame no longer repeats on large or ultrawide screens.
-- An interrupted update could leave the game marked as up to date with no Update button, so you could not join the server. The updater now only marks the version once the update finishes cleanly, and repairs installs that got stuck.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
