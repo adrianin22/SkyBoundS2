@@ -1095,3 +1095,7 @@ mods/skyboundpets-0.1.2.jar
 mods/skyboundextras-1.5.0.jar
 mods/KeybindsGalore-1.7.2-neoforge.jar
 mods/oxide-1.21.1-0.2.0-neoforge.jar
+mods/functional-sculptures-neoforge-1.21.1-1.0.2.jar
+mods/obe+1.21.1-neoforge-1.1.52.jar
+mods/sablexaeromaps-1.21.1-1.4.1.jar
+mods/skyboundclientpatches-1.10.0.jar
