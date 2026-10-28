@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.52
+
+Fixed:
+- The game crashed on startup after the 2.51 update.
+
+
 # Skybound SMP Season 2, v2.51
 
 Added:
