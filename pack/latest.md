@@ -1,3 +1,3 @@
-Update 2.54
+Update 2.55
 
-Better FPS near Create builds and vehicles, removes Optimized Block Entities, Sable Xaero Maps and Functional Sculptures.
+Fixes a startup crash caused by Create: Tramways, a freeze near large Create builds, and config files downloading again on every launch.
