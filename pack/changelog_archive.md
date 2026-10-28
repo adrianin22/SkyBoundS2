@@ -1,3 +1,31 @@
+# Skybound SMP Season 2, v2.54
+
+Better FPS:
+- Better FPS near large Create builds: Create block entities far away are no longer rendered in full (Create FPS Optimizer).
+- Better FPS near vehicles with wheels.
+- Block models load on demand, lower memory use.
+- Enchanted Create machines no longer shimmer.
+
+Removed:
+- Optimized Block Entities.
+- Sable Xaero Maps, ships are no longer drawn on the Xaero map.
+- Functional Sculptures (golem statues). Its blocks and items are gone from the world.
+- Memory cleanup after joining turned off.
+
+
+# Skybound SMP Season 2, v2.53
+
+Removed:
+- KeybindsGalore (radial keybind menu).
+- Oxide (cement and rusting blocks). Its blocks and items are gone from the world.
+
+
+# Skybound SMP Season 2, v2.52
+
+Fixed:
+- The game crashed on startup after the 2.51 update.
+
+
 # Skybound SMP Season 2, v2.51
 
 Added:
@@ -309,28 +337,6 @@ Removed:
 Fixed:
 - Menus now follow your GUI scale instead of forcing their own, and the title screen cloud frame no longer repeats on large or ultrawide screens.
 - An interrupted update could leave the game marked as up to date with no Update button, so you could not join the server. The updater now only marks the version once the update finishes cleanly, and repairs installs that got stuck.
-
-
-# Skybound SMP Season 2, v2.28
-
-Removed:
-- Create: Cosmonautics, and its Deep Seas bridge (Cosmonautics Deep Air). The Moon and Deep Space dimensions are gone with it.
-- Aeronautics: Interstellar Expansion (AeroIE).
-- Creatures and Beasts.
-- Let's Do Furniture. Create Furniture Seats stays.
-
-Fixed:
-- Main menu and updater screens now scale to any resolution, aspect ratio and GUI scale.
-- Updating through the .mrpack (Modrinth App, Prism, CurseForge import) no longer resets your keybinds and video settings.
-
-
-# Skybound SMP Season 2, v2.27
-
-Added:
-- Create: Ship Glue: crouch and right click with Super Glue or Honey Glue to glue a whole ship at once.
-- Create Aeronautics: Explosion Physics: explosions now push ships instead of only breaking their blocks.
-- Sable View Distance: ships stay visible out to your view distance.
-- Create: Blueprinted: render any schematic to an isometric PNG with one click.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
