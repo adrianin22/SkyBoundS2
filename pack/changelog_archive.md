@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.51
+
+Added:
+- Optimized Block Entities (client, faster chests, signs and other block entities).
+- Sound Culling (client, fewer overlapping sounds near farms and machines).
+- KeybindsGalore (choose which action runs when two keybinds share a key).
+
+Removed:
+- Diagonal Fences and Diagonal Windows (lower RAM use and faster loading). Fences and panes already placed stay where they are.
+- Quark wooden posts (lower RAM use and faster loading).
+
+Changes:
+- Lower client memory use: bundled mods are loaded as separate files, and memory is freed a couple of minutes after joining.
+- Psi Add Motion, Mass Add Motion and Mass Exodus tricks are disabled.
+- The pack updater was improved.
+
+Fixed:
+- The Cogling pet no longer makes a constant gear ticking sound.
+
+
 # Skybound SMP Season 2, v2.50
 
 Added:
@@ -311,23 +331,6 @@ Added:
 - Create Aeronautics: Explosion Physics: explosions now push ships instead of only breaking their blocks.
 - Sable View Distance: ships stay visible out to your view distance.
 - Create: Blueprinted: render any schematic to an isometric PNG with one click.
-
-
-# Skybound SMP Season 2, v2.26
-
-Fixed:
-- Falling Oxide cement no longer throws a ticking entity error on the server.
-- Re-packagers process crafting order packages again.
-
-Changed:
-- Create: Schematic Checker updated to 2.27.47.
-- FTB Chunks updated to 2101.1.22.
-- Added Create: FTB Chunks Compat on the server: drills, saws, Schematicannons, Super Glue, contraptions and machine settings now respect FTB Chunks claims. Item logistics and rotation still cross claim borders as before, and Redstone Links still talk across claims.
-
-Removed:
-- Create: World of Colors.
-- CC: Aeroworks.
-- Create: Rolling Tones.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
