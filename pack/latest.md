@@ -1,3 +1,3 @@
-Update 2.51
+Update 2.52
 
-Lower RAM use and faster loading, Optimized Block Entities, Sound Culling, KeybindsGalore.
+Fixes the startup crash from 2.51.
