@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v2.50
+
+Added:
+- Calcite can now be selected in the mechanical cobblestone generator.
+
+Fixed:
+- Client crash near Create fluid tanks (Stellar Create Optimization).
+- The Hollow Waltz music disc now plays in jukeboxes.
+- The Dual Wheel Mount drops itself when mined.
+- Halloween cosmetics no longer cause server errors and crashes.
+- Harvest Album trophies are recorded as soon as you pick them up, so displaying a trophy before using the album no longer loses it.
+- The Hollowgear Signal Flare bonus is applied once instead of twice.
+- Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
+- /sables delete and /sables confirm accept the ship name as well as its number.
+
+
 # Skybound SMP Season 2, v2.49
 
 Added:
@@ -312,17 +328,6 @@ Removed:
 - Create: World of Colors.
 - CC: Aeroworks.
 - Create: Rolling Tones.
-
-
-# Skybound SMP Season 2, v2.25
-
-Fixed:
-- The game no longer crashes on launch with TFMW. The Factory Must Grow Community Edition blocked TFMW, it now loads with a patched TFMW made compatible with the Community Edition.
-- Surface Scanners use the Community Edition detection again (they no longer show TFMW Oil Rock deposits).
-
-Changed:
-- Create: TFMG Community Edition updated to 1.3.1 (coke ovens work again, light bulb redstone intensity control, cable connector mode on the multimeter).
-- The Update button on the title screen now only appears when a newer version is available, and the latest version is checked live.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
