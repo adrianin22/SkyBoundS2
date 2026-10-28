@@ -1,0 +1,2 @@
+Fixed:
+- The game crashed on startup after the 2.51 update.
