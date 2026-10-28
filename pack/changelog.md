@@ -1,3 +1,11 @@
+# Skybound SMP Season 2, v2.55
+
+Fixes:
+- Fixed a crash on startup when your network blocks Microsoft's text to speech service (Create: Tramways). The game now starts normally; train announcements only speak when that service is reachable.
+- Fixed a client freeze near large Create builds (Create FPS Optimizer).
+- The updater no longer downloads the same config files again on every launch.
+
+
 # Skybound SMP Season 2, v2.54
 
 Better FPS:
@@ -314,16 +322,6 @@ Heads-up:
 Added:
 - ScalableLux, a faster multithreaded light engine based on Starlight, on both your game and the server. Sable sub level lighting keeps working thanks to a compatibility fix, and config/fml.toml now tells Sable to accept it.
 - Catalyst, client side Create optimizations: belt items, fluids, machine items and block entities render with less detail or stop rendering at a distance, Blaze Burner smoke is lighter and repeated machine sounds are limited.
-
-
-# Skybound SMP Season 2, v2.30
-
-Added:
-- Skybound Client Patches, client side FPS fixes: Protection Pixel armor stands no longer scan every block entity each frame, boiler hiss sounds are limited to nearby boilers, Veil GPU debug labels are off, Create: Tracks wheels stop rendering past 128 blocks, Sound Physics uses lighter settings once per install (you can change them back in its menu) and Cable Facades skips its lookup when there are no facades nearby.
-
-Removed:
-- Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
-- FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
