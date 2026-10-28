@@ -1099,3 +1099,5 @@ mods/functional-sculptures-neoforge-1.21.1-1.0.2.jar
 mods/obe+1.21.1-neoforge-1.1.52.jar
 mods/sablexaeromaps-1.21.1-1.4.1.jar
 mods/skyboundclientpatches-1.10.0.jar
+mods/Create-FPS-Optimizer-NeoForge-1.21.1-4.0.4.jar
+mods/tramways-0.4.0-mc1.21.1-21.jar
