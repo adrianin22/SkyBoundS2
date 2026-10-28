@@ -1092,3 +1092,4 @@ mods/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar
 mods/skyboundclientpatches-1.9.0.jar
 mods/skyboundextras-1.1.0.jar
 mods/skyboundpets-0.1.2.jar
+mods/skyboundextras-1.5.0.jar
