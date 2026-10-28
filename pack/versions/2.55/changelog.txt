@@ -1,0 +1,4 @@
+Fixes:
+- Fixed a crash on startup when your network blocks Microsoft's text to speech service (Create: Tramways). The game now starts normally; train announcements only speak when that service is reachable.
+- Fixed a client freeze near large Create builds (Create FPS Optimizer).
+- The updater no longer downloads the same config files again on every launch.
