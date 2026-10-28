@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v2.50
+
+Added:
+- Calcite can now be selected in the mechanical cobblestone generator.
+
+Fixed:
+- Client crash near Create fluid tanks (Stellar Create Optimization).
+- The Hollow Waltz music disc now plays in jukeboxes.
+- The Dual Wheel Mount drops itself when mined.
+- Halloween cosmetics no longer cause server errors and crashes.
+- Harvest Album trophies are recorded as soon as you pick them up, so displaying a trophy before using the album no longer loses it.
+- The Hollowgear Signal Flare bonus is applied once instead of twice.
+- Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
+- /sables delete and /sables confirm accept the ship name as well as its number.
+
+
 # Skybound SMP Season 2, v2.49
 
 Added:
@@ -295,23 +311,6 @@ Added:
 - Create Aeronautics: Explosion Physics: explosions now push ships instead of only breaking their blocks.
 - Sable View Distance: ships stay visible out to your view distance.
 - Create: Blueprinted: render any schematic to an isometric PNG with one click.
-
-
-# Skybound SMP Season 2, v2.26
-
-Fixed:
-- Falling Oxide cement no longer throws a ticking entity error on the server.
-- Re-packagers process crafting order packages again.
-
-Changed:
-- Create: Schematic Checker updated to 2.27.47.
-- FTB Chunks updated to 2101.1.22.
-- Added Create: FTB Chunks Compat on the server: drills, saws, Schematicannons, Super Glue, contraptions and machine settings now respect FTB Chunks claims. Item logistics and rotation still cross claim borders as before, and Redstone Links still talk across claims.
-
-Removed:
-- Create: World of Colors.
-- CC: Aeroworks.
-- Create: Rolling Tones.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
