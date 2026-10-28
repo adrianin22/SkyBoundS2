@@ -1,3 +1,18 @@
+# Skybound SMP Season 2, v2.54
+
+Better FPS:
+- Better FPS near large Create builds: Create block entities far away are no longer rendered in full (Create FPS Optimizer).
+- Better FPS near vehicles with wheels.
+- Block models load on demand, lower memory use.
+- Enchanted Create machines no longer shimmer.
+
+Removed:
+- Optimized Block Entities.
+- Sable Xaero Maps, ships are no longer drawn on the Xaero map.
+- Functional Sculptures (golem statues). Its blocks and items are gone from the world.
+- Memory cleanup after joining turned off.
+
+
 # Skybound SMP Season 2, v2.53
 
 Removed:
@@ -309,19 +324,6 @@ Added:
 Removed:
 - Async Particles. It made every sound wait for its particle threads, which cost more frames than it saved.
 - FastBoot and GPUTape, they did nothing (FastBoot only printed log lines, GPUTape's fix never ran and gpumemleakfix already covers it).
-
-
-# Skybound SMP Season 2, v2.29
-
-Added:
-- CBC Modern Warfare is now craftable: medium cannons, rotary cannons, gun launchers, rockets, torpedoes, ERA and composite armor. Infrared seekers, APDS and HE autocannon rounds stay uncraftable.
-
-Removed:
-- Sauce Delight.
-
-Fixed:
-- Menus now follow your GUI scale instead of forcing their own, and the title screen cloud frame no longer repeats on large or ultrawide screens.
-- An interrupted update could leave the game marked as up to date with no Update button, so you could not join the server. The updater now only marks the version once the update finishes cleanly, and repairs installs that got stuck.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
