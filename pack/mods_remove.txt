@@ -1087,3 +1087,8 @@ mods/nextspace-0.1.1-alpha.jar
 mods/createlanterns-alpha-17.6.jar
 mods/dashpanelsextra-1.4.1.jar
 mods/stellarcreateoptimization-neoforge-1.21.1-1.1.1fix.jar
+mods/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar
+mods/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar
+mods/skyboundclientpatches-1.9.0.jar
+mods/skyboundextras-1.1.0.jar
+mods/skyboundpets-0.1.2.jar
