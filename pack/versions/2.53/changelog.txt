@@ -1,0 +1,3 @@
+Removed:
+- KeybindsGalore (radial keybind menu).
+- Oxide (cement and rusting blocks). Its blocks and items are gone from the world.
