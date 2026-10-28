@@ -1,3 +1,3 @@
-Update 2.50
+Update 2.51
 
-Fluid tank crash fix, Hollow Waltz disc fix, calcite generator, Halloween fixes.
+Lower RAM use and faster loading, Optimized Block Entities, Sound Culling, KeybindsGalore.
