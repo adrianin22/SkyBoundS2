@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v2.53
+
+Removed:
+- KeybindsGalore (radial keybind menu).
+- Oxide (cement and rusting blocks). Its blocks and items are gone from the world.
+
+
 # Skybound SMP Season 2, v2.52
 
 Fixed:
