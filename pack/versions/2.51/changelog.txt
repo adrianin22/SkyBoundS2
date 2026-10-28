@@ -1,0 +1,16 @@
+Added:
+- Optimized Block Entities (client, faster chests, signs and other block entities).
+- Sound Culling (client, fewer overlapping sounds near farms and machines).
+- KeybindsGalore (choose which action runs when two keybinds share a key).
+
+Removed:
+- Diagonal Fences and Diagonal Windows (lower RAM use and faster loading). Fences and panes already placed stay where they are.
+- Quark wooden posts (lower RAM use and faster loading).
+
+Changes:
+- Lower client memory use: bundled mods are loaded as separate files, and memory is freed a couple of minutes after joining.
+- Psi Add Motion, Mass Add Motion and Mass Exodus tricks are disabled.
+- The pack updater was improved.
+
+Fixed:
+- The Cogling pet no longer makes a constant gear ticking sound.
