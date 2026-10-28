@@ -1,3 +1,3 @@
-Update 2.53
+Update 2.54
 
-Removes KeybindsGalore and Oxide.
+Better FPS near Create builds and vehicles, removes Optimized Block Entities, Sable Xaero Maps and Functional Sculptures.
