@@ -1101,3 +1101,8 @@ mods/sablexaeromaps-1.21.1-1.4.1.jar
 mods/skyboundclientpatches-1.10.0.jar
 mods/Create-FPS-Optimizer-NeoForge-1.21.1-4.0.4.jar
 mods/tramways-0.4.0-mc1.21.1-21.jar
+mods/dashpanelsextra-1.4.1-skyboundpatch.jar
+mods/skyboundclientpatches-1.11.0.jar
+mods/skyboundextras-1.5.1.jar
+mods/skyboundpets-0.1.3.jar
+mods/trainutilities-neoforge-3.1.0.jar
