@@ -1,0 +1,8 @@
+Changes:
+- Blood effects from Hemodynamics are turned off (no blood from damage, no footprints, no blood rendering).
+- Hollowgear boss: new visual effects for its attacks, warnings and death.
+
+Fixes:
+- Sounds that stopped playing or disappeared after a while (Doppler).
+- Chat translate: pressing the up arrow in chat no longer selects the translate button, and messages from other players are now actually translated.
+- A LittleTiles crash on the client.
