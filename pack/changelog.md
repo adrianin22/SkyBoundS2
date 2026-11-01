@@ -1,3 +1,33 @@
+# Skybound SMP Season 2, v2.56
+
+Added:
+- Create: Chromeware 1.2.0 (Blood Update) with Hemodynamics: cyberware implants for Create. Sandevistan and the System Collapse, Suicide and Blackwall Gateway quickhacks are disabled.
+- Beat Lamp: music reactive lamps, lasers and fog.
+- Stackable Armor Trims: stack several trims on one armor piece.
+- Olaf's Relatively Placed Blocks: place blocks relative to the one you look at.
+- Style & Threads and MClothes: new clothing and cosmetics.
+- Weavers Paradise: spin thread, weave fabric and dye your own clothing. Its enchantments and clothing abilities are turned off.
+- Pocket Malahit Tablet: a pocket tablet for ComputerCraft.
+- Immersive Computing with LittleTiles: build ComputerCraft computers out of small tiles.
+- ItemSmith (staff tool for event rewards).
+- Doppler: sounds change pitch with relative speed (client).
+- Chat translation: messages from other players in another language are translated in place, hover to see the original.
+- Asphalt slabs, train pavers lay them on slopes and curves when held in the offhand.
+
+Removed:
+- Train Utilities. Its platform, line and glass blocks are now part of Skybound Extras.
+
+Fixes:
+- Fixed moving and removing Screen Modules with the wrench (DashPanels Extra).
+- Better FPS next to tracked vehicles and tanks.
+- Contraptions on minecarts and gantries no longer render while hidden behind walls. Elevators and trains stay always visible.
+
+Changes:
+- Pets: third skill slot for final forms, 12 new skills and 8 pet effects, rebalanced abilities, new sounds, effects and menu, more idle behaviour, diet shown in the Care tab.
+- Lower Create particle and belt item render distances, less lag near big bases.
+- NeoForge updated to 21.1.259. The launcher updates it on the next launch; if the game crashes once, launch it again.
+
+
 # Skybound SMP Season 2, v2.55
 
 Fixes:
@@ -299,29 +329,6 @@ Changed:
 
 Removed:
 - ScalableLux, the light engine added in 2.31. It could crash the game near moving ships (Sable sub levels). Lighting goes back to the vanilla engine.
-
-
-# Skybound SMP Season 2, v2.32
-
-Updated:
-- Create: Deep Seas 3.0.0, the biggest update of the mod. It now includes Create: High Seas (living wind, sails, boat engine, helm and rudder, anchor, oars, buoys, Seaglide, wind vane), real flooding and sinking, hull pressure and implosions, and a computer, sonar and autopilot for submarines.
-- Mechanical Chicken now also produces raw chicken.
-- Video Settings now opens the Sodium settings screen directly.
-
-Removed:
-- Create High Skies, it does not work with Deep Seas 3.0.0 yet. Its blocks disappear from the world.
-
-Heads-up:
-- The old Weather Vane and Submarine Rudder from Deep Seas are gone. Use the new High Seas Wind Vane and Rudder.
-- Symmetric Sails no longer push ships, replace them with the new Sail.
-- Hull strength values were rebalanced per material. Glass holds about 20 to 30 blocks of depth, iron about 100.
-
-
-# Skybound SMP Season 2, v2.31
-
-Added:
-- ScalableLux, a faster multithreaded light engine based on Starlight, on both your game and the server. Sable sub level lighting keeps working thanks to a compatibility fix, and config/fml.toml now tells Sable to accept it.
-- Catalyst, client side Create optimizations: belt items, fluids, machine items and block entities render with less detail or stop rendering at a distance, Blaze Burner smoke is lighter and repeated machine sounds are limited.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
