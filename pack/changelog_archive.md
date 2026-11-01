@@ -1,3 +1,15 @@
+# Skybound SMP Season 2, v2.58
+
+Changes:
+- Blood effects from Hemodynamics are turned off (no blood from damage, no footprints, no blood rendering).
+- Hollowgear boss: new visual effects for its attacks, warnings and death.
+
+Fixes:
+- Sounds that stopped playing or disappeared after a while (Doppler).
+- Chat translate: pressing the up arrow in chat no longer selects the translate button, and messages from other players are now actually translated.
+- A LittleTiles crash on the client.
+
+
 # Skybound SMP Season 2, v2.57
 
 Changes:
@@ -305,41 +317,6 @@ Fixes:
 - Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
 - The Changelog button now shows the notes of the version you have installed.
 - Missing kerosene and naphtha fluid textures.
-
-
-# Skybound SMP Season 2, v2.35
-
-Added:
-- Create: High Skies (back in the pack)
-- Kaleidoscope Cookery, Kaleidoscope Tavern and Kaleidoscope Contraption
-- CEE: Voltworks
-- CBC Military Supplement
-- MALAHIT Monitors
-- Create Shining Stage
-
-Balance:
-- Kaleidoscope Cookery food buffs nerfed: shorter durations, level I only. Satiated Shield reduction lowered.
-- Kaleidoscope Tavern drink buffs nerfed the same way. Harmful effects are unchanged.
-- Create Food effects rebalanced for its 3.0 update.
-
-Updated:
-- About 90 mods updated to their latest versions, including Create Deep Seas 3.3.0, Sable 2.0.6, TFMG Community Edition 1.3.2a and The Factory Must Work CE 2.1.1.
-- Skybound Client Patches 1.6.1 and Skybound Extras 1.1.0.
-
-Removed:
-- Xaero's Regions.
-
-
-# Skybound SMP Season 2, v2.34
-
-Changed:
-- config/fml.toml no longer lists ScalableLux in its dependency overrides (ScalableLux was removed in 2.33).
-
-
-# Skybound SMP Season 2, v2.33
-
-Removed:
-- ScalableLux, the light engine added in 2.31. It could crash the game near moving ships (Sable sub levels). Lighting goes back to the vanilla engine.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
