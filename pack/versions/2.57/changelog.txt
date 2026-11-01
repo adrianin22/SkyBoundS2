@@ -1,0 +1,7 @@
+Changes:
+- Chromeware: every cyberware, implant, syringe, immunosuppressant and the surgery chair now need a Create production chain. New components: Neural Chip, Synaptic Processor and Military Neural Core, each made by sequenced assembly. Higher tier implants need higher tier chips. Check JEI for the new recipes.
+
+Fixes:
+- Voltworks and Power Grid solar panels had the same recipe, the Voltworks one now starts with rose quartz.
+- LittleTiles and CreativeCore missing or duplicated for some players. The updater now removes extra copies of pack mods (for example newer versions added by a launcher mod update) and restores the right ones.
+- NeoForge version now really changes to 21.1.259, also for instances that ended up on a newer NeoForge. When the updater changes it, the launch stops with a message: close Prism Launcher completely, open it again and press Play.
