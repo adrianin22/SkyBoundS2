@@ -1,3 +1,15 @@
+# Skybound SMP Season 2, v2.58
+
+Changes:
+- Blood effects from Hemodynamics are turned off (no blood from damage, no footprints, no blood rendering).
+- Hollowgear boss: new visual effects for its attacks, warnings and death.
+
+Fixes:
+- Sounds that stopped playing or disappeared after a while (Doppler).
+- Chat translate: pressing the up arrow in chat no longer selects the translate button, and messages from other players are now actually translated.
+- A LittleTiles crash on the client.
+
+
 # Skybound SMP Season 2, v2.57
 
 Changes:
@@ -293,18 +305,6 @@ Fixes:
 - Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
 - Removed the dependency override warning screen on game launch.
 - Fixed a Better Lib error on game start.
-
-
-# Skybound SMP Season 2, v2.36
-
-Changed:
-- The Mechanical Chicken is now the Mechanical Livestock, and can also produce raw beef, raw porkchop and raw rabbit.
-- Banned items are now hidden in JEI.
-
-Fixes:
-- Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
-- The Changelog button now shows the notes of the version you have installed.
-- Missing kerosene and naphtha fluid textures.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
