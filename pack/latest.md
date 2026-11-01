@@ -1,3 +1,3 @@
-Update 2.55
+Update 2.56
 
-Fixes a startup crash caused by Create: Tramways, a freeze near large Create builds, and config files downloading again on every launch.
+Adds Create: Chromeware, Weavers Paradise, Immersive Computing and more clothing and decoration mods, moves Train Utilities blocks into Skybound Extras, and improves FPS near trains and contraptions.
