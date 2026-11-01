@@ -1,3 +1,14 @@
+# Skybound SMP Season 2, v2.57
+
+Changes:
+- Chromeware: every cyberware, implant, syringe, immunosuppressant and the surgery chair now need a Create production chain. New components: Neural Chip, Synaptic Processor and Military Neural Core, each made by sequenced assembly. Higher tier implants need higher tier chips. Check JEI for the new recipes.
+
+Fixes:
+- Voltworks and Power Grid solar panels had the same recipe, the Voltworks one now starts with rose quartz.
+- LittleTiles and CreativeCore missing or duplicated for some players. The updater now removes extra copies of pack mods (for example newer versions added by a launcher mod update) and restores the right ones.
+- NeoForge version now really changes to 21.1.259, also for instances that ended up on a newer NeoForge. When the updater changes it, the launch stops with a message: close Prism Launcher completely, open it again and press Play.
+
+
 # Skybound SMP Season 2, v2.56
 
 Added:
@@ -294,41 +305,6 @@ Fixes:
 - Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
 - The Changelog button now shows the notes of the version you have installed.
 - Missing kerosene and naphtha fluid textures.
-
-
-# Skybound SMP Season 2, v2.35
-
-Added:
-- Create: High Skies (back in the pack)
-- Kaleidoscope Cookery, Kaleidoscope Tavern and Kaleidoscope Contraption
-- CEE: Voltworks
-- CBC Military Supplement
-- MALAHIT Monitors
-- Create Shining Stage
-
-Balance:
-- Kaleidoscope Cookery food buffs nerfed: shorter durations, level I only. Satiated Shield reduction lowered.
-- Kaleidoscope Tavern drink buffs nerfed the same way. Harmful effects are unchanged.
-- Create Food effects rebalanced for its 3.0 update.
-
-Updated:
-- About 90 mods updated to their latest versions, including Create Deep Seas 3.3.0, Sable 2.0.6, TFMG Community Edition 1.3.2a and The Factory Must Work CE 2.1.1.
-- Skybound Client Patches 1.6.1 and Skybound Extras 1.1.0.
-
-Removed:
-- Xaero's Regions.
-
-
-# Skybound SMP Season 2, v2.34
-
-Changed:
-- config/fml.toml no longer lists ScalableLux in its dependency overrides (ScalableLux was removed in 2.33).
-
-
-# Skybound SMP Season 2, v2.33
-
-Removed:
-- ScalableLux, the light engine added in 2.31. It could crash the game near moving ships (Sable sub levels). Lighting goes back to the vanilla engine.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
