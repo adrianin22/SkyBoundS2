@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.61
+
+Removed:
+- Trackwork, Let It Walk, Let It Walk Remote and Create: Construction Site. Their blocks and items are gone from the world.
+
+
 # Skybound SMP Season 2, v2.60
 
 Added:
@@ -298,16 +304,6 @@ Mod updates:
 
 Fixes:
 - Fixed ships and other physics structures not showing up until a block was placed next to them, and their blocks not breaking or vanishing when right clicked.
-
-
-# Skybound SMP Season 2, v2.39
-
-Fixes:
-- Fixed the game crashing on startup after updating to 2.38.
-- Removed a wall of info text some players got in chat when joining.
-
-Changed:
-- Camera screen shake effects are turned off for now, they caused the startup crash.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
