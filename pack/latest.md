@@ -1,3 +1,3 @@
-Update 2.60
+Update 2.61
 
-Trackwork tracks, a new Car Horn block and connected textures for Industrial Hellscape. Mekanism and its addons have been removed.
+Trackwork, Let It Walk, Let It Walk Remote and Create: Construction Site have been removed.
