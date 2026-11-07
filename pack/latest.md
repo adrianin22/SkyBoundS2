@@ -1,3 +1,3 @@
-Update 2.58
+Update 2.59
 
-Fixes for disappearing sounds, chat translate and a LittleTiles crash, blood effects turned off, and new Hollowgear boss effects.
+New Create add-ons, mod updates, elevator fixes and a thruster balance pass. Existing ships may need more engines to fly.
