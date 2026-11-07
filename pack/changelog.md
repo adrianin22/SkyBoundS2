@@ -1,3 +1,19 @@
+# Skybound SMP Season 2, v2.60
+
+Added:
+- Trackwork, tank style tracks for your contraptions.
+- Car Horn, a block that honks on a redstone signal and follows moving ships.
+
+Removed:
+- Mekanism, Mekanism Generators and their addons. Their blocks and items are gone from the world.
+
+Fixes:
+- Industrial Hellscape blocks now use their connected textures.
+
+Changes:
+- Recipes that needed Mekanism items were removed or reworked. Logic Mechanism, Processor and Guidance Mechanism no longer need control circuits.
+
+
 # Skybound SMP Season 2, v2.59
 
 Added:
