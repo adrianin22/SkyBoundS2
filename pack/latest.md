@@ -1,3 +1,3 @@
-Update 2.59
+Update 2.60
 
-New Create add-ons, mod updates, elevator fixes and a thruster balance pass. Existing ships may need more engines to fly.
+Trackwork tracks, a new Car Horn block and connected textures for Industrial Hellscape. Mekanism and its addons have been removed.
