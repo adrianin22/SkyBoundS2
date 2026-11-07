@@ -1,3 +1,25 @@
+# Skybound SMP Season 2, v2.59
+
+Added:
+- Create: Construction Site, Create: Lightworks, Aero Fuel, Let It Walk, Let It Walk Remote Control and The Block of Sky.
+- Create: Integrated Farming is back.
+- Omni Speed Controller, a block that combines two large cogwheels with a rotation speed controller.
+
+Removed:
+- Gadgets and Gizmos no longer has the Gyro Redstone Bridge and the Virtual Orientation Source. Its blocks and items are gone from the world.
+
+Fixes:
+- Elevators and other Create contraptions no longer vanish at a distance.
+- Double name tag on players wearing a mantle.
+- Stack Upgrade Tier 1 can be crafted again.
+- Creative only items no longer show up in JEI.
+- Startup warning screens and the extra config buttons on the main menu are gone.
+
+Changes:
+- Most mods updated, including Gadgets and Gizmos 2.0.0 and Industrial Hellscape 1.3 with new blocks.
+- Balance: AeroEngine jets, kerosene and hydrogen thrusters, Water Thrusters and tier 3 and 4 Gadgets and Gizmos propulsion upgrades are weaker, Ion Thrusters use more power and lose their multiblock thrust bonus. Existing ships may need more engines to fly.
+
+
 # Skybound SMP Season 2, v2.58
 
 Changes:
@@ -270,41 +292,6 @@ Fixes:
 
 Changed:
 - Camera screen shake effects are turned off for now, they caused the startup crash.
-
-
-# Skybound SMP Season 2, v2.38
-
-Added:
-- Incendium: the Nether has new biomes and structures.
-- Simply Light: simple decorative lamps.
-- Decorative Levitite: crafted from levitite, same look, no lift.
-
-Changed:
-- Removed Biomes O' Plenty. The Nether has been regenerated, anything left there is gone.
-- Updated Create Aeronautics: Gadgets & Gizmos to 1.2.7: Creative RCS Thruster, belt wheel and zipline fixes, thruster light.
-- Lighter Flywheel lighting and Sound Physics settings for everyone.
-- Train Steps from Create Train Parts can no longer be crafted or placed.
-- Ender Linker from Sophisticated Core is disabled, it could lock players out of the server.
-
-Fixes:
-- CBC Neo Warfare: unbored rotary and medium cannon parts can be cast again.
-
-
-# Skybound SMP Season 2, v2.37
-
-Added:
-- Ships no longer unload while you are near them or right after you die on board.
-
-Changed:
-- Updated 28 mods (Xaero maps, Sophisticated Backpacks, Contraption Lights, AdvancedPeripherals, Create: High Skies and others).
-- Create: High Skies: reversing the pump on a gas port now pulls hydrogen back out so you can reuse it.
-
-Fixes:
-- CBC Neo Warfare: rotary cannon moulds now cast the right parts, rotary and medium cannons can be cast and bored, and its blocks drop items again.
-- Fixed recipe and loot errors in CBC Military Supplement.
-- Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
-- Removed the dependency override warning screen on game launch.
-- Fixed a Better Lib error on game start.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
