@@ -161,7 +161,6 @@ mods/create_bb-1.0.8-1.21.1.jar	2618795	59220d82cf962773e26778fc24c454e761368092
 mods/create_better_motors-4.0.0.jar	397376	405ed7931c7622104bb5bcb3ad07f9aacb8a70e4	https://cdn.modrinth.com/data/PzouXFuY/versions/8m3TFCvr/create_better_motors-4.0.0.jar
 mods/create_blueprinted-2.2.6.jar	421863	f7c80ce479069ac56d2316b8a1bc3fb0bd4aa9ff	https://cdn.modrinth.com/data/nJM6buSc/versions/NYw719l6/create_blueprinted-2.2.6.jar
 mods/create_connected-1.3.3-mc1.21.1.jar	6786783	96ae45fa44cd7028a31b9613cb672009e811b145	https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar
-mods/create_construction_site-0.1.0.jar	1089250	fba57253f4c702e6b69396dfd6fd57f205eb91c1	https://edge.forgecdn.net/files/9386/88/create_construction_site-0.1.0.jar
 mods/create_curios_backtank-neoforge-1.21.1-1.0.2.jar	596682	39535a4135422733ded077d46696492d252d8403	https://cdn.modrinth.com/data/WuKy9y7l/versions/dUEAeRGL/create_curios_backtank-neoforge-1.21.1-1.0.2.jar
 mods/create_ez_stock_ticker-1.0.4.jar	715885	ca229080faeba4430a75d3fe2fd327af83decc2a	https://cdn.modrinth.com/data/qYDytzUC/versions/6iOmSvGp/create_ez_stock_ticker-1.0.4.jar
 mods/create_hammer_bid-1.2.0+mc1.21.1.jar	1001114	87dc9f888ae046d77afdc7e4d23561bf71811cb8	https://cdn.modrinth.com/data/J2rOoKtu/versions/LLJEy1QO/create_hammer_bid-1.2.0%2Bmc1.21.1.jar
@@ -289,8 +288,6 @@ mods/lambdynamiclights-4.8.11+1.21.1.jar	2023375	7b5afc75a094b4e8a7118f9856eec95
 mods/ldlib2-neoforge-1.21.1-2.2.45-all.jar	8010944	a26acbb03a1e640a9acf6c10abdb0774b86d6e9a	https://cdn.modrinth.com/data/B1CBVXHX/versions/VcWs9ATV/ldlib2-neoforge-1.21.1-2.2.45-all.jar
 mods/leaky-1.21-3.8.jar	40514	6585c141043a3420fce97da841179fe8faeed53d	https://edge.forgecdn.net/files/9408/843/leaky-1.21-3.8.jar
 mods/legendary_monsters-2.2.4 MC 1.21.1.jar	44757511	85778d7f4b7c1546279be9374be3b71b47e2c47d	https://cdn.modrinth.com/data/9d9Bkqva/versions/zkH9rSlF/legendary_monsters-2.2.4%20MC%201.21.1.jar
-mods/let_it_walk-0.1.2.jar	662495	1b4cc783b20d8255f49cb69e1166edcc83ff6a0f	https://edge.forgecdn.net/files/9455/307/let_it_walk-0.1.2.jar
-mods/letitwalk_remote-1.0.0.jar	117454	098097f8523bf0fbb12bae3c0b610ecf06f4c6fa	https://edge.forgecdn.net/files/9456/963/letitwalk_remote-1.0.0.jar
 mods/lever-drugster-1.8.8.jar	477209	5a523e3966260bc85b3e4e0b3af966d0019126cb	https://cdn.modrinth.com/data/GQNtImhh/versions/epR68IoB/lever-drugster-1.8.8.jar
 mods/lightspeed-1.21.1-2.0.5+hotfix.jar	654826	b3c0db5c6c01a443166d9c69004f650005606c43	https://cdn.modrinth.com/data/niZHUKxZ/versions/3lDR3Cp2/lightspeed-1.21.1-2.0.5%2Bhotfix.jar
 mods/lithium-neoforge-0.15.4+mc1.21.1.jar	774220	97212e45c963730bbfc7c44780df99317814c21b	https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar
