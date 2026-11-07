@@ -34,10 +34,7 @@ mods/Ixeris-4.6.11+1.21.1-neoforge.jar	698847	65310db04906c2a2c83bd9d0a1965fd3f5
 mods/Jade-1.21.1-NeoForge-15.10.6.jar	726853	88ee316e68900080b017f60c12162e2731924cf8	https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar
 mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar	82315	479b327078f8f0091e2413675d1236c931f68cf4	https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar
 mods/Jadens-Nether-Expansion-2.4.1.jar	21052417	ccbf6bce83cb9c73c3160a5395fb898132205117	https://cdn.modrinth.com/data/v3UlehfS/versions/NactTrv2/Jadens-Nether-Expansion-2.4.1.jar
-mods/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar	246040	b991df7554af8532d507eeccdef3797bec78f958	https://edge.forgecdn.net/files/9068/212/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar
 mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar	55937	1d8eec39ed44414af14d14c0dfb5abd097e77491	https://cdn.modrinth.com/data/AVq17PqV/versions/kAbmpvF3/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar
-mods/Mekanism-1.21.1-10.7.19.85.jar	11976009	b78945c40cfe7640408f3fd1e44da385a8c8b805	https://cdn.modrinth.com/data/Ce6I4WUE/versions/5KzzycBT/Mekanism-1.21.1-10.7.19.85.jar
-mods/MekanismGenerators-1.21.1-10.7.19.85.jar	1114598	44c4d8006597580ff7e4101b5a22f7b426cdcaf6	https://cdn.modrinth.com/data/OFVYKsAk/versions/a6gl7srE/MekanismGenerators-1.21.1-10.7.19.85.jar
 mods/MoogsEndStructures-universal-1.21-2.1.1.jar	2285901	ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a	https://cdn.modrinth.com/data/r4PuRGfV/versions/S7bUhX4n/MoogsEndStructures-universal-1.21-2.1.1.jar
 mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar	1094979	c379b8d5dc1a4b1e8987da1052d6b4de81354d72	https://cdn.modrinth.com/data/1oUDhxuy/versions/wcg4mE4e/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar
 mods/MossyLib-1.6.0+1.21.1+neoforge.jar	179468	330e8f3889516d53229ccd464f8d572a89f21b6d	https://cdn.modrinth.com/data/ffLDUGbm/versions/r1b2ODLf/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar
@@ -123,8 +120,10 @@ mods/citadel-2.7.1-1.21.1.jar	3033076	9d7873f74b418f4f83adf2ae41af75d2e8217cd6	h
 mods/clayworks-1.21.1-4.0.3.jar	1436093	e57792898117777a09b04cb29bbceb2d88fbc7f6	https://cdn.modrinth.com/data/1iicrEO3/versions/SpFNxWZa/clayworks-1.21.1-4.0.3.jar
 mods/climbable_ropes-2.2.0.jar	103098	a28fcd4441c4a78db98479e8010559ce7f210660	https://cdn.modrinth.com/data/jImqv1M5/versions/TTGedLb3/climbable_ropes-2.2.0.jar
 mods/cloth-config-15.0.140-neoforge.jar	1163890	c3e5733ba4503b102589a026000fd5ce0212f6f2	https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar
+mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar	5404861	ae644104c83cdce103f536fb42d500c282cf1b35	https://cdn.modrinth.com/data/UnAEo77V/versions/xzERbfOO/cluttered-%5BNeoForge%5D-3.0.3-1.21.1.jar
 mods/collective-1.21.1-8.82.jar	1478094	f9bf167b43dea065b892edf83d79eb9caf4d15bd	https://cdn.modrinth.com/data/e0M1UDsY/versions/hGykhNgy/collective-1.21.1-8.82.jar
 mods/colorwheel-neoforge-1.3.2+mc1.21.1.jar	515142	d4d5681fb5f5b1d95a843b7e752ad746a56c4093	https://cdn.modrinth.com/data/BzHgFoGz/versions/lV874ox8/colorwheel-neoforge-1.3.2%2Bmc1.21.1.jar
+mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar	210569	0e63780e5b8af294bf58609ac866b9866ab9537b	https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar
 mods/compactflap-neoforge-1.21.1-1.0.4.1.jar	145237	0018b99ee0a82e066d1acad4de389aae2426b812	https://cdn.modrinth.com/data/Rsk2MfzV/versions/OLen1ZcN/compactflap-neoforge-1.21.1-1.0.4.1.jar
 mods/compactgearbox-1.0.2.jar	164789	c2c3b4cee586876b12356a8d8ac42cd44cda9edc	https://edge.forgecdn.net/files/8026/557/compactgearbox-1.0.2.jar
 mods/configurable-3.5.3+1.21.1-neoforge.jar	159048	694e68c671dacf418c8ed7ab543f62c80fdd0f95	https://cdn.modrinth.com/data/lGffrQ3O/versions/lycKbfGw/configurable-3.5.3%2B1.21.1-neoforge.jar
@@ -169,7 +168,6 @@ mods/create_hammer_bid-1.2.0+mc1.21.1.jar	1001114	87dc9f888ae046d77afdc7e4d23561
 mods/create_hypertube-0.6.0-NEOFORGE.jar	546142	8004b4b3959364609906ea4d7bf409add879a222	https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar
 mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar	421892	5146fc22a9385de8103b5ca0151f80dcd0f03978	https://cdn.modrinth.com/data/BBhCMftF/versions/JEmLrfe6/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar
 mods/create_marketplace-0.5.2.jar	980999	b07bf3d03559e7b925a2dfba3d43d674d359df4c	https://cdn.modrinth.com/data/O7RTXyyq/versions/7HQSeSmx/create_marketplace-0.5.2.jar
-mods/create_mekanism_compat-0.2.0.jar	142389	2904604369fb9c373c920f99863790630ce0ef02	https://edge.forgecdn.net/files/8584/633/create_mekanism_compat-0.2.0.jar
 mods/create_mobile_packages-1.21.1-0.7.8.jar	623172	1e5238c8764bcfc3c0af29c3ff5b4533a18364c7	https://cdn.modrinth.com/data/1vXRfEHZ/versions/xSPt2JXH/create_mobile_packages-1.21.1-0.7.8.jar
 mods/create_oxidized-0.1.3.jar	121297	fe93a9575174b4993cf3fb5f2aed4dd4431096ee	https://cdn.modrinth.com/data/X9kjRZeX/versions/z8PFRVBs/create_oxidized-0.1.3.jar
 mods/create_pattern_schematics-2.0.10.jar	221764	e3dea574c3b3d590444796a42e8f7456280b1063	https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar
@@ -285,9 +283,7 @@ mods/konkrete_neoforge_1.9.9_MC_1.21.jar	618842	97771eb287d5ac7fe667d1df9493d5e5
 mods/kotlinforforge-5.12.0-all.jar	7279276	a2032c921e93a0ccb0db5d742167e3139c2de01b	https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar
 mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar	1015871	3b9253fcfaa11586ce528fbc0a26175991c9408f	https://cdn.modrinth.com/data/JkxWVYwU/versions/SUeOFygw/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar
 mods/kubejs-create-neoforge-2101.3.1-build.18.jar	38629	f54d9ff53909771d27e4d9d135c3707cd5d5f855	https://cdn.modrinth.com/data/T38eAZQC/versions/1qmcLagN/kubejs-create-neoforge-2101.3.1-build.18.jar
-mods/kubejs-mekanism-neoforge-2101.1.7-build.18.jar	58054	e605f4ef57395cb91f4438165c59f8536223ae10	https://cdn.modrinth.com/data/sY2Fy24K/versions/sbx1D4Jz/kubejs-mekanism-neoforge-2101.1.7-build.18.jar
 mods/kubejs-neoforge-2101.7.2-build.381.jar	2295092	c795402c73988ed0c03ce61767f9606aa1d606d8	https://edge.forgecdn.net/files/9396/59/kubejs-neoforge-2101.7.2-build.381.jar
-mods/kubejs_mekanism_extends-2101.0.1.jar	8594	24bba058ea8ced67af4476466e62406e972b8041	https://cdn.modrinth.com/data/T9pG3C89/versions/OLu0A7cB/kubejs_mekanism_extends-2101.0.1.jar
 mods/kubejsable-1.1.0.jar	92585	389ce9c541ace0130aa9f62044784f09c5335e7d	https://cdn.modrinth.com/data/aH1sOU2k/versions/jxjUAAAq/kubejsable-1.1.0.jar
 mods/lambdynamiclights-4.8.11+1.21.1.jar	2023375	7b5afc75a094b4e8a7118f9856eec959b10f2422	https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar
 mods/ldlib2-neoforge-1.21.1-2.2.45-all.jar	8010944	a26acbb03a1e640a9acf6c10abdb0774b86d6e9a	https://cdn.modrinth.com/data/B1CBVXHX/versions/VcWs9ATV/ldlib2-neoforge-1.21.1-2.2.45-all.jar
@@ -309,6 +305,7 @@ mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar	661387	71ece28129789a2123cf07e79938f
 mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar	1190404	c127904f23db1a641dd9e065ec51c5c177cb4cd7	https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar
 mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar	2080436	3dccc819f14bcc60b3683edd82ca8c5e64964229	https://cdn.modrinth.com/data/dtWC90iB/versions/Z5V3Ps7S/mcw-furniture-3.4.1-mc1.21.1neoforge.jar
 mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar	525744	13c1107caf26b2c60d8626b3658b26cc7f634b38	https://cdn.modrinth.com/data/w4an97C2/versions/5U2kQZIL/mcw-lights-1.1.5-mc1.21.1neoforge.jar
+mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar	673871	b5580c3fc521ed8bf4db3e407bd590efc317f74d	https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar
 mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar	777742	4bb7e1d28eef19f87438881b0f582a15297b95ae	https://cdn.modrinth.com/data/VRLhWB91/versions/tlymsxUG/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar
 mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar	529082	1ee43d693c821efc955a74e551f94372af90a140	https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar
 mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar	1261268	eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c	https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar
@@ -316,8 +313,6 @@ mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar	1784829	05806ff152fab56f7c1b4b215d772e
 mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar	572870	1f8b59e31f889f53b6296b42ee09d447e7e56620	https://cdn.modrinth.com/data/n2fvCDlM/versions/StnP0RNi/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar
 mods/mechanical_cow-1.21.1-1.2.2-6.0.10.jar	187279	c382a07fece23912cb1f6d864fcb84ce369e607f	https://cdn.modrinth.com/data/zRNN7mYy/versions/Y7TQA9Sd/mechanical_cow-1.21.1-1.2.2-6.0.10.jar
 mods/mechanicals-1.21.1-1.1.6.jar	2022181	65818a9a904983c39acfd7b2da3fe784bd35e83b	https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar
-mods/mekanism_ponders-1.0.4-1.21.1.jar	1699512	a622c8dda325336333e6c23441426bab1d3bc6bb	https://cdn.modrinth.com/data/yriKr10n/versions/LGnW84cs/mekanism_ponders-1.0.4-1.21.1.jar
-mods/mekanismcurios-1.21.1-1.2.1.jar	99159	652371b8622d60d8d4d9528493095beb0c903aa8	https://cdn.modrinth.com/data/uKJX4EfN/versions/SCc0MUEv/mekanismcurios-1.21.1-1.2.1.jar
 mods/melody_neoforge_1.0.10_MC_1.21.jar	36096	e83052a92c4ca0016bcfe7f0207273983dc84698	https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar
 mods/mobcontrol-1.21.1-2.0.1-beta-2.jar	228366	052620d8f4f21f7eabe362e2ab43c825c03631a6	https://cdn.modrinth.com/data/4gTwBSot/versions/sxs2HUNK/mobcontrol-1.21.1-2.0.1-beta-2.jar
 mods/modernfix-neoforge-5.27.27+mc1.21.1.jar	614138	52c008540c7dc2cc451f7e939a885d7462c9ae72	https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar
@@ -379,6 +374,7 @@ mods/serverwarashi-1.21.1-2.1.1.5.jar	1021526	369ed62129c1e24ed3f7527c6cb58fbd41
 mods/shaolib-0.1.1.jar	512460	f649593586495144d07c25196b37b30bf7020951	https://edge.forgecdn.net/files/9028/490/shaolib-0.1.1.jar
 mods/shaolib_munitions-0.1.0.jar	507791	35e95b33422e9add00896a56443e3b3f82022b23	https://cdn.modrinth.com/data/os0j0wuC/versions/6WpAFpmX/shaolib_munitions-0.1.0.jar
 mods/shipglue-neoforge-1.21.1-1.8.0.jar	101744	5cda5f5a93c590890f6db713bad9a224f427473e	https://edge.forgecdn.net/files/9417/462/shipglue-neoforge-1.21.1-1.8.0.jar
+mods/showcaseitem-1.21.1-1.1.0.jar	19759	3c002b0da441a752c83a2282730a1ce597a4018f	https://cdn.modrinth.com/data/P5Jjjezm/versions/AD6eBCKn/showcaseitem-1.21.1-1.1.0.jar
 mods/simplylight-1.5.3+1.21.1-b4.jar	1103352	d85bfed3824cb66d258acf11c73edaf11d583223	https://edge.forgecdn.net/files/6219/29/simplylight-1.5.3%2b1.21.1-b4.jar
 mods/simplyswords-neoforge-1.70.2-1.21.1.jar	16282660	05b074ff774467f1fe9fb5592151b7845c321cbc	https://cdn.modrinth.com/data/bK3Ubu9p/versions/nS0Yahr5/simplyswords-neoforge-1.70.2-1.21.1.jar
 mods/simulatedrubies-1.4.0.jar	995729	20209a024745f9a3afdc55b30fc7974d32a81892	https://cdn.modrinth.com/data/Iz5e707B/versions/JvjU0oxG/simulatedrubies-1.4.0.jar
