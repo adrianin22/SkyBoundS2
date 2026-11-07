@@ -1224,3 +1224,7 @@ kubejs/server_scripts/scripts.js
 kubejs/server_scripts/skybound_mekanism_gate.js
 kubejs/server_scripts/skybound_mekanism_ore_exempt.js
 kubejs/startup_scripts/skybound_mekanism_gate_item.js
+mods/create_construction_site-0.1.0.jar
+mods/let_it_walk-0.1.2.jar
+mods/letitwalk_remote-1.0.0.jar
+mods/trackwork-neoforge-1.21.1-1.1.2c6-neoforge-port.6-handling.1.jar
