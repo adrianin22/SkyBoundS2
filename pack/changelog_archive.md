@@ -1,3 +1,25 @@
+# Skybound SMP Season 2, v2.59
+
+Added:
+- Create: Construction Site, Create: Lightworks, Aero Fuel, Let It Walk, Let It Walk Remote Control and The Block of Sky.
+- Create: Integrated Farming is back.
+- Omni Speed Controller, a block that combines two large cogwheels with a rotation speed controller.
+
+Removed:
+- Gadgets and Gizmos no longer has the Gyro Redstone Bridge and the Virtual Orientation Source. Its blocks and items are gone from the world.
+
+Fixes:
+- Elevators and other Create contraptions no longer vanish at a distance.
+- Double name tag on players wearing a mantle.
+- Stack Upgrade Tier 1 can be crafted again.
+- Creative only items no longer show up in JEI.
+- Startup warning screens and the extra config buttons on the main menu are gone.
+
+Changes:
+- Most mods updated, including Gadgets and Gizmos 2.0.0 and Industrial Hellscape 1.3 with new blocks.
+- Balance: AeroEngine jets, kerosene and hydrogen thrusters, Water Thrusters and tier 3 and 4 Gadgets and Gizmos propulsion upgrades are weaker, Ion Thrusters use more power and lose their multiblock thrust bonus. Existing ships may need more engines to fly.
+
+
 # Skybound SMP Season 2, v2.58
 
 Changes:
@@ -305,18 +327,6 @@ Fixes:
 - Fixed a client crash when rendering some Copycats+ blocks next to Create copycat panels or steps.
 - Removed the dependency override warning screen on game launch.
 - Fixed a Better Lib error on game start.
-
-
-# Skybound SMP Season 2, v2.36
-
-Changed:
-- The Mechanical Chicken is now the Mechanical Livestock, and can also produce raw beef, raw porkchop and raw rabbit.
-- Banned items are now hidden in JEI.
-
-Fixes:
-- Server performance improvements for Create machines and swivel bearings, and nested filter items can no longer overload the server.
-- The Changelog button now shows the notes of the version you have installed.
-- Missing kerosene and naphtha fluid textures.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
