@@ -1228,3 +1228,10 @@ mods/create_construction_site-0.1.0.jar
 mods/let_it_walk-0.1.2.jar
 mods/letitwalk_remote-1.0.0.jar
 mods/trackwork-neoforge-1.21.1-1.1.2c6-neoforge-port.6-handling.1.jar
+mods/Glaidens-Vista-improvements-1.0.6.jar
+mods/create-integrated-farming-1.4.3.jar
+mods/discord_chat_mod-neoforge-1.21.1-2.8.0.jar
+mods/skyboundclientpatches-1.13.0.jar
+mods/skyboundextras-1.9.2.jar
+mods/snassets-1.0.3.jar
+mods/uncharted_seas-1.5-neoforge-1.21.1.jar
