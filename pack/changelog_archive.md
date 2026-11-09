@@ -1,3 +1,26 @@
+# Skybound SMP Season 2, v2.62
+
+Added:
+- Kerria, faster animated textures (client).
+- Jasione, less memory churn and fewer lag spikes from garbage collection.
+- Create: Smart Bounds, Create machines skip rendering when they are off screen (client).
+
+Removed:
+- Uncharted Seas, Create: Integrated Farming and SN Assets. Their blocks and items are gone from the world.
+- Glaidens Vista Improvements (client).
+
+Fixes:
+- Fixed missing depth on the Create Lanterns flight aura and Lodestone effects shown on Vista TVs.
+
+Changes:
+- The Fishing Net from Create: Integrated Farming now comes with Skybound Extras and works the same, also on Sable ships. Nets placed before are gone, craft new ones with the same recipe.
+- Create machines hidden behind walls no longer run their animations on your screen, and Create: Tracks suspension updates less often far away, for better FPS.
+- Stack Upgrade Tier 1 can be crafted again.
+- Weavers Paradise cosplays and the player plushie are now crafted instead of found in chests. Rename a plushie with a rename token to change its skin.
+- The Simulated Rubies Chunk Loader is back in JEI and craftable, placing it is still restricted.
+- The Create: Gadgets and Gizmos Smart Vault is no longer available.
+
+
 # Skybound SMP Season 2, v2.61
 
 Removed:
@@ -304,16 +327,6 @@ Mod updates:
 
 Fixes:
 - Fixed ships and other physics structures not showing up until a block was placed next to them, and their blocks not breaking or vanishing when right clicked.
-
-
-# Skybound SMP Season 2, v2.39
-
-Fixes:
-- Fixed the game crashing on startup after updating to 2.38.
-- Removed a wall of info text some players got in chat when joining.
-
-Changed:
-- Camera screen shake effects are turned off for now, they caused the startup crash.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
