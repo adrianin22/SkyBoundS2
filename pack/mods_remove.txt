@@ -1235,3 +1235,8 @@ mods/skyboundclientpatches-1.13.0.jar
 mods/skyboundextras-1.9.2.jar
 mods/snassets-1.0.3.jar
 mods/uncharted_seas-1.5-neoforge-1.21.1.jar
+mods/sable-chunk-guard-1.0.0.jar
+mods/skyboundclientpatches-1.15.0.jar
+mods/watermedia-3.0.0.23.jar
+mods/watermedia_binaries-3.0.0.6.jar
+mods/watermedia_platform_extension-3.0.0-beta.7.jar
