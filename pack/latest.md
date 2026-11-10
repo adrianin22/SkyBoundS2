@@ -1,3 +1,3 @@
-Update 2.62
+Update 2.63
 
-Uncharted Seas, Create: Integrated Farming and SN Assets have been removed. The Fishing Net stays, now part of Skybound Extras. New performance mods, FPS fixes, and Stack Upgrade Tier 1 is craftable again.
+Create: Loconautics joins the pack, Create trains now run on Sable ships. Vista TVs no longer crash the game when playing videos, and less server lag from Sable ships, tracked vehicles and Hose Pulleys.
