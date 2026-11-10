@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.64
+
+Added:
+- Create: Step Up, mechanical legs for Create Aeronautics builds. Its items are not craftable yet.
+- Liquid Hydrogen: freeze TFMG hydrogen in a steel vat with freezers and burn it in thrusters.
+- Steel vats can split water into hydrogen and oxygen, and freeze oxygen into thruster oxidizer.
+- High Skies gas cells now accept TFMG hydrogen.
+
+Fixes:
+- Fixed Quantum Tuner cooldowns (Chromeware).
+- Fixed cyber arms with TACZ guns (Chromeware).
+- Fixed some Create Food, Addictives and Create Teleporters recipes failing to load.
+- Fixed the undyed Industrial Cogwheel not being dyeable (Create: Dreams and Desires).
+- Some gameplay blocks that could not be broken can now be mined.
+
+Changes:
+- Chromeware updated to 1.2.1.
+- Sable Watch updated to 1.2.1.
+
+
 # Skybound SMP Season 2, v2.63
 
 Added:
