@@ -1,3 +1,16 @@
+# Skybound SMP Season 2, v2.63
+
+Added:
+- Create: Loconautics, Create trains now run on Sable ships.
+
+Fixes:
+- Fixed Vista TVs crashing the game when playing a video (WaterMedia 3.0.1).
+- Video playback on Vista TVs loads in the background again with the new WaterMedia, no freeze when the first TV starts.
+- Fixed server stutter when Sable ships move near unloaded chunks.
+- Less server lag from Create: Tracks vehicles and Hose Pulleys.
+- Chat names and prefixes cost less server time.
+
+
 # Skybound SMP Season 2, v2.62
 
 Added:
