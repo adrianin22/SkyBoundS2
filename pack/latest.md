@@ -1,3 +1,3 @@
-Update 2.64
+Update 2.65
 
-Create: Step Up joins the pack with mechanical legs for Create Aeronautics builds, not craftable yet. Liquid hydrogen thruster fuel from TFMG steel vats, Chromeware 1.2.1 and several recipe fixes.
+Big cleanup: Easy NPC, FTB Quests, Biomancy and several decoration mods removed. New FPS mods, Copycat Casing, Heavy Water and Liquid Hydrogen textures.
