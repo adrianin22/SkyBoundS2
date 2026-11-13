@@ -1,0 +1,15 @@
+Added:
+- Copycat Casing (Skybound Extras): encase shafts and give them the look of any block.
+- Heavy Water.
+- Liquid Hydrogen has its own textures and bucket, and more thrust.
+- Chromatic Compound, Shadow Steel and Refined Radiance are craftable again.
+- Create Submarine floaters can be picked up with sneak and wrench.
+
+Removed:
+- Easy NPC. Station NPCs and their shops are gone.
+- FTB Quests. The quest book is gone.
+- Biomancy, Biofactory, Hemodynamics, Cluttered, Voxelized Furniture, Januszowo Clothes, Saros Road Signs, Display Delight, Droingo's Harpoons, Sticky Wheels, CC Graphics, Local Expanders, Create Blueprinted, AeroEngine, Sable Scale, Space Compat. Their blocks and items are gone from the world.
+
+Better FPS:
+- Added Vanillin, Create IceCream, GeckoLib Better FPS, PartiCull and Create Tick Control.
+- Removed Create FPS Optimizer, Create Better FPS, Saturn, Noisium, ZFastNoise, AI Improvements, SSRD, Irisveil and Colorwheel.
