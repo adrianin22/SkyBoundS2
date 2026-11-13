@@ -1,3 +1,55 @@
+# Skybound SMP Season 2, v2.65
+
+Added:
+- Copycat Casing (Skybound Extras): encase shafts and give them the look of any block.
+- Heavy Water.
+- Liquid Hydrogen has its own textures and bucket, and more thrust.
+- Chromatic Compound, Shadow Steel and Refined Radiance are craftable again.
+- Create Submarine floaters can be picked up with sneak and wrench.
+
+Removed:
+- Easy NPC. Station NPCs and their shops are gone.
+- FTB Quests. The quest book is gone.
+- Biomancy, Biofactory, Hemodynamics, Cluttered, Voxelized Furniture, Januszowo Clothes, Saros Road Signs, Display Delight, Droingo's Harpoons, Sticky Wheels, CC Graphics, Local Expanders, Create Blueprinted, AeroEngine, Sable Scale, Space Compat. Their blocks and items are gone from the world.
+
+Better FPS:
+- Added Vanillin, Create IceCream, GeckoLib Better FPS, PartiCull and Create Tick Control.
+- Removed Create FPS Optimizer, Create Better FPS, Saturn, Noisium, ZFastNoise, AI Improvements, SSRD, Irisveil and Colorwheel.
+
+
+# Skybound SMP Season 2, v2.64
+
+Added:
+- Create: Step Up, mechanical legs for Create Aeronautics builds. Its items are not craftable yet.
+- Liquid Hydrogen: freeze TFMG hydrogen in a steel vat with freezers and burn it in thrusters.
+- Steel vats can split water into hydrogen and oxygen, and freeze oxygen into thruster oxidizer.
+- High Skies gas cells now accept TFMG hydrogen.
+
+Fixes:
+- Fixed Quantum Tuner cooldowns (Chromeware).
+- Fixed cyber arms with TACZ guns (Chromeware).
+- Fixed some Create Food, Addictives and Create Teleporters recipes failing to load.
+- Fixed the undyed Industrial Cogwheel not being dyeable (Create: Dreams and Desires).
+- Some gameplay blocks that could not be broken can now be mined.
+
+Changes:
+- Chromeware updated to 1.2.1.
+- Sable Watch updated to 1.2.1.
+
+
+# Skybound SMP Season 2, v2.63
+
+Added:
+- Create: Loconautics, Create trains now run on Sable ships.
+
+Fixes:
+- Fixed Vista TVs crashing the game when playing a video (WaterMedia 3.0.1).
+- Video playback on Vista TVs loads in the background again with the new WaterMedia, no freeze when the first TV starts.
+- Fixed server stutter when Sable ships move near unloaded chunks.
+- Less server lag from Create: Tracks vehicles and Hose Pulleys.
+- Chat names and prefixes cost less server time.
+
+
 # Skybound SMP Season 2, v2.62
 
 Added:
@@ -296,37 +348,6 @@ Added:
 Fixes:
 - Fixed a crash when joining the server caused by JEI 19.64 and JEIOptimizer. JEI is back to 19.57.
 - Dyed levitite from Aeronautics Dyeable Components lifts ships again.
-
-
-# Skybound SMP Season 2, v2.41
-
-Added:
-- Create Aeronautics: Freeze Staff: right click a ship or contraption to freeze it in place, together with everything resting on it or roped to it, so it stops costing server performance while parked. Right click again to unfreeze. Crafted from blue ice, a precision mechanism and 3 gold ingots.
-- Create: Tilting Controls: tilting propeller and swivel bearings, gimbal propeller bearing, linked joystick, bidirectional throttle lever and more compact controls for Aeronautics builds.
-- Create: Autonavigation: the Navigation Workbench lets ships steer themselves without being tied to magnetite, works with Create Radar.
-- Create: Atomic: nuclear reactors and steam turbines for rotational power, uranium, plutonium and hazmat gear. Uranium ore only shows up in newly generated chunks.
-- Create: Teleporters, reserved for the server owner for now.
-
-Removed:
-- Immersive Portals.
-
-Changed:
-- Camera screen shake effects are back.
-- RCS Thrusters from Gadgets & Gizmos are back to their reduced power (140 per nozzle) and twice the backtank air use, this was lost in 2.38.
-- Hearth & Harvest 1.4.0: new crops and food (hops, keg, pizzas, pies and more). Cheddar cheese is now regular cheese, elote is now street corn and the grape trellis is now the crop trellis, existing items convert on their own.
-- Supplementaries 4.0.1: adds the Pinata.
-
-Fixes:
-- CBC Neo Warfare: rotary cannon bearings can be finished again by right clicking them with a shaft, and the nethersteel bearing now gives a nethersteel bearing instead of a steel one.
-
-Mod updates:
-- Aero Player Tilt 0.2.3, Aeroportals 1.3.4, AzureLib 3.1.19, Chunk Sending 4.1, Collective 8.47, Contraption Lights 1.5.4, Corpse Curios Compat 4.2.0, Create Central Kitchen 2.6.2b, Create Enchantment Industry 2.5.4b, DragonLib 3.0.29, Drive By Sable 2.0.2, Entity Culling 1.11.3, Framed Blocks 10.6.3, Gadgets & Gizmos 1.2.10, JEI 19.64.0, Kilagraph 21.1.0.16, Mekanism Ponders 1.0.4, ModernFix 5.27.26, Moonlight 3.7.2, Photon 2.2.8, Puzzles Lib 21.1.64, Server Warashi 2.1.1.4, Skyport 1.1.0, Starcatcher 3.3.8, Stellar Create Optimization 1.1.1fix, Streams Reflowing 2.15.0, TFMW CE 2.1.2, Veil 4.5.2, Sable Hose Connectors 0.2.2, XaeroPlus 2.36.6.
-
-
-# Skybound SMP Season 2, v2.40
-
-Fixes:
-- Fixed ships and other physics structures not showing up until a block was placed next to them, and their blocks not breaking or vanishing when right clicked.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
