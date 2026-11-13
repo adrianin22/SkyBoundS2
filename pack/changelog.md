@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.65
+
+Added:
+- Copycat Casing (Skybound Extras): encase shafts and give them the look of any block.
+- Heavy Water.
+- Liquid Hydrogen has its own textures and bucket, and more thrust.
+- Chromatic Compound, Shadow Steel and Refined Radiance are craftable again.
+- Create Submarine floaters can be picked up with sneak and wrench.
+
+Removed:
+- Easy NPC. Station NPCs and their shops are gone.
+- FTB Quests. The quest book is gone.
+- Biomancy, Biofactory, Hemodynamics, Cluttered, Voxelized Furniture, Januszowo Clothes, Saros Road Signs, Display Delight, Droingo's Harpoons, Sticky Wheels, CC Graphics, Local Expanders, Create Blueprinted, AeroEngine, Sable Scale, Space Compat. Their blocks and items are gone from the world.
+
+Better FPS:
+- Added Vanillin, Create IceCream, GeckoLib Better FPS, PartiCull and Create Tick Control.
+- Removed Create FPS Optimizer, Create Better FPS, Saturn, Noisium, ZFastNoise, AI Improvements, SSRD, Irisveil and Colorwheel.
+
+
 # Skybound SMP Season 2, v2.64
 
 Added:
@@ -285,50 +304,6 @@ Changes:
 
 Fixes:
 - Pilot seats can be used on trains and contraptions.
-
-
-# Skybound SMP Season 2, v2.44
-
-Changes:
-- RCS thrusters: max thrust lowered a lot, and shaft driven thrusters now draw stress from the network (16 SU per RPM).
-- Psi: max Psi and regeneration lowered, spells cost twice as much.
-- Decorative Levitite blocks now connect their textures.
-- Mirrors render at a shorter distance and lower resolution, for better FPS near them.
-
-Removed:
-- Create: Flight Control.
-- Aeronautics roller fix. Rollers in Tunnel Pave no longer replace the slabs on track slopes with full blocks.
-
-Fixes:
-- The Xaero minimap no longer hides while you type on a Tom's Peripherals keyboard.
-- Better FPS with girder struts on Fast graphics and while the world map updates.
-- The Psi guide book should show its entries again.
-- Watcher bat morph is animated now.
-- Psimetal Exosuit hidden from JEI (it cannot be crafted).
-
-
-# Skybound SMP Season 2, v2.43
-
-Added:
-- Psi: spell programming with CADs and Psimetal gear.
-- MmmMmmMmmMmm: target dummy that shows the damage of every hit.
-
-Removed:
-- Critters and Companions. Its animals, blocks and items are gone from the world.
-
-Fixes:
-- Create elevators and contraptions should no longer turn invisible.
-- Build dimension: the swivel joint part of your ship now counts as yours, you and your plot friends can use it off your plot.
-
-
-# Skybound SMP Season 2, v2.42
-
-Added:
-- 16 dyed Decorative Levitite: decorative levitite + any dye, no lift.
-
-Fixes:
-- Fixed a crash when joining the server caused by JEI 19.64 and JEIOptimizer. JEI is back to 19.57.
-- Dyed levitite from Aeronautics Dyeable Components lifts ships again.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
