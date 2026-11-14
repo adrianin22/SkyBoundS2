@@ -1,3 +1,9 @@
+# Skybound SMP Season 2, v2.67
+
+## Fixes
+- When Mojang's login servers fail, the disconnect screen now shows a short message instead of a whole web page, and always has a Back to Title Screen button.
+
+
 # Skybound SMP Season 2, v2.66
 
 ## Performance
