@@ -1,0 +1,15 @@
+## Performance
+- Gun animations from NTGL now only update for guns that are actually on screen, and leftover data from dead entities is cleaned up. Big FPS gain around many armed players and mobs.
+- Sandevistan no longer costs FPS while it is not active.
+- New toggle in Video Settings to switch the Create Ice Cream graphics preset between Performance and Balanced.
+- Fewer lighting updates from lights on moving contraptions.
+- Dynamic lights now use the fastest update mode.
+
+## Fixes
+- Copycat Casing no longer makes the blocks behind it disappear.
+
+## Changes
+- Liquid Hydrogen thrusters are stronger (thrust 2.3x to 3.0x), it now beats kerosene.
+- Standing in Liquid Hydrogen freezes you, faster than powder snow. Leather armour still protects you from the damage.
+- Heavy Water mixing now uses an iron nugget instead of an Ender Pearl.
+- Loconautics blocks and items now have dye colour tags.
