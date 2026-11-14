@@ -1,3 +1,3 @@
-Update 2.65
+Update 2.66
 
-Big cleanup: Easy NPC, FTB Quests, Biomancy and several decoration mods removed. New FPS mods, Copycat Casing, Heavy Water and Liquid Hydrogen textures.
+Big FPS fix for NTGL guns, fewer light updates, Copycat Casing fix, stronger and freezing Liquid Hydrogen, cheaper Heavy Water.
