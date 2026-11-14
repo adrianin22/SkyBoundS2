@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.66
+
+## Performance
+- Gun animations from NTGL now only update for guns that are actually on screen, and leftover data from dead entities is cleaned up. Big FPS gain around many armed players and mobs.
+- Sandevistan no longer costs FPS while it is not active.
+- New toggle in Video Settings to switch the Create Ice Cream graphics preset between Performance and Balanced.
+- Fewer lighting updates from lights on moving contraptions.
+- Dynamic lights now use the fastest update mode.
+
+## Fixes
+- Copycat Casing no longer makes the blocks behind it disappear.
+
+## Changes
+- Liquid Hydrogen thrusters are stronger (thrust 2.3x to 3.0x), it now beats kerosene.
+- Standing in Liquid Hydrogen freezes you, faster than powder snow. Leather armour still protects you from the damage.
+- Heavy Water mixing now uses an iron nugget instead of an Ender Pearl.
+- Loconautics blocks and items now have dye colour tags.
+
+
 # Skybound SMP Season 2, v2.65
 
 Added:
@@ -276,34 +295,6 @@ Fixed:
 Fixed:
 - The game failed to load after updating to 2.45. Forgified Fabric API is back to 0.116.15+2.3.5 (the 2.3.6 build needs a newer NeoForge).
 - Gravity Control no longer stops the game from loading (Lithium entity collision optimization turned off for it).
-
-
-# Skybound SMP Season 2, v2.45
-
-Added:
-- Create: Tramways.
-- Gravity Control.
-- Aero Dual Mount.
-- Create: Trackwright.
-- Create Aeronautics: Automated Logistics.
-- DashPanels: Extra.
-- Creative Tab Organizer.
-- Decorative Redstone Link: a block with the redstone link look, made from andesite casing and a redstone torch. It does not carry a signal.
-
-Removed:
-- Starcatcher and Starcatcher's Delight.
-- Skyport, replaced by Create Aeronautics: Automated Logistics.
-
-Changes:
-- 54 mods updated to their latest compatible versions (bug fixes and performance).
-- Mechanical Livestock: sheep machines can now drop raw mutton.
-- Freeze Staff: range raised to 128 blocks and a new recipe (packed ice and two sticks).
-- Drive by Sable: more sources allowed per ship.
-- Lodestone compasses work on ships again. Compasses no longer work in the Nether and the End, like vanilla.
-- RCS thrusters now show the same stress draw as the server (4 SU per RPM).
-
-Fixes:
-- Pilot seats can be used on trains and contraptions.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
