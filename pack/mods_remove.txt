@@ -1307,3 +1307,5 @@ kubejs/assets/cluttered/models/block/sycamore_wall_sign_skyfix.json
 mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar.disabled
 mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar.disabled
 mods/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar.disabled
+mods/skyboundclientpatches-1.16.0.jar
+mods/skyboundextras-1.11.0.jar
