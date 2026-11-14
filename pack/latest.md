@@ -1,3 +1,3 @@
-Update 2.66
+Update 2.67
 
-Big FPS fix for NTGL guns, fewer light updates, Copycat Casing fix, stronger and freezing Liquid Hydrogen, cheaper Heavy Water.
+The disconnect screen now shows a short message when Mojang's login servers fail, and always has a Back to Title Screen button.
