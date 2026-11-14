@@ -14,7 +14,7 @@ mods/Create Encased-1.21.1-1.10.0-fix1.jar	3383308	c37f6a614621b2c37e5fb1d78f07f
 mods/CreateAeroFreight-1.0.1.jar	3230111	a7ad7ed08d134b2bbc8265eb237b5ce813d0fdf1	https://edge.forgecdn.net/files/9430/777/CreateAeroFreight-1.0.1.jar
 mods/CreateDragonsPlus-1.11.9.jar	1085674	67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb	https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar
 mods/CreateLazyTick-2.7.33-6.0.10-neoforge-1.21.1.jar	498553	ec39746f7bf8bc8f19237c319783ff0fdca2e77e	https://cdn.modrinth.com/data/Z0d7hFh4/versions/CsnU8RQG/CreateLazyTick-2.7.33-6.0.10-neoforge-1.21.1.jar
-mods/Design-n-Decor-1.21.1-2.2b.jar	6329899	ff5f0411a3d82e15d69b65617128f6d54e818e1b	https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar
+mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar	1894517	5cd4817442ae95f886a2d31534166e9883ed4bb2	https://cdn.modrinth.com/data/Jdbbtt0i/versions/kVi3TESX/CreateNumismatics-1.1.0%2Bneoforge-mc1.21.1.jar
 mods/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar	28224156	d18b0829416ec6948102524b6e913e5bc73ae402	https://cdn.modrinth.com/data/uCdwusMi/versions/Ez3cx7Yd/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar
 mods/ElysiumAPI-1.21.1-2.0.1.jar	307526	01754addbc1d0607d81fcd37e0605138bec4ceaf	https://cdn.modrinth.com/data/6YTvv3aI/versions/d2JaQ362/ElysiumAPI-1.21.1-2.0.1.jar
 mods/FastFurnace-1.21.1-9.0.1.jar	4622	cb77b3bc40bb598cfc50773d491c9e1af06d3833	https://cdn.modrinth.com/data/9X0318ev/versions/pqj92Yco/FastFurnace-1.21.1-9.0.1.jar
@@ -37,10 +37,12 @@ mods/MossyLib-1.6.0+1.21.1+neoforge.jar	179468	330e8f3889516d53229ccd464f8d572a8
 mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar	73938	6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc	https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar
 mods/Necronomicon-NeoForge-1.6.0+1.21.jar	29865	4d81055810e07a94b68d16ab20ec298ad0d597a0	https://cdn.modrinth.com/data/P1Kv5EAO/versions/4iO8Tbfj/Necronomicon-NeoForge-1.6.0%2B1.21.jar
 mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar	23830	e0c36cd85d3d31cc2afb1bfc6b885f505245252f	https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar
+mods/OctoLib-NEOFORGE-0.6.2+1.21.jar	544378	f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad	https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar
 mods/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar	78482	a9dea4b9ef893fc955512ff2dee75c9c82e09a52	https://cdn.modrinth.com/data/XD7XOrAF/versions/PYRrjTaY/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar
 mods/PartiCull-neoforge-1.21.1-v2.2.jar	144417	ad0b537a724e6b7660b8ceed30ad0aaa292cc22a	https://cdn.modrinth.com/data/lXsuozds/versions/tFZ8CpaR/PartiCull-neoforge-1.21.1-v2.2.jar
 mods/Patchouli-1.21.1-93-NEOFORGE.jar	646777	5413bb9b8fc35ebe46b06b48bf9afafbd8471140	https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar
 mods/Placebo-1.21.1-9.9.4.jar	326063	007d52a42020a331d5272495f6d676e0ad1a2c13	https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4.jar
+mods/Platform-neoforge-1.21.1-1.4.2.jar	550771	38947983b65b08bffdcbbc347949a7bc5c6426e1	https://cdn.modrinth.com/data/i6fiqm5y/versions/rh4p4ixM/Platform-neoforge-1.21.1-1.4.2.jar
 mods/Psi-neoforge-1.21.1-110.jar	2553645	f4be150631efd276e780b7cc693a71d565ce3e21	https://cdn.modrinth.com/data/pOeA0exL/versions/j9TFdTKC/Psi-neoforge-1.21.1-110.jar
 mods/Quark-4.1-488.jar	15614268	db882304edf822719b6f582b30a25c04b7f94889	https://cdn.modrinth.com/data/qnQsVE2z/versions/pMjjsBGF/Quark-4.1-488.jar
 mods/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar	83035	42dddb70cc645a864596439ea95bd56e7a5561ed	https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar
@@ -93,7 +95,6 @@ mods/cable_facades-1.21.1-NeoForge-2.1.4.jar	285434	ab793d3c2dbb5a492f2bee15d75f
 mods/cbc_compact_mount-1.2.2.jar	641185	636f26509f919a8520c1d9a2ac3f536354684b7e	https://cdn.modrinth.com/data/rjti7mm0/versions/1ttsIjdZ/cbc_compact_mount-1.2.2.jar
 mods/cbc_going_ballistic-0.3.2.jar	214400	0d5e33b634a10a66715e4426257d5964e6f3aec6	https://cdn.modrinth.com/data/xxaCKdq3/versions/D0eUHVAH/cbc_going_ballistic-0.3.2.jar
 mods/cc-cbc-v1.1.1-1.21.1-neoforge.jar	32014	06d6a1bac3b78c4a1ec975ec74acebe877e3a270	https://cdn.modrinth.com/data/zA9Klldw/versions/naLCoIB4/cc-cbc-v1.1.1-1.21.1-neoforge.jar
-mods/cc-tweaked-1.21.1-forge-1.120.2.jar	3126327	f35d4f636c2eb1b30c5d3f5c08e110c6acb8e02f	https://cdn.modrinth.com/data/gu7yAYhd/versions/1ewzHZYg/cc-tweaked-1.21.1-forge-1.120.2.jar
 mods/cc_cbc_compact_mount-1.21.1-1.0.0.jar	38184	9f37ea65a61587d25feec984159bc80bd4f0ae6f	https://cdn.modrinth.com/data/iFuSMaVW/versions/gpq9v0iU/cc_cbc_compact_mount-1.21.1-1.0.0.jar
 mods/cc_sable-neoforge-1.3.4.jar	43338	cdc65c3a991519fb96a72904a02a5a16145431fa	https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar
 mods/cccbridge-mc1.21.1-v1.7.3-neoforge.jar	490733	2f0df007d6ed849266a505f0854ab07f55a58b41	https://cdn.modrinth.com/data/fXt291FO/versions/MKK6cYI5/cccbridge-mc1.21.1-v1.7.3-neoforge.jar
@@ -109,6 +110,7 @@ mods/clayworks-1.21.1-4.0.3.jar	1436093	e57792898117777a09b04cb29bbceb2d88fbc7f6
 mods/climbable_ropes-2.2.0.jar	103098	a28fcd4441c4a78db98479e8010559ce7f210660	https://cdn.modrinth.com/data/jImqv1M5/versions/TTGedLb3/climbable_ropes-2.2.0.jar
 mods/cloth-config-15.0.140-neoforge.jar	1163890	c3e5733ba4503b102589a026000fd5ce0212f6f2	https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar
 mods/collective-1.21.1-8.82.jar	1478094	f9bf167b43dea065b892edf83d79eb9caf4d15bd	https://cdn.modrinth.com/data/e0M1UDsY/versions/hGykhNgy/collective-1.21.1-8.82.jar
+mods/compactflap-neoforge-1.21.1-1.0.4.1.jar	145237	0018b99ee0a82e066d1acad4de389aae2426b812	https://cdn.modrinth.com/data/Rsk2MfzV/versions/OLen1ZcN/compactflap-neoforge-1.21.1-1.0.4.1.jar
 mods/compactgearbox-1.0.2.jar	164789	c2c3b4cee586876b12356a8d8ac42cd44cda9edc	https://edge.forgecdn.net/files/8026/557/compactgearbox-1.0.2.jar
 mods/configurable-3.5.3+1.21.1-neoforge.jar	159048	694e68c671dacf418c8ed7ab543f62c80fdd0f95	https://cdn.modrinth.com/data/lGffrQ3O/versions/lycKbfGw/configurable-3.5.3%2B1.21.1-neoforge.jar
 mods/connectivity-1.21.1-7.7.jar	115891	b4900c9a46123e2c7d6bfd653abbced92aab560b	https://edge.forgecdn.net/files/9008/904/connectivity-1.21.1-7.7.jar
@@ -264,6 +266,7 @@ mods/ldlib2-neoforge-1.21.1-2.2.45-all.jar	8010944	a26acbb03a1e640a9acf6c10abdb0
 mods/leaky-1.21-3.8.jar	40514	6585c141043a3420fce97da841179fe8faeed53d	https://edge.forgecdn.net/files/9408/843/leaky-1.21-3.8.jar
 mods/legendary_monsters-2.2.4 MC 1.21.1.jar	44757511	85778d7f4b7c1546279be9374be3b71b47e2c47d	https://cdn.modrinth.com/data/9d9Bkqva/versions/zkH9rSlF/legendary_monsters-2.2.4%20MC%201.21.1.jar
 mods/lever-drugster-1.8.8.jar	477209	5a523e3966260bc85b3e4e0b3af966d0019126cb	https://cdn.modrinth.com/data/GQNtImhh/versions/epR68IoB/lever-drugster-1.8.8.jar
+mods/lightspeed-1.21.1-2.0.5+hotfix.jar	654826	b3c0db5c6c01a443166d9c69004f650005606c43	https://cdn.modrinth.com/data/niZHUKxZ/versions/3lDR3Cp2/lightspeed-1.21.1-2.0.5%2Bhotfix.jar
 mods/lithium-neoforge-0.15.4+mc1.21.1.jar	774220	97212e45c963730bbfc7c44780df99317814c21b	https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar
 mods/lithosphere-1.8.2.jar	984074	1a81d09d9ab376f80b77619a8ed7d2439cc3890d	https://cdn.modrinth.com/data/iv9jp2k9/versions/aatZx6pq/lithosphere-1.8.2.jar
 mods/lithostitched-1.8.1-neoforge-21.1.jar	1023751	88cdded5b617e19b4d2676948b5550699de23578	https://cdn.modrinth.com/data/XaDC71GB/versions/cZu4cHY3/lithostitched-1.8.1-neoforge-21.1.jar
@@ -294,6 +297,7 @@ mods/moretraffic-0.2.7-beta.jar	756180	3735bf769d370d9f8b0fcc540ada1eaaf9b0ac37	
 mods/morewheels-1.0.1+mc1.21.1.jar	562474	0e072e2bfeb4c355e7848073ebc23d9edf8ad742	https://edge.forgecdn.net/files/8618/118/morewheels-1.0.1%2bmc1.21.1.jar
 mods/mru-1.0.41+1.21.1-neoforge.jar	151764	c06ebac32fb438a1efc705a9d367c425cc86fa18	https://cdn.modrinth.com/data/SNVQ2c0g/versions/Kpai1paZ/mru-1.0.41%2B1.21.1-neoforge.jar
 mods/neruina-3.3.5+1.21.1-neoforge.jar	852856	f8556c45619b21b95741f340b0eaea48f26b4a6b	https://cdn.modrinth.com/data/1s5x833P/versions/zGwTcpmb/neruina-3.3.5%2B1.21.1-neoforge.jar
+mods/netprodis-2.0.0+1.21.jar	24425	b15cc021804ca7407bbf5c9821ecf0f10e80e694	https://cdn.modrinth.com/data/XFlUmiDF/versions/lfDECel8/netprodis-2.0.0%2B1.21.jar
 mods/nodupefix-2.0.0.jar	6181	6d6ba50c0d64b550ecf4e2efe0fc8e9bae54b029	https://cdn.modrinth.com/data/YAINbE5q/versions/vtFEjzCw/nodupefix-2.0.0.jar
 mods/nowheel-2.1.1+1.21.1neoforge.jar	86568	83c6885a3e980ffbd458e89b6e5bcceb410e6840	https://cdn.modrinth.com/data/c47YxuuI/versions/3NKOvEei/nowheel-2.1.1%2B1.21.1neoforge.jar
 mods/ntgl-1.21.1-3.2.0.jar	3965533	706a7b91a8f46c4773d01f7a0137b6aaf271e33b	https://cdn.modrinth.com/data/5m2kV8xK/versions/zd7xJnqO/ntgl-1.21.1-3.2.0.jar
@@ -343,6 +347,7 @@ mods/shipglue-neoforge-1.21.1-1.8.0.jar	101744	5cda5f5a93c590890f6db713bad9a224f
 mods/showcaseitem-1.21.1-1.1.0.jar	19759	3c002b0da441a752c83a2282730a1ce597a4018f	https://cdn.modrinth.com/data/P5Jjjezm/versions/AD6eBCKn/showcaseitem-1.21.1-1.1.0.jar
 mods/simplylight-1.5.3+1.21.1-b4.jar	1103352	d85bfed3824cb66d258acf11c73edaf11d583223	https://edge.forgecdn.net/files/6219/29/simplylight-1.5.3%2b1.21.1-b4.jar
 mods/simplyswords-neoforge-1.70.2-1.21.1.jar	16282660	05b074ff774467f1fe9fb5592151b7845c321cbc	https://cdn.modrinth.com/data/bK3Ubu9p/versions/nS0Yahr5/simplyswords-neoforge-1.70.2-1.21.1.jar
+mods/simulatedrubies-1.4.0.jar	995729	20209a024745f9a3afdc55b30fc7974d32a81892	https://cdn.modrinth.com/data/Iz5e707B/versions/JvjU0oxG/simulatedrubies-1.4.0.jar
 mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar	1905514	d4864fac231ff3d360e08a82f06553c3f76de8a6	https://cdn.modrinth.com/data/zV5r3pPn/versions/GJTnQGfe/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar
 mods/sliceanddice-4.3.4-neoforge.jar	1356389	bfcb12d13465caf6743f200fbd755b72705011e4	https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar
 mods/smart_bounds-1.0.0.jar	749901	9d271d70b1d2870d5c232e71e2923abaac3a6767	https://cdn.modrinth.com/data/kSok4DxT/versions/HXviiJ3I/smart_bounds-1.0.0.jar
@@ -369,7 +374,6 @@ mods/terrain_slabs-neoforge-3.1.2.jar	371794	e29950d38f3eef292ba22c7bfa86c6dae11
 mods/tfmg-1.21.1-1.3.3-community.jar	5626756	2428d224db5773137136dafd79630e59a3aeee22	https://cdn.modrinth.com/data/hC1xYvnS/versions/IyTTw6bJ/tfmg-1.21.1-1.3.3-community.jar
 mods/tfmgjs-1.21.1-1.2.3.jar	263426	9a8448eb70cd6be3437ab1b0c70c4a2739aa8ab4	https://cdn.modrinth.com/data/HXlL9LeK/versions/6ulb7rH1/tfmgjs-1.21.1-1.2.3.jar
 mods/tinygates-1.21.1-5.0.2.jar	181813	93754571449d9f5d0d5ea8e1db78b9add836413c	https://cdn.modrinth.com/data/vsk0qTRw/versions/DAfDNSps/tinygates-1.21.1-5.0.2.jar
-mods/tinyredstone-1.21.1-6.1.6.jar	427124	c78ec4ce697f97eccee41643030a239410965a3f	https://cdn.modrinth.com/data/ThvCqQMh/versions/WMiFY8q7/tinyredstone-1.21.1-6.1.6.jar
 mods/toms-peripherals-1.21-1.3.1.jar	1339642	74e0809ac00a53f66a5265a112271bd2b002f13f	https://cdn.modrinth.com/data/ljgxd2P8/versions/y8svVJBV/toms-peripherals-1.21-1.3.1.jar
 mods/tracks_plus-1.0.6b7.jar	613537	a1df1c19211ce8288e241dc8c3f9167694b20a8f	https://cdn.modrinth.com/data/E8eHF2Yl/versions/qUDRhHla/tracks_plus-1.0.6b7.jar
 mods/trafficcraft-neoforge-1.21.1-beta-1.2.0+4.jar	4854261	ca030ff65d70aa66ea9e35f3dade9100a776e6c6	https://cdn.modrinth.com/data/Y1PXWvWn/versions/ddJimXLT/trafficcraft-neoforge-1.21.1-beta-1.2.0%2B4.jar
