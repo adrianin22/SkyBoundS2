@@ -1,0 +1,3 @@
+Fixes:
+- Fixed a crash on startup (KubeJS TFMG).
+- LittleTiles rolled back to the previous build, the newer one crashed the server.
