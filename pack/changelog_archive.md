@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v2.69
+
+Fixes:
+- Fixed a crash on startup (KubeJS TFMG).
+- LittleTiles rolled back to the previous build, the newer one crashed the server.
+
+
 # Skybound SMP Season 2, v2.68
 
 Added:
@@ -299,42 +306,6 @@ Fixed:
 - The Hollowgear Signal Flare bonus is applied once instead of twice.
 - Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
 - /sables delete and /sables confirm accept the ship name as well as its number.
-
-
-# Skybound SMP Season 2, v2.49
-
-Added:
-- Visual Creative Tab Editor.
-
-Removed:
-- Vanilla Backport spears. They can no longer be crafted or used.
-- More Wheels tractor tires. They can no longer be crafted, placed or used.
-
-Changes:
-- Create: Lanterns updated to Alpha 20.7.
-- The Vanilla Backport locator bar is turned off.
-
-Fixed:
-- Modules on DashPanels: Extra panels can be removed with the wrench again.
-
-
-# Skybound SMP Season 2, v2.48
-
-Removed:
-- NextSpace. Its items and blocks are gone.
-
-
-# Skybound SMP Season 2, v2.47
-
-Fixed:
-- The game crashed when joining the server after 2.45. Creative Tab Organizer is removed, it is not compatible with our JEI version.
-
-
-# Skybound SMP Season 2, v2.46
-
-Fixed:
-- The game failed to load after updating to 2.45. Forgified Fabric API is back to 0.116.15+2.3.5 (the 2.3.6 build needs a newer NeoForge).
-- Gravity Control no longer stops the game from loading (Lithium entity collision optimization turned off for it).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
