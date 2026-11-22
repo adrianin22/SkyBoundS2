@@ -1,0 +1,15 @@
+Fixes:
+- Fixed a crash on AMD graphics when the new clouds load.
+- Train tracks no longer turn invisible.
+- Let It Walk and Walker Pistons items show in JEI again.
+- JEI now uses the pack's settings on new installs.
+
+Changes:
+- APHE and Canister medium cannon cartridges can now be made.
+- HE and APHE rockets are now crafted with packed gunpowder.
+- APDS autocannon rounds can no longer be crafted.
+- Cerisene can no longer be refined into oil products, napalm or biodiesel.
+- Clouds now sit higher, at Y 300.
+- Title screen shows the vanilla panorama and Minecraft logo again.
+- Audio dependencies for radios install automatically.
+- Contract Board rewards lowered, global contracts need much more.
