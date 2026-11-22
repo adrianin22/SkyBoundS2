@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.70
+
+Fixes:
+- Fixed a crash on AMD graphics when the new clouds load.
+- Train tracks no longer turn invisible.
+- Let It Walk and Walker Pistons items show in JEI again.
+- JEI now uses the pack's settings on new installs.
+
+Changes:
+- APHE and Canister medium cannon cartridges can now be made.
+- HE and APHE rockets are now crafted with packed gunpowder.
+- APDS autocannon rounds can no longer be crafted.
+- Cerisene can no longer be refined into oil products, napalm or biodiesel.
+- Clouds now sit higher, at Y 300.
+- Title screen shows the vanilla panorama and Minecraft logo again.
+- Audio dependencies for radios install automatically.
+- Contract Board rewards lowered, global contracts need much more.
+
+
 # Skybound SMP Season 2, v2.69
 
 Fixes:
@@ -270,26 +289,6 @@ Removed:
 
 Fixed:
 - The game crashed on startup after the 2.51 update.
-
-
-# Skybound SMP Season 2, v2.51
-
-Added:
-- Optimized Block Entities (client, faster chests, signs and other block entities).
-- Sound Culling (client, fewer overlapping sounds near farms and machines).
-- KeybindsGalore (choose which action runs when two keybinds share a key).
-
-Removed:
-- Diagonal Fences and Diagonal Windows (lower RAM use and faster loading). Fences and panes already placed stay where they are.
-- Quark wooden posts (lower RAM use and faster loading).
-
-Changes:
-- Lower client memory use: bundled mods are loaded as separate files, and memory is freed a couple of minutes after joining.
-- Psi Add Motion, Mass Add Motion and Mass Exodus tricks are disabled.
-- The pack updater was improved.
-
-Fixed:
-- The Cogling pet no longer makes a constant gear ticking sound.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
