@@ -226,6 +226,7 @@ mods/entityculling-neoforge-1.12.1-mc1.21.1.jar	1523607	75671869d5991e7fbeed77f0
 mods/entityjs-1.5.2.jar	3622962	a074823b0e207fd0aeff04d2b90055a023e22f94	https://cdn.modrinth.com/data/OvPZ16yX/versions/RGmpSVAm/entityjs-1.5.2.jar
 mods/estrogen-6.0.12+1.21.1-neoforge.jar	30232983	2715e85625bdabf45515ff3ed21b675dd8ccd7a8	https://cdn.modrinth.com/data/HhIJW8n1/versions/KOQ45V1T/estrogen-6.0.12%2B1.21.1-neoforge.jar
 mods/fancymenu_neoforge_3.10.0_MC_1.21.1.jar	36346978	28e99ab7458e3782d29e6e85120a3d9de3c2f93c	https://cdn.modrinth.com/data/Wq5SjeWM/versions/W8E2q1iT/fancymenu_neoforge_3.10.0_MC_1.21.1.jar
+mods/farmingforblockheads-neoforge-1.21.1-21.1.14.jar	895570	82f5f635cc73610d34a493ec067e28cd4659cbbb	https://cdn.modrinth.com/data/4WJZr8JU/versions/ljWZyuzV/farmingforblockheads-neoforge-1.21.1-21.1.14.jar
 mods/fastasyncworldsave-1.21-2.6.jar	11050	87e019715314631f2c8288cf7c73a52a61b2d61b	https://edge.forgecdn.net/files/6935/204/fastasyncworldsave-1.21-2.6.jar
 mods/fastpaintings-1.21-1.3.1-neoforge.jar	155814	5cfc24c9b079a624bee0e008ba3cfd10de365412	https://cdn.modrinth.com/data/z3TzcquW/versions/rmMrheaC/fastpaintings-1.21-1.3.1-neoforge.jar
 mods/ferritecore-7.0.3-neoforge.jar	121559	9563692efb708b6b568df27a01ec52f6311928ef	https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar
@@ -390,7 +391,6 @@ mods/supplementaries-1.21.1-4.1.4-neoforge.jar	13944698	61932662ec2d95634a768554
 mods/talking-heads-1.1.4+1.21.1+neoforge.jar	281941	3461d18f3d73878e1bcb44dd8a3b5e45ec1cff07	https://cdn.modrinth.com/data/Os35nfkh/versions/oneqXTGJ/talking-heads-1.1.4%2B1.21.1%2Bneoforge.jar
 mods/terrain_slabs-neoforge-3.1.2.jar	371794	e29950d38f3eef292ba22c7bfa86c6dae11395df	https://cdn.modrinth.com/data/SJu6sklj/versions/1dYKrrP8/terrain_slabs-neoforge-3.1.2.jar
 mods/tfmg-1.21.1-1.3.3a-community.jar	5631220	05869fc36732f40c1a23770208b0b7cb649373a6	https://cdn.modrinth.com/data/hC1xYvnS/versions/o8aSx7yp/tfmg-1.21.1-1.3.3a-community.jar
-mods/tfmgjs-1.21.1-1.2.3.jar	263426	9a8448eb70cd6be3437ab1b0c70c4a2739aa8ab4	https://cdn.modrinth.com/data/HXlL9LeK/versions/6ulb7rH1/tfmgjs-1.21.1-1.2.3.jar
 mods/tinygates-1.21.1-5.0.2.jar	181813	93754571449d9f5d0d5ea8e1db78b9add836413c	https://cdn.modrinth.com/data/vsk0qTRw/versions/DAfDNSps/tinygates-1.21.1-5.0.2.jar
 mods/tinyredstone-1.21.1-6.1.6.jar	427124	c78ec4ce697f97eccee41643030a239410965a3f	https://cdn.modrinth.com/data/ThvCqQMh/versions/WMiFY8q7/tinyredstone-1.21.1-6.1.6.jar
 mods/toms-peripherals-1.21-1.3.1.jar	1339642	74e0809ac00a53f66a5265a112271bd2b002f13f	https://cdn.modrinth.com/data/ljgxd2P8/versions/y8svVJBV/toms-peripherals-1.21-1.3.1.jar
