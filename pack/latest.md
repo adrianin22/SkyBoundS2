@@ -1,3 +1,3 @@
-Update 2.69
+Update 2.70
 
-Hotfix, fixes a crash on startup.
+Fixes for AMD clouds, invisible tracks and JEI, cannon recipe changes, lower contract rewards.
