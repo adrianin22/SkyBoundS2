@@ -1,3 +1,22 @@
+# Skybound SMP Season 2, v2.70
+
+Fixes:
+- Fixed a crash on AMD graphics when the new clouds load.
+- Train tracks no longer turn invisible.
+- Let It Walk and Walker Pistons items show in JEI again.
+- JEI now uses the pack's settings on new installs.
+
+Changes:
+- APHE and Canister medium cannon cartridges can now be made.
+- HE and APHE rockets are now crafted with packed gunpowder.
+- APDS autocannon rounds can no longer be crafted.
+- Cerisene can no longer be refined into oil products, napalm or biodiesel.
+- Clouds now sit higher, at Y 300.
+- Title screen shows the vanilla panorama and Minecraft logo again.
+- Audio dependencies for radios install automatically.
+- Contract Board rewards lowered, global contracts need much more.
+
+
 # Skybound SMP Season 2, v2.69
 
 Fixes:
@@ -290,22 +309,6 @@ Changes:
 
 Fixed:
 - The Cogling pet no longer makes a constant gear ticking sound.
-
-
-# Skybound SMP Season 2, v2.50
-
-Added:
-- Calcite can now be selected in the mechanical cobblestone generator.
-
-Fixed:
-- Client crash near Create fluid tanks (Stellar Create Optimization).
-- The Hollow Waltz music disc now plays in jukeboxes.
-- The Dual Wheel Mount drops itself when mined.
-- Halloween cosmetics no longer cause server errors and crashes.
-- Harvest Album trophies are recorded as soon as you pick them up, so displaying a trophy before using the album no longer loses it.
-- The Hollowgear Signal Flare bonus is applied once instead of twice.
-- Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
-- /sables delete and /sables confirm accept the ship name as well as its number.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
