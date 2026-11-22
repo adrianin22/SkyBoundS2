@@ -1312,7 +1312,6 @@ mods/Create Encased-1.21.1-1.10.0-fix1.jar
 mods/CreateAeroFreight-1.0.1.jar
 mods/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar
 mods/Kerria-1.3.2+1.21.1-neoforge.jar
-mods/LittleTiles_BETA_v1.6.0-pre237_mc1.21.1.jar
 mods/MossyLib-1.6.0+1.21.1+neoforge.jar
 mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar
 mods/OctoLib-NEOFORGE-0.6.2+1.21.jar
@@ -1529,3 +1528,5 @@ kubejs/exported/tags/moonlight/soft_fluids.txt
 kubejs/server_scripts/skybound_185_roboleg_lock.js
 config/cbc_going_ballistic-common.toml
 mods/cbc_going_ballistic-0.3.3.jar
+mods/LittleTiles_BETA_v1.6.0-pre240_mc1.21.1.jar
+mods/tfmgjs-1.21.1-1.2.3.jar
