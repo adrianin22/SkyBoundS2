@@ -1,3 +1,43 @@
+# Skybound SMP Season 2, v2.68
+
+Added:
+- Create: Engine Engineer (build your own engines).
+- Contract Board, daily personal, global and team delivery contracts that pay spurs.
+- Command menu, open /commands for a clickable menu of every command you can use.
+- Invisible Block, a solid block you cannot see, for builds.
+- Willow and flowering willow wood sets.
+- Create Offroad: Narrow Roads (compact wheel mounts for small cars), credits to Novi1i.
+- Create: Skys (3D clouds and local storms).
+- Create: Oxidation (Create copper machinery now oxidizes, can be waxed and scraped).
+- Living Wind, LittleTiles Create compat, Walker Pistons, Create Airspace, Deco Illuminated.
+- Pantographs and Wires (with Spanish cantilevers), Linear Engineering, Infinite Railways.
+- Giant Cogwheels, Create Lighting, World Wide Power Grid, Schematic Folders (client).
+- Lift n Load is back.
+- Let It Walk is back with Skybound recipes.
+- New pets.
+- pctype API on every computer: pctype.get() returns "tablet", "pocket", "turtle" or "computer".
+
+Removed:
+- Create: Step Up, replaced by Let It Walk. Its blocks and items are gone from the world.
+
+Fixes:
+- Performance and bug fixes for Sable ships, MALAHIT, Tracks+ and CBC Modern Warfare recipes.
+- Fixed collisions with distant contraptions.
+- Going Ballistic rolled back to 0.3.1, shells fly like before.
+- Removed old unused textures and files, smaller download.
+
+Changes:
+- Loconautics updated to 0.1.3 (train performance fixes), experimental features enabled (boilers, diesel, industrial fluids, screw link, handbrake).
+- 60+ mods updated.
+- Recipe and JEI cleanups.
+
+
+# Skybound SMP Season 2, v2.67
+
+## Fixes
+- When Mojang's login servers fail, the disconnect screen now shows a short message instead of a whole web page, and always has a Back to Title Screen button.
+
+
 # Skybound SMP Season 2, v2.66
 
 ## Performance
@@ -295,34 +335,6 @@ Fixed:
 Fixed:
 - The game failed to load after updating to 2.45. Forgified Fabric API is back to 0.116.15+2.3.5 (the 2.3.6 build needs a newer NeoForge).
 - Gravity Control no longer stops the game from loading (Lithium entity collision optimization turned off for it).
-
-
-# Skybound SMP Season 2, v2.45
-
-Added:
-- Create: Tramways.
-- Gravity Control.
-- Aero Dual Mount.
-- Create: Trackwright.
-- Create Aeronautics: Automated Logistics.
-- DashPanels: Extra.
-- Creative Tab Organizer.
-- Decorative Redstone Link: a block with the redstone link look, made from andesite casing and a redstone torch. It does not carry a signal.
-
-Removed:
-- Starcatcher and Starcatcher's Delight.
-- Skyport, replaced by Create Aeronautics: Automated Logistics.
-
-Changes:
-- 54 mods updated to their latest compatible versions (bug fixes and performance).
-- Mechanical Livestock: sheep machines can now drop raw mutton.
-- Freeze Staff: range raised to 128 blocks and a new recipe (packed ice and two sticks).
-- Drive by Sable: more sources allowed per ship.
-- Lodestone compasses work on ships again. Compasses no longer work in the Nether and the End, like vanilla.
-- RCS thrusters now show the same stress draw as the server (4 SU per RPM).
-
-Fixes:
-- Pilot seats can be used on trains and contraptions.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
