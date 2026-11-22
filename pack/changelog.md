@@ -1,3 +1,10 @@
+# Skybound SMP Season 2, v2.69
+
+Fixes:
+- Fixed a crash on startup (KubeJS TFMG).
+- LittleTiles rolled back to the previous build, the newer one crashed the server.
+
+
 # Skybound SMP Season 2, v2.68
 
 Added:
@@ -283,22 +290,6 @@ Changes:
 
 Fixed:
 - The Cogling pet no longer makes a constant gear ticking sound.
-
-
-# Skybound SMP Season 2, v2.50
-
-Added:
-- Calcite can now be selected in the mechanical cobblestone generator.
-
-Fixed:
-- Client crash near Create fluid tanks (Stellar Create Optimization).
-- The Hollow Waltz music disc now plays in jukeboxes.
-- The Dual Wheel Mount drops itself when mined.
-- Halloween cosmetics no longer cause server errors and crashes.
-- Harvest Album trophies are recorded as soon as you pick them up, so displaying a trophy before using the album no longer loses it.
-- The Hollowgear Signal Flare bonus is applied once instead of twice.
-- Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
-- /sables delete and /sables confirm accept the ship name as well as its number.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
