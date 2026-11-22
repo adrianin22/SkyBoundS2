@@ -1,3 +1,37 @@
+# Skybound SMP Season 2, v2.68
+
+Added:
+- Create: Engine Engineer (build your own engines).
+- Contract Board, daily personal, global and team delivery contracts that pay spurs.
+- Command menu, open /commands for a clickable menu of every command you can use.
+- Invisible Block, a solid block you cannot see, for builds.
+- Willow and flowering willow wood sets.
+- Create Offroad: Narrow Roads (compact wheel mounts for small cars), credits to Novi1i.
+- Create: Skys (3D clouds and local storms).
+- Create: Oxidation (Create copper machinery now oxidizes, can be waxed and scraped).
+- Living Wind, LittleTiles Create compat, Walker Pistons, Create Airspace, Deco Illuminated.
+- Pantographs and Wires (with Spanish cantilevers), Linear Engineering, Infinite Railways.
+- Giant Cogwheels, Create Lighting, World Wide Power Grid, Schematic Folders (client).
+- Lift n Load is back.
+- Let It Walk is back with Skybound recipes.
+- New pets.
+- pctype API on every computer: pctype.get() returns "tablet", "pocket", "turtle" or "computer".
+
+Removed:
+- Create: Step Up, replaced by Let It Walk. Its blocks and items are gone from the world.
+
+Fixes:
+- Performance and bug fixes for Sable ships, MALAHIT, Tracks+ and CBC Modern Warfare recipes.
+- Fixed collisions with distant contraptions.
+- Going Ballistic rolled back to 0.3.1, shells fly like before.
+- Removed old unused textures and files, smaller download.
+
+Changes:
+- Loconautics updated to 0.1.3 (train performance fixes), experimental features enabled (boilers, diesel, industrial fluids, screw link, handbrake).
+- 60+ mods updated.
+- Recipe and JEI cleanups.
+
+
 # Skybound SMP Season 2, v2.67
 
 ## Fixes
@@ -265,42 +299,6 @@ Fixed:
 - The Hollowgear Signal Flare bonus is applied once instead of twice.
 - Create machines next to claims no longer show "A claim blocked that Create operation" for linked controllers.
 - /sables delete and /sables confirm accept the ship name as well as its number.
-
-
-# Skybound SMP Season 2, v2.49
-
-Added:
-- Visual Creative Tab Editor.
-
-Removed:
-- Vanilla Backport spears. They can no longer be crafted or used.
-- More Wheels tractor tires. They can no longer be crafted, placed or used.
-
-Changes:
-- Create: Lanterns updated to Alpha 20.7.
-- The Vanilla Backport locator bar is turned off.
-
-Fixed:
-- Modules on DashPanels: Extra panels can be removed with the wrench again.
-
-
-# Skybound SMP Season 2, v2.48
-
-Removed:
-- NextSpace. Its items and blocks are gone.
-
-
-# Skybound SMP Season 2, v2.47
-
-Fixed:
-- The game crashed when joining the server after 2.45. Creative Tab Organizer is removed, it is not compatible with our JEI version.
-
-
-# Skybound SMP Season 2, v2.46
-
-Fixed:
-- The game failed to load after updating to 2.45. Forgified Fabric API is back to 0.116.15+2.3.5 (the 2.3.6 build needs a newer NeoForge).
-- Gravity Control no longer stops the game from loading (Lithium entity collision optimization turned off for it).
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
