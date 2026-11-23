@@ -1555,3 +1555,9 @@ kubejs/data/cbcmodernwarfare/createbigcannons/block_recipes/unbored_nethersteel_
 kubejs/data/cbcmodernwarfare/createbigcannons/block_recipes/unbored_steel_mediumcannon_barrel.json
 kubejs/data/cbcmodernwarfare/createbigcannons/block_recipes/unbored_steel_mediumcannon_breech.json
 kubejs/data/cbcmodernwarfare/createbigcannons/block_recipes/unbored_steel_mediumcannon_recoil_barrel.json
+mods/CreateAeroFreight-1.1.2.jar
+mods/aeroencasedpipe-1.0.8.jar
+mods/giantcogwheels-neoforge-mc1.21.1-0.2.0.jar
+mods/skyboundclientpatches-1.22.0.jar
+mods/skyboundpets-0.1.6.jar
+mods/spanishcantilevers-neoforge-0.3.1.jar
