@@ -1,0 +1,16 @@
+Added:
+- Create: Extra Copycats (new copycat blocks).
+
+Removed:
+- Create AeroFreight. Its blocks and items are gone from the world.
+- Spanish Cantilevers and Aero Encased Pipe. Their blocks and items are gone from the world.
+- Giant Cogwheels. Its blocks and items are gone from the world.
+
+Fixes:
+- Fixed singleplayer worlds kicking with "Invalid player data".
+- The Tiny Rider now moves with the bee instead of floating still.
+
+Changes:
+- Create performance mode (Sodium video settings, Skybound page) and the Create Tick Control Potato profile are now on by default. Applied once, you can change them afterwards.
+- Faster startup: Veil shader preparation uses more CPU threads and is cached between launches.
+- The launch window has a new "Potato performance mode" toggle.
