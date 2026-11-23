@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.71
+
+Added:
+- Create: Extra Copycats (new copycat blocks).
+
+Removed:
+- Create AeroFreight. Its blocks and items are gone from the world.
+- Spanish Cantilevers and Aero Encased Pipe. Their blocks and items are gone from the world.
+- Giant Cogwheels. Its blocks and items are gone from the world.
+
+Fixes:
+- Fixed singleplayer worlds kicking with "Invalid player data".
+- The Tiny Rider now moves with the bee instead of floating still.
+
+Changes:
+- Create performance mode (Sodium video settings, Skybound page) and the Create Tick Control Potato profile are now on by default. Applied once, you can change them afterwards.
+- Faster startup: Veil shader preparation uses more CPU threads and is cached between launches.
+- The launch window has a new "Potato performance mode" toggle.
+
+
 # Skybound SMP Season 2, v2.70
 
 Fixes:
@@ -276,19 +296,6 @@ Removed:
 - Sable Xaero Maps, ships are no longer drawn on the Xaero map.
 - Functional Sculptures (golem statues). Its blocks and items are gone from the world.
 - Memory cleanup after joining turned off.
-
-
-# Skybound SMP Season 2, v2.53
-
-Removed:
-- KeybindsGalore (radial keybind menu).
-- Oxide (cement and rusting blocks). Its blocks and items are gone from the world.
-
-
-# Skybound SMP Season 2, v2.52
-
-Fixed:
-- The game crashed on startup after the 2.51 update.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
