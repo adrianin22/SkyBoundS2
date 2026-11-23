@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.71
+
+Added:
+- Create: Extra Copycats (new copycat blocks).
+
+Removed:
+- Create AeroFreight. Its blocks and items are gone from the world.
+- Spanish Cantilevers and Aero Encased Pipe. Their blocks and items are gone from the world.
+- Giant Cogwheels. Its blocks and items are gone from the world.
+
+Fixes:
+- Fixed singleplayer worlds kicking with "Invalid player data".
+- The Tiny Rider now moves with the bee instead of floating still.
+
+Changes:
+- Create performance mode (Sodium video settings, Skybound page) and the Create Tick Control Potato profile are now on by default. Applied once, you can change them afterwards.
+- Faster startup: Veil shader preparation uses more CPU threads and is cached between launches.
+- The launch window has a new "Potato performance mode" toggle.
+
+
 # Skybound SMP Season 2, v2.70
 
 Fixes:
@@ -289,26 +309,6 @@ Removed:
 
 Fixed:
 - The game crashed on startup after the 2.51 update.
-
-
-# Skybound SMP Season 2, v2.51
-
-Added:
-- Optimized Block Entities (client, faster chests, signs and other block entities).
-- Sound Culling (client, fewer overlapping sounds near farms and machines).
-- KeybindsGalore (choose which action runs when two keybinds share a key).
-
-Removed:
-- Diagonal Fences and Diagonal Windows (lower RAM use and faster loading). Fences and panes already placed stay where they are.
-- Quark wooden posts (lower RAM use and faster loading).
-
-Changes:
-- Lower client memory use: bundled mods are loaded as separate files, and memory is freed a couple of minutes after joining.
-- Psi Add Motion, Mass Add Motion and Mass Exodus tricks are disabled.
-- The pack updater was improved.
-
-Fixed:
-- The Cogling pet no longer makes a constant gear ticking sound.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
