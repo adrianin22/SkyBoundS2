@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.72
+
+Added:
+- Fleet panel (/fleet or keybind): see your own ships and redstone links, their positions and status (Sable Watch).
+- Weighted Copycats: copycat blocks with a fixed ship weight from 8 to 350 kpg.
+- What's new screen after each update with the latest changes.
+- Skybound Settings button in Options, with the shared key menu and Potato mode toggles.
+- Shared key menu: when one key has 2 or more bindings, a radial menu lets you pick the action.
+- Server status on the title screen (players online, ping, click to join) and a new loading screen while joining.
+
+Removed:
+- Better Biome Blend (client), Sodium already handles biome blending.
+
+Changes:
+- Graphics are back to normal by default. Potato performance mode is now only applied when you turn it on in the launch window or in Options, Skybound. Everyone is reset to normal once with this update.
+- Potato mode now also caps render distance at 8, switches to Fast graphics, turns off mipmaps, clouds, entity shadows and biome blend, lowers particles and entity distance, and skips ticking entities you cannot see. Turning it off puts your previous settings back.
+- The world map keeps fewer regions in memory, which lowers RAM use.
+- /commands now lists /fleet.
+
+
 # Skybound SMP Season 2, v2.71
 
 Added:
@@ -296,19 +316,6 @@ Removed:
 - Sable Xaero Maps, ships are no longer drawn on the Xaero map.
 - Functional Sculptures (golem statues). Its blocks and items are gone from the world.
 - Memory cleanup after joining turned off.
-
-
-# Skybound SMP Season 2, v2.53
-
-Removed:
-- KeybindsGalore (radial keybind menu).
-- Oxide (cement and rusting blocks). Its blocks and items are gone from the world.
-
-
-# Skybound SMP Season 2, v2.52
-
-Fixed:
-- The game crashed on startup after the 2.51 update.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
