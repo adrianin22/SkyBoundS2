@@ -1,0 +1,73 @@
+name: Discord release post
+
+# Posts the changelog of a new pack version to Discord when pack/meta.json gains a version.
+# Manual run (Actions tab, Run workflow) reposts the current version.
+on:
+  push:
+    branches: [main]
+    paths: [pack/meta.json]
+  workflow_dispatch:
+
+concurrency:
+  group: discord-release
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Post changelog
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, subprocess, sys, time, urllib.request
+
+          def last(text):
+              v = json.loads(text).get("versions") or []
+              return v[-1]["id"] if v else None
+
+          new = last(open("pack/meta.json", encoding="utf-8").read())
+          try:
+              old = last(subprocess.run(["git", "show", "HEAD~1:pack/meta.json"],
+                                        capture_output=True, text=True, check=True).stdout)
+          except Exception:
+              old = None
+          if os.environ["EVENT"] == "push" and new == old:
+              print("meta.json changed but no new version, nothing to post")
+              sys.exit(0)
+
+          # changelog.md is committed before meta.json, but wait briefly in case it lags behind
+          log = ""
+          for _ in range(6):
+              subprocess.run(["git", "pull", "-q", "--ff-only"], check=False)
+              log = open("pack/changelog.md", encoding="utf-8").read()
+              if re.search(r"v%s\b" % re.escape(new), log.splitlines()[0] if log else ""):
+                  break
+              time.sleep(20)
+          else:
+              print("changelog.md is not for v%s, not posting" % new)
+              sys.exit(1)
+
+          lines = log.splitlines()
+          title = lines[0].lstrip("# ").strip()
+          hidden = re.compile(r"octo\s*arms|omni\s*display", re.I)
+          body = "\n".join(l for l in lines[1:] if not hidden.search(l)).strip()
+          url = "https://github.com/adrianin22/SkyBoundS2/blob/main/pack/changelog.md"
+          if len(body) > 3900:
+              body = body[:3900].rsplit("\n", 1)[0] + "\n\n[Full changelog](%s)" % url
+          body += "\n\nThe pack updates itself next time you start the game."
+          payload = {
+              "username": "Skybound SMP",
+              "allowed_mentions": {"parse": []},
+              "embeds": [{"title": title, "url": url, "description": body, "color": 0x5BA8FF}],
+          }
+          req = urllib.request.Request(os.environ["WEBHOOK"] + "?wait=true", data=json.dumps(payload).encode(),
+                                       headers={"Content-Type": "application/json", "User-Agent": "skybound-release"})
+          with urllib.request.urlopen(req) as r:
+              print("posted v%s, HTTP %d" % (new, r.status))
+          EOF
