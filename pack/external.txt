@@ -84,7 +84,6 @@ mods/baguettelib-1.21.1-NeoForge-2.0.7.jar	85738	3f4d8f7548a71a93ac60feefad0722d
 mods/balm-neoforge-1.21.1-21.0.67.jar	786010	68c95ca8a6a87d26199d43ff6978bc94949329e3	https://cdn.modrinth.com/data/MBAkmtvl/versions/gMedgtzL/balm-neoforge-1.21.1-21.0.67.jar
 mods/bathymetry-1.0.4+1.21.1+neoforge.jar	41886	322cac69a62d6ab092d0f3f82acf1397c6a13f78	https://cdn.modrinth.com/data/jn3yCCDl/versions/Yo2fTC7v/bathymetry-1.0.4%2B1.21.1%2Bneoforge.jar
 mods/beatlamp-neoforge-1.21.1-1.2.2.jar	555793	4232a04a2191ebf265371f4a8b7081f430a40358	https://cdn.modrinth.com/data/bAwlLfyK/versions/1SLKN6kl/beatlamp-neoforge-1.21.1-1.2.2.jar
-mods/betterbiomeblend-neoforge-1.21.1-1.4.1.jar	80512	8b182828d9014a85aef975ccd2f3929d029f5585	https://cdn.modrinth.com/data/Rs6c7WyL/versions/qmc1SklW/betterbiomeblend-neoforge-1.21.1-1.4.1.jar
 mods/betterblockz-0.2.10-1.21.1-neoforge.jar	7388885	c8a69cfd467c212b27a701a4169f9e358d4ce728	https://cdn.modrinth.com/data/oPU4euBQ/versions/7E52UnH3/betterblockz-0.2.10-1.21.1-neoforge.jar
 mods/bettercombat-neoforge-2.4.0+1.21.1.jar	1045389	bacbc8c86671663e9998b141c5732250c1f4d4fb	https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0%2B1.21.1.jar
 mods/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar	585998	0beeb796055f8abdebb9304fe26b655068a52a9c	https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar
@@ -156,6 +155,7 @@ mods/create_hammer_bid-1.2.0+mc1.21.1.jar	1001114	87dc9f888ae046d77afdc7e4d23561
 mods/create_hypertube-0.6.1-NEOFORGE.jar	551681	c62fb925810ab0b59488d0c43d35fc7301ffc51e	https://cdn.modrinth.com/data/ATDdrG1y/versions/j9cqY9tG/create_hypertube-0.6.1-NEOFORGE.jar
 mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar	421892	5146fc22a9385de8103b5ca0151f80dcd0f03978	https://cdn.modrinth.com/data/BBhCMftF/versions/JEmLrfe6/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar
 mods/create_lighting-1.21.1-1.1.0.jar	702831	4050defe02d88de09858bc8d75475ecf1739d7aa	https://edge.forgecdn.net/files/9730/433/create_lighting-1.21.1-1.1.0.jar
+mods/create_marketplace-0.5.2.jar	980999	b07bf3d03559e7b925a2dfba3d43d674d359df4c	https://cdn.modrinth.com/data/O7RTXyyq/versions/7HQSeSmx/create_marketplace-0.5.2.jar
 mods/create_mobile_packages-1.21.1-0.7.8.jar	623172	1e5238c8764bcfc3c0af29c3ff5b4533a18364c7	https://cdn.modrinth.com/data/1vXRfEHZ/versions/xSPt2JXH/create_mobile_packages-1.21.1-0.7.8.jar
 mods/create_oxidized-0.1.3.jar	121297	fe93a9575174b4993cf3fb5f2aed4dd4431096ee	https://cdn.modrinth.com/data/X9kjRZeX/versions/z8PFRVBs/create_oxidized-0.1.3.jar
 mods/create_pattern_schematics-2.0.10.jar	221764	e3dea574c3b3d590444796a42e8f7456280b1063	https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar
@@ -396,7 +396,6 @@ mods/tracks_plus-1.0.6b7.jar	613537	a1df1c19211ce8288e241dc8c3f9167694b20a8f	htt
 mods/tracks_plus_fix-2.6.jar	56378	fc7658168ce31ad22a4c15bdab3a32e67263ab65	https://edge.forgecdn.net/files/9222/611/tracks_plus_fix-2.6.jar
 mods/trafficcraft-neoforge-1.21.1-beta-1.2.0+4.jar	4854261	ca030ff65d70aa66ea9e35f3dade9100a776e6c6	https://cdn.modrinth.com/data/Y1PXWvWn/versions/ddJimXLT/trafficcraft-neoforge-1.21.1-beta-1.2.0%2B4.jar
 mods/trimmed-neo-1.21-3.0.0.jar	281114	c1ee534f00f4ee476e868f4db4dea99c7d41570d	https://cdn.modrinth.com/data/q8k4zHw5/versions/wqxXFq0d/trimmed-neo-1.21-3.0.0.jar
-mods/tt20-0.9.3+mc1.21.1-neoforge.jar	687059	c1dbee10466583d2e80e5c8a81980cff5ef87b76	https://cdn.modrinth.com/data/YS3ZignI/versions/q4DI94ya/tt20-0.9.3%2Bmc1.21.1-neoforge.jar
 mods/txnilib-neoforge-1.0.24-1.21.1.jar	6276522	17b1bbb96e922e683a1807a2e7bece603fdc491d	https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar
 mods/vanillin-neoforge-1.21.1-1.1.3.jar	870344	fae8bb9f13cd9d086949b9aca85956bb6fa47f56	https://cdn.modrinth.com/data/6qTrsXCy/versions/Qn76dRvj/vanillin-neoforge-1.21.1-1.1.3.jar
 mods/veil-neoforge-1.21.1-4.5.2.jar	3402614	b9994fd16bac1f78633e17b69ea04b76c0f2654f	https://cdn.modrinth.com/data/3KUWeVhG/versions/IpGnlNgK/veil-neoforge-1.21.1-4.5.2.jar
