@@ -1,3 +1,23 @@
+# Skybound SMP Season 2, v2.72
+
+Added:
+- Fleet panel (/fleet or keybind): see your own ships and redstone links, their positions and status (Sable Watch).
+- Weighted Copycats: copycat blocks with a fixed ship weight from 8 to 350 kpg.
+- What's new screen after each update with the latest changes.
+- Skybound Settings button in Options, with the shared key menu and Potato mode toggles.
+- Shared key menu: when one key has 2 or more bindings, a radial menu lets you pick the action.
+- Server status on the title screen (players online, ping, click to join) and a new loading screen while joining.
+
+Removed:
+- Better Biome Blend (client), Sodium already handles biome blending.
+
+Changes:
+- Graphics are back to normal by default. Potato performance mode is now only applied when you turn it on in the launch window or in Options, Skybound. Everyone is reset to normal once with this update.
+- Potato mode now also caps render distance at 8, switches to Fast graphics, turns off mipmaps, clouds, entity shadows and biome blend, lowers particles and entity distance, and skips ticking entities you cannot see. Turning it off puts your previous settings back.
+- The world map keeps fewer regions in memory, which lowers RAM use.
+- /commands now lists /fleet.
+
+
 # Skybound SMP Season 2, v2.71
 
 Added:
@@ -243,59 +263,6 @@ Fixes:
 - Voltworks and Power Grid solar panels had the same recipe, the Voltworks one now starts with rose quartz.
 - LittleTiles and CreativeCore missing or duplicated for some players. The updater now removes extra copies of pack mods (for example newer versions added by a launcher mod update) and restores the right ones.
 - NeoForge version now really changes to 21.1.259, also for instances that ended up on a newer NeoForge. When the updater changes it, the launch stops with a message: close Prism Launcher completely, open it again and press Play.
-
-
-# Skybound SMP Season 2, v2.56
-
-Added:
-- Create: Chromeware 1.2.0 (Blood Update) with Hemodynamics: cyberware implants for Create. Sandevistan and the System Collapse, Suicide and Blackwall Gateway quickhacks are disabled.
-- Beat Lamp: music reactive lamps, lasers and fog.
-- Stackable Armor Trims: stack several trims on one armor piece.
-- Olaf's Relatively Placed Blocks: place blocks relative to the one you look at.
-- Style & Threads and MClothes: new clothing and cosmetics.
-- Weavers Paradise: spin thread, weave fabric and dye your own clothing. Its enchantments and clothing abilities are turned off.
-- Pocket Malahit Tablet: a pocket tablet for ComputerCraft.
-- Immersive Computing with LittleTiles: build ComputerCraft computers out of small tiles.
-- ItemSmith (staff tool for event rewards).
-- Doppler: sounds change pitch with relative speed (client).
-- Chat translation: messages from other players in another language are translated in place, hover to see the original.
-- Asphalt slabs, train pavers lay them on slopes and curves when held in the offhand.
-
-Removed:
-- Train Utilities. Its platform, line and glass blocks are now part of Skybound Extras.
-
-Fixes:
-- Fixed moving and removing Screen Modules with the wrench (DashPanels Extra).
-- Better FPS next to tracked vehicles and tanks.
-- Contraptions on minecarts and gantries no longer render while hidden behind walls. Elevators and trains stay always visible.
-
-Changes:
-- Pets: third skill slot for final forms, 12 new skills and 8 pet effects, rebalanced abilities, new sounds, effects and menu, more idle behaviour, diet shown in the Care tab.
-- Lower Create particle and belt item render distances, less lag near big bases.
-- NeoForge updated to 21.1.259. The launcher updates it on the next launch; if the game crashes once, launch it again.
-
-
-# Skybound SMP Season 2, v2.55
-
-Fixes:
-- Fixed a crash on startup when your network blocks Microsoft's text to speech service (Create: Tramways). The game now starts normally; train announcements only speak when that service is reachable.
-- Fixed a client freeze near large Create builds (Create FPS Optimizer).
-- The updater no longer downloads the same config files again on every launch.
-
-
-# Skybound SMP Season 2, v2.54
-
-Better FPS:
-- Better FPS near large Create builds: Create block entities far away are no longer rendered in full (Create FPS Optimizer).
-- Better FPS near vehicles with wheels.
-- Block models load on demand, lower memory use.
-- Enchanted Create machines no longer shimmer.
-
-Removed:
-- Optimized Block Entities.
-- Sable Xaero Maps, ships are no longer drawn on the Xaero map.
-- Functional Sculptures (golem statues). Its blocks and items are gone from the world.
-- Memory cleanup after joining turned off.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
