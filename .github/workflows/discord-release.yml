@@ -55,6 +55,11 @@ jobs:
 
           lines = log.splitlines()
           title = lines[0].lstrip("# ").strip()
+          # changelog.md is cumulative: keep only the newest version, up to the next "# " header
+          for i, l in enumerate(lines[1:], 1):
+              if l.startswith("# "):
+                  lines = lines[:i]
+                  break
           hidden = re.compile(r"octo\s*arms|omni\s*display", re.I)
           body = "\n".join(l for l in lines[1:] if not hidden.search(l)).strip()
           url = "https://github.com/adrianin22/SkyBoundS2/blob/main/pack/changelog.md"
