@@ -1,3 +1,27 @@
+# Skybound SMP Season 2, v2.73
+
+Added:
+- Wide & Narrow Gauge Bogeys (new train bogey sizes for Create trains).
+- Bank Services: player transfers (1% fee), transaction history, team account, weekly orders and loans.
+- Star Archive astrolabe: 300 achievements across 6 constellations that pay spurs.
+- Pet Corral: penned pets give area buffs. Crafted in the mechanical crafter with andesite alloy, logs and hay.
+- Global contracts now have a per team daily cap, so every team gets a share.
+
+Removed:
+- 5 unused libraries (CodeChickenLib, SmartBrainLib, AzureLib, Cristel Lib, MaFgLib).
+
+Better performance:
+- Much faster game start, roughly half the loading time before the title screen.
+- Lower RAM use while loading resources (client).
+- The updater now sets tuned garbage collector flags, unless you already picked a different GC.
+
+Changes:
+- Create Big Cannons: Going Ballistic updated to 0.3.3, more realistic ballistics.
+- Pets reworked: Bee castes, riding and Mega Plush; Mothling, Cogling and Wispkin rebalanced.
+- Immersive Furniture updated to 0.5.0.
+- Title screen cleaned up.
+
+
 # Skybound SMP Season 2, v2.72
 
 Added:
