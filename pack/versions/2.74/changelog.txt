@@ -1,0 +1,6 @@
+Removed:
+- Distant Horizons is no longer part of the pack (the server stopped sending LODs); if you still have it, deleting it from your mods folder gives a lot of FPS and RAM back.
+
+Better performance:
+- Smoother FPS: the garbage collector settings were retuned, far fewer full freezes while flying or near big factories.
+- Memory is now set automatically from your PC's RAM, unless you changed it yourself.
