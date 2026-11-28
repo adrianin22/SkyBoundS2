@@ -1,3 +1,37 @@
+# Skybound SMP Season 2, v2.74
+
+Removed:
+- Distant Horizons is no longer part of the pack (the server stopped sending LODs); if you still have it, deleting it from your mods folder gives a lot of FPS and RAM back.
+
+Better performance:
+- Smoother FPS: the garbage collector settings were retuned, far fewer full freezes while flying or near big factories.
+- Memory is now set automatically from your PC's RAM, unless you changed it yourself.
+
+
+# Skybound SMP Season 2, v2.73
+
+Added:
+- Wide & Narrow Gauge Bogeys (new train bogey sizes for Create trains).
+- Bank Services: player transfers (1% fee), transaction history, team account, weekly orders and loans.
+- Star Archive astrolabe: 300 achievements across 6 constellations that pay spurs.
+- Pet Corral: penned pets give area buffs. Crafted in the mechanical crafter with andesite alloy, logs and hay.
+- Global contracts now have a per team daily cap, so every team gets a share.
+
+Removed:
+- 5 unused libraries (CodeChickenLib, SmartBrainLib, AzureLib, Cristel Lib, MaFgLib).
+
+Better performance:
+- Much faster game start, roughly half the loading time before the title screen.
+- Lower RAM use while loading resources (client).
+- The updater now sets tuned garbage collector flags, unless you already picked a different GC.
+
+Changes:
+- Create Big Cannons: Going Ballistic updated to 0.3.3, more realistic ballistics.
+- Pets reworked: Bee castes, riding and Mega Plush; Mothling, Cogling and Wispkin rebalanced.
+- Immersive Furniture updated to 0.5.0.
+- Title screen cleaned up.
+
+
 # Skybound SMP Season 2, v2.72
 
 Added:
@@ -263,59 +297,6 @@ Fixes:
 - Voltworks and Power Grid solar panels had the same recipe, the Voltworks one now starts with rose quartz.
 - LittleTiles and CreativeCore missing or duplicated for some players. The updater now removes extra copies of pack mods (for example newer versions added by a launcher mod update) and restores the right ones.
 - NeoForge version now really changes to 21.1.259, also for instances that ended up on a newer NeoForge. When the updater changes it, the launch stops with a message: close Prism Launcher completely, open it again and press Play.
-
-
-# Skybound SMP Season 2, v2.56
-
-Added:
-- Create: Chromeware 1.2.0 (Blood Update) with Hemodynamics: cyberware implants for Create. Sandevistan and the System Collapse, Suicide and Blackwall Gateway quickhacks are disabled.
-- Beat Lamp: music reactive lamps, lasers and fog.
-- Stackable Armor Trims: stack several trims on one armor piece.
-- Olaf's Relatively Placed Blocks: place blocks relative to the one you look at.
-- Style & Threads and MClothes: new clothing and cosmetics.
-- Weavers Paradise: spin thread, weave fabric and dye your own clothing. Its enchantments and clothing abilities are turned off.
-- Pocket Malahit Tablet: a pocket tablet for ComputerCraft.
-- Immersive Computing with LittleTiles: build ComputerCraft computers out of small tiles.
-- ItemSmith (staff tool for event rewards).
-- Doppler: sounds change pitch with relative speed (client).
-- Chat translation: messages from other players in another language are translated in place, hover to see the original.
-- Asphalt slabs, train pavers lay them on slopes and curves when held in the offhand.
-
-Removed:
-- Train Utilities. Its platform, line and glass blocks are now part of Skybound Extras.
-
-Fixes:
-- Fixed moving and removing Screen Modules with the wrench (DashPanels Extra).
-- Better FPS next to tracked vehicles and tanks.
-- Contraptions on minecarts and gantries no longer render while hidden behind walls. Elevators and trains stay always visible.
-
-Changes:
-- Pets: third skill slot for final forms, 12 new skills and 8 pet effects, rebalanced abilities, new sounds, effects and menu, more idle behaviour, diet shown in the Care tab.
-- Lower Create particle and belt item render distances, less lag near big bases.
-- NeoForge updated to 21.1.259. The launcher updates it on the next launch; if the game crashes once, launch it again.
-
-
-# Skybound SMP Season 2, v2.55
-
-Fixes:
-- Fixed a crash on startup when your network blocks Microsoft's text to speech service (Create: Tramways). The game now starts normally; train announcements only speak when that service is reachable.
-- Fixed a client freeze near large Create builds (Create FPS Optimizer).
-- The updater no longer downloads the same config files again on every launch.
-
-
-# Skybound SMP Season 2, v2.54
-
-Better FPS:
-- Better FPS near large Create builds: Create block entities far away are no longer rendered in full (Create FPS Optimizer).
-- Better FPS near vehicles with wheels.
-- Block models load on demand, lower memory use.
-- Enchanted Create machines no longer shimmer.
-
-Removed:
-- Optimized Block Entities.
-- Sable Xaero Maps, ships are no longer drawn on the Xaero map.
-- Functional Sculptures (golem statues). Its blocks and items are gone from the world.
-- Memory cleanup after joining turned off.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
