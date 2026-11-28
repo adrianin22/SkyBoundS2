@@ -1,3 +1,13 @@
+# Skybound SMP Season 2, v2.74
+
+Removed:
+- Distant Horizons is no longer part of the pack (the server stopped sending LODs); if you still have it, deleting it from your mods folder gives a lot of FPS and RAM back.
+
+Better performance:
+- Smoother FPS: the garbage collector settings were retuned, far fewer full freezes while flying or near big factories.
+- Memory is now set automatically from your PC's RAM, unless you changed it yourself.
+
+
 # Skybound SMP Season 2, v2.73
 
 Added:
@@ -276,17 +286,6 @@ Fixes:
 - Sounds that stopped playing or disappeared after a while (Doppler).
 - Chat translate: pressing the up arrow in chat no longer selects the translate button, and messages from other players are now actually translated.
 - A LittleTiles crash on the client.
-
-
-# Skybound SMP Season 2, v2.57
-
-Changes:
-- Chromeware: every cyberware, implant, syringe, immunosuppressant and the surgery chair now need a Create production chain. New components: Neural Chip, Synaptic Processor and Military Neural Core, each made by sequenced assembly. Higher tier implants need higher tier chips. Check JEI for the new recipes.
-
-Fixes:
-- Voltworks and Power Grid solar panels had the same recipe, the Voltworks one now starts with rose quartz.
-- LittleTiles and CreativeCore missing or duplicated for some players. The updater now removes extra copies of pack mods (for example newer versions added by a launcher mod update) and restores the right ones.
-- NeoForge version now really changes to 21.1.259, also for instances that ended up on a newer NeoForge. When the updater changes it, the launch stops with a message: close Prism Launcher completely, open it again and press Play.
 
 ---
 Older versions: see changelog_archive.md in the pack repo.
