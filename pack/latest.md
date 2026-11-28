@@ -1,2 +1,2 @@
-Skybound SMP Season 2, v2.73
-Faster start, lower RAM, new bogeys, bank services and pet corral.
+Skybound SMP Season 2, v2.74
+Smoother FPS, fewer freezes and automatic memory setup.
